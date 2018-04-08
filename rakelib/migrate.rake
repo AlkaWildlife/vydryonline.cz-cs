@@ -550,8 +550,13 @@ namespace "migrate" do
 
         entries.each do |e|
           d = entry_to_document e, col
-          File.write document_filename(d, e, col),
-                     dump_document(d, col)
+          begin
+            File.write document_filename(d, e, col),
+                       dump_document(d, col)
+          rescue Errno::ENAMETOOLONG
+            File.write "#{col['folder']}/#{e._id}.md",
+                       dump_document(d, col)
+          end
         end
 
         page = entries._next_page
