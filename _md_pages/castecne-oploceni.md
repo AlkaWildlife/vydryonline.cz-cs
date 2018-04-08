@@ -2,7 +2,7 @@
 title: Částečné oplocení
 listed: true
 position: 5
-layout: withrightcolumn
+layout: two_columns_page
 image: "/uploads/IMG_0366_610.JPG"
 ---
 V zimě mají vydry kvůli ledu ztížený přístup do rybníků a toho je k

@@ -2,10 +2,8 @@
 title: A1 Vliv dopravy
 listed: true
 position: 0
-editable_elements:
-  Page/Title: A1 Minimalizace vlivu dopravy
-  Right column/Title: Dále ke čtení
-layout: withrightcolumn
+long_title: A1 Minimalizace vlivu dopravy
+layout: two_columns_page
 image: "/uploads/072_610.JPG"
 ---
 #### Náplň opatření

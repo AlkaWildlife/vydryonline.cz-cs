@@ -2,10 +2,9 @@
 title: Bulletin Vydra 17
 listed: true
 position: 0
-editable_elements:
-  Page/Title: Bulletin vydra 17
-  Right column/Title: další čísla
-layout: withrightcolumn
+long_title: Bulletin vydra 17
+aside_title: Další čísla
+layout: two_columns_page
 image: "/uploads/cover_610.JPG"
 ---
 <div>

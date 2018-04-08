@@ -2,10 +2,8 @@
 title: A7 Správci silnic
 listed: true
 position: 6
-editable_elements:
-  Page/Title: A7 schůzky se správci silnic
-  Right column/Title: Dále ke čtení
-layout: withrightcolumn
+long_title: A7 schůzky se správci silnic
+layout: two_columns_page
 ---
 #### Náplň opatření:   
 

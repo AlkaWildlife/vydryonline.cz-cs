@@ -3,9 +3,8 @@ title: Je nutné mít rybník oplocený, aby bylo možné žádat o náhradu šk
   vydrou?
 author: katerina-polednikova
 date: 2016-02-28
-categories:
-- TODO Fix
-- category: skody
+tags:
+- škody
 ---
 **Ne.** Plot není podmínkou pro nárok na náhradu škod dle Zákona
 115/2000 Sb, které vznikly na rybách chovaných v **rybníce**.   

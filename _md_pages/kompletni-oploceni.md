@@ -2,7 +2,7 @@
 title: Kompletní oplocení
 listed: true
 position: 4
-layout: withrightcolumn
+layout: two_columns_page
 image: "/uploads/IMG_0157_610.JPG"
 ---
 Další možností vhodnou v případě sádek, menších rybníků v intravilánu

@@ -2,10 +2,8 @@
 title: Publicita
 listed: true
 position: 9
-editable_elements:
-  Page/Title: Publicita projektu
-  Right column/Title: Dále ke čtení
-layout: withrightcolumn
+long_title: Publicita projektu
+layout: two_columns_page
 image: "/uploads/zaber_printscreen_610.jpg"
 ---
 #### Tiskové konference a tisková zpráva 

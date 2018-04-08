@@ -2,7 +2,7 @@
 title: Instrukce pro autory
 listed: true
 position: 3
-layout: withoutrightcolumn
+layout: single_column_page
 ---
 #### **Bulletin Vydra**
 

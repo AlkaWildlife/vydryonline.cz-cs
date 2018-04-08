@@ -2,10 +2,8 @@
 title: A2 Odhad početnosti
 listed: true
 position: 1
-editable_elements:
-  Page/Title: A2 odhad početnosti vyder
-  Right column/Title: Dále ke čtení
-layout: withrightcolumn
+long_title: A2 odhad početnosti vyder
+layout: two_columns_page
 image: "/uploads/IMG_0393_600.JPG"
 ---
 #### Náplň opatření:   

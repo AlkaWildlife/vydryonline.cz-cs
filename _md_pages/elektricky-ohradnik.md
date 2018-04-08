@@ -2,7 +2,7 @@
 title: Elektrický ohradník
 listed: true
 position: 1
-layout: withrightcolumn
+layout: two_columns_page
 image: "/uploads/IMG_0333_610.JPG"
 ---
 Elektrické ohradníky jsou velmi účinným opatřením, avšak je potřeba

@@ -2,7 +2,7 @@
 title: O vydře
 listed: true
 position: 2
-layout: withoutrightcolumn
+layout: single_column_page
 image: "/uploads/Vydra-ricni-948a_610.jpg"
 ---
 Vydra říční (*Lutra lutra*, Linné 1758), lasicovitá šelma, královna

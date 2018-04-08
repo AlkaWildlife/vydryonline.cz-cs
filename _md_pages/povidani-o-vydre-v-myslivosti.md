@@ -2,9 +2,8 @@
 title: Povídání o vydře v Myslivosti
 listed: true
 position: 6
-editable_elements:
-  Page/Title: Povídání o vydře v časopise Myslivost
-layout: withrightcolumn
+long_title: Povídání o vydře v časopise Myslivost
+layout: two_columns_page
 image: "/uploads/P7010003_610.jpg"
 ---
 Seriál Povídání o vydře a norkovi vycházel v časopise Myslivost v letech

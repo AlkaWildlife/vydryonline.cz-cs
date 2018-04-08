@@ -2,14 +2,12 @@
 title: Pravidla pro úpravu rizikových míst
 listed: true
 position: 2
-editable_elements:
-  Page/Title: Obecná pravidla pro úpravu rizikových míst
-  Right column/Links: |+
-    #### Mapa rizikových míst
+long_title: Obecná pravidla pro úpravu rizikových míst
+aside_links: |
+  #### Mapa rizikových míst
 
-    ![](/uploads/banner_silnice_small.jpg)
-
-layout: withrightcolumn
+  ![](/uploads/banner_silnice_small.jpg)
+layout: two_columns_page
 image: "/uploads/vydra_v_trubce_610.jpg"
 ---
 Místa, kde se vydry dostávají na silnici a mohou se setkat s

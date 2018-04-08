@@ -1,26 +1,53 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+title: Vydří stezky
+description: >-
+  Aktuální a komplexní informace o vydře říční a projektu Realizace
+  vybraných opatření pro vydru říční v České republice.
+baseurl: ""
+url: https://www.vydryonline.cz
+author: alka-wildlife
+
+# Integrations and machine-readable metadata
+facebook:
+  app_id: 145375228868712
+  publisher: 269120446533000
+  admins: 1133305906
+logo: "/uploads/vydry_online_green.png"
+social:
+  name: ALKA Wildlife, o.p.s.
+  links:
+    - https://www.facebook.com/AlkaWildlife
+webmaster_verifications:
+  google: o27dsTgYww0bzXVmTZ_CgadoY8QtzpDMgo-bVSgH3OM
+lang: cs-CZ
+google_analytics: UA-57533252-3
+
+# Collection settings
+collections:
+  md_pages:
+    output: true
+  galleries: {}
+  posts:
+    output: true
+    permalink: "/news/:title"
+  showcases: {}
+  user_answers:
+    output: true
+    permalink: "/user-answers/:title"
+  filterable_tags: {}
+  photos: {}
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: user_answer
 
 # Build settings
 markdown: kramdown

@@ -2,9 +2,8 @@
 title: Jak ekologicky ulovit vydru na toku z důvodu neudržitelných škod na rybách?
 author: lukas-polednik
 date: 2016-04-24
-categories:
-- TODO Fix
-- category: skody
+tags:
+- škody
 ---
 
 

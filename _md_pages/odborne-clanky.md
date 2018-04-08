@@ -2,7 +2,7 @@
 title: Publikace o vydře
 listed: true
 position: 1
-layout: withrightcolumn
+layout: two_columns_page
 ---
 Publikace jsou seřazeny dle účelu a časově.
 

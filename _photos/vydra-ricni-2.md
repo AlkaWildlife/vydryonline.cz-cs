@@ -2,9 +2,8 @@
 title: vydra říční
 image: "/uploads/vydra_a_mlade.JPG"
 author: alka-wildlife-ops
-categories:
-- TODO Fix
-- category: vydra
+tags:
+- vydra
 position: 17
 date: 2016-04-08 18:40:47.000000000 Z
 ---

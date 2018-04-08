@@ -2,9 +2,8 @@
 title: Prostředí
 listed: true
 position: 2
-editable_elements:
-  Page/Title: Prostředí vydry říční
-layout: withrightcolumn
+long_title: Prostředí vydry říční
+layout: two_columns_page
 image: "/uploads/IMG_9122_610.JPG"
 ---
 Vydra je tzv. semi-akvatický živočich, což znamená, že využívá, a je

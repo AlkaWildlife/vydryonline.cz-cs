@@ -2,9 +2,8 @@
 title: Projekt Lutra lutra
 listed: true
 position: 1
-editable_elements:
-  Right column/Title: Další projekty
-layout: withrightcolumn
+aside_title: Další projekty
+layout: two_columns_page
 ---
 ####  **Trvání:** 10/2017 – 9/2020
 

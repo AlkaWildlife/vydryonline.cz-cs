@@ -2,7 +2,7 @@
 title: Snížení násady
 listed: true
 position: 2
-layout: withrightcolumn
+layout: two_columns_page
 ---
 Důležitým preventivním opatřením je nepřerybňovat. K neúměrnému
 nasazování ryb dochází zejména v zimním období. Pokud je rybník naplněn

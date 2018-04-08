@@ -2,10 +2,8 @@
 title: A8 Řešení konfliktu
 listed: true
 position: 7
-editable_elements:
-  Page/Title: A8 Návrh optimalizace řešení střetu rybářství a vydry
-  Right column/Title: Dále ke čtení
-layout: withrightcolumn
+long_title: A8 Návrh optimalizace řešení střetu rybářství a vydry
+layout: two_columns_page
 image: "/uploads/IMG_0386_610.JPG"
 ---
 #### Náplň opatření:

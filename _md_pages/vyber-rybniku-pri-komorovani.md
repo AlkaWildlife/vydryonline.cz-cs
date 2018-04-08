@@ -2,9 +2,8 @@
 title: Výběr rybníků při komorování
 listed: true
 position: 7
-editable_elements:
-  Page/Title: Výběr rybníků pro komorování
-layout: withrightcolumn
+long_title: Výběr rybníků pro komorování
+layout: two_columns_page
 ---
 V případě, že vlastníte více rybníků, je poměrně dobře účinným opatřením
 nenasazovat pro zimní období ryby do rybníků, kde často dochází k velkým

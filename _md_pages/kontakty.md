@@ -2,19 +2,18 @@
 title: Kontakty
 listed: true
 position: 1
-editable_elements:
-  Right column/Links: |
-    [![](/uploads/ALKA_logo.jpg)][1]{: rel="nofollow" target="_blank"}
+aside_links: |
+  [![](/uploads/ALKA_logo.jpg)][1]{: rel="nofollow" target="_blank"}
 
 
 
-    [![](/uploads/alka-fb.png)][2]{: rel="nofollow"}
+  [![](/uploads/alka-fb.png)][2]{: rel="nofollow"}
 
 
 
-    [1]: http://www.alkawildlife.eu "ALKA Wildlife web"
-    [2]: https://www.facebook.com/AlkaWildlife "ALKA Wildlife facebook"
-layout: withrightcolumn
+  [1]: http://www.alkawildlife.eu "ALKA Wildlife web"
+  [2]: https://www.facebook.com/AlkaWildlife "ALKA Wildlife facebook"
+layout: two_columns_page
 ---
 #### Provozovatel stránek:
 

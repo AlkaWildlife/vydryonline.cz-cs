@@ -2,10 +2,8 @@
 title: Program péče
 listed: true
 position: 7
-editable_elements:
-  Page/Title: Program péče pro vydru říční (*Lutra lutra*) v České republice v letech
-    2009 - 2018
-layout: withrightcolumn
+long_title: Program péče pro vydru říční (*Lutra lutra*) v České republice v letech 2009 - 2018
+layout: two_columns_page
 image: "/uploads/vydra4B_610.jpg"
 ---
 Program péče pro vydru říční v ČR je rámcovým materiálem, jehož smyslem

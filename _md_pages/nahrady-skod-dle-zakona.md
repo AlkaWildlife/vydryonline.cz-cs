@@ -2,9 +2,8 @@
 title: Náhrady škod dle zákona
 listed: true
 position: 1
-editable_elements:
-  Page/Title: Náhrady škod dle Zákona 115/2000
-layout: withrightcolumn
+long_title: Náhrady škod dle Zákona 115/2000
+layout: two_columns_page
 ---
 V roce 2000 byl v České republice uveden do platnosti zákon č. 115/2000
 Sb., o poskytování náhrad škod způsobených vybranými zvláště chráněnými

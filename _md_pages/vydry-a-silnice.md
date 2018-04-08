@@ -2,7 +2,7 @@
 title: Vydry a silnice
 listed: true
 position: 0
-layout: withoutrightcolumn
+layout: single_column_page
 image: "/uploads/P5310050-l.JPG"
 ---
 Jedním z hlavních faktorů prostředí, které výrazně ovlivňují vydry je

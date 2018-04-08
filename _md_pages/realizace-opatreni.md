@@ -2,9 +2,8 @@
 title: Realizace opatření ZP
 listed: true
 position: 0
-editable_elements:
-  Page/Title: Realizace vybraných opatření PP
-layout: withoutrightcolumn
+long_title: Realizace vybraných opatření PP
+layout: single_column_page
 image: "/uploads/Projektove_foto_610.jpg"
 ---
 **Realizace vybraných opatření pro vydru říční v České republice**. 

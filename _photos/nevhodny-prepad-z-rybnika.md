@@ -2,9 +2,8 @@
 title: Nevhodný přepad z rybníka
 image: "/uploads/DSCN1400_1000.JPG"
 author: lukas-polednik
-categories:
-- TODO Fix
-- category: rizikove-misto
+tags:
+- rizikové místo
 position: 36
 date: 2016-05-02 13:28:31.000000000 Z
 ---

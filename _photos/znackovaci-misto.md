@@ -2,10 +2,9 @@
 title: značkovací místo
 image: "/uploads/IMG_6425.JPG"
 author: katerina-polednikova
-categories:
-- TODO Fix
-- category: pobytove-znaky
-- category: vydra
+tags:
+- pobytové znaky
+- vydra
 position: 20
 date: 2016-04-30 12:10:22.000000000 Z
 ---

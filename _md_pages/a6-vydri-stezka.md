@@ -2,9 +2,7 @@
 title: A6 Vydří stezka
 listed: true
 position: 5
-editable_elements:
-  Right column/Title: Dále ke čtení
-layout: withrightcolumn
+layout: two_columns_page
 image: "/uploads/DSCN1353_610.JPG"
 ---
 ####  Náplň opatření:

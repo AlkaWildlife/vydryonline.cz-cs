@@ -2,9 +2,8 @@
 title: Areál výskytu
 listed: true
 position: 1
-editable_elements:
-  Page/Title: Areál výskytu vydry říční
-layout: withrightcolumn
+long_title: Areál výskytu vydry říční
+layout: two_columns_page
 ---
 Areál druhu je značně rozsáhlý, pokrývá většinu palearktické a
 indomalajské oblasti. Zahrnuje většinu území Evropy s výjimkou Islandu a

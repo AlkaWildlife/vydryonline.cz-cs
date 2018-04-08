@@ -2,10 +2,8 @@
 title: A9 preventivní nástroje
 listed: true
 position: 8
-editable_elements:
-  Page/Title: A9 testování nástroje snižující škody na rybách
-  Right column/Title: Dále ke čtení
-layout: withrightcolumn
+long_title: A9 testování nástroje snižující škody na rybách
+layout: two_columns_page
 image: "/uploads/IMG_6014_610.JPG"
 ---
 ####  Náplň opatření:

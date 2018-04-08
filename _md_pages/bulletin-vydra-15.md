@@ -2,9 +2,8 @@
 title: Bulletin Vydra 15
 listed: true
 position: 2
-editable_elements:
-  Page/Title: Bulletin Vydra 15/2012
-layout: withrightcolumn
+long_title: Bulletin Vydra 15/2012
+layout: two_columns_page
 image: "/uploads/bulletin_vydra_15.jpg"
 ---
 **Bulletin Vydra 15/2012  

@@ -1,0 +1,88 @@
+---
+layout: default
+---
+<div id="content-row">
+  <div class="row-container">
+    <div class="container-fluid">
+      {% include breadcrumb.html %}
+      <div class="content-inner row-fluid">
+        <!-- Left sidebar -->
+        <div id="component" class="span8">
+
+          <div class="page-blog page-blog__">
+            <div class="page_header">
+              <h3>
+                {% assign url_parts = page.url | split: "/" %}
+                {% if url_parts > 2 %}
+                  {% assign cardinatlity = 'many' %}
+                {% else %}
+                  {% assign cardinatlity = 'one' %}
+                {% endif %}
+                <span class="item_title_part0">{{ site.data.user_answers.title[cardinatlity] }}</span>
+              </h3>
+            </div>
+            {{ content }}
+          </div>
+        </div>
+        <!-- Right sidebar -->
+        <div id="aside-right" class="span4">
+          <aside>
+            <div class="moduletable ">
+              <h3 class="moduleTitle ">{{ site.data.user_answers.filter.by_tag }}</h3>
+              <ul class="categories-module">
+                {% if params.category %}
+                  <li>
+                    <p>
+                      <a href="{{ "/user_answers" | relative_url }}">Zobrazit vše</a>
+                      <br/>
+                    </p>
+                  </li>
+                {% endif %}
+
+                {% for category in contents.categories %}
+                  {% if category.user_answers.any? %}
+                    <li>
+                      <a href="{{ "/user_answers" | relative_url }}?category={{ category._slug }}">
+                        {{ category.name }}
+                      </a>
+                    </li>
+                  {% endif %}
+                {% endfor %}
+              </ul>
+            </div>
+            <div class="moduletable ">
+              <h3 class="moduleTitle ">{{ site.data.user_answers.filter.by_date }}</h3>
+
+              <ul class="archive-module">
+                {% if params.from or params.to %}
+                  <li>
+                    <p>
+                      <a href="{{ "/user_answers" | relative_url }}">Zobrazit vše</a>
+                      <br/>
+                    </p>
+                  </li>
+                {% endif %}
+
+                {% assign previous_date = contents.user_answers.first.published_at | plus: 2678400 | date: '%Y/%m' %}
+
+                {% for answer in contents.user_answers %}
+                  {% assign from = answer.published_at | date: "%Y/%m" %}
+
+                  {% if from != previous_date %}
+                    <li>
+                      <a href="{{ "/user_answers" | relative_url }}?from={{ from }}&to={{ previous_date }}">{{ answer.published_at | date: "%-m/%Y" }}</a>
+                    </li>
+                    {% assign previous_date = answer.published_at | date: "%Y/%m" %}
+                  {% endif %}
+                {% endfor %}
+              </ul>
+            </div>
+            <div class="moduletable aside">
+              {% include question_form.html %}
+            </div>
+          </aside>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

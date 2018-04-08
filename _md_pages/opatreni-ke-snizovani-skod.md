@@ -2,9 +2,8 @@
 title: Opatření ke snižování škod
 listed: true
 position: 0
-editable_elements:
-  Page/Title: Preventivní opatření snižující škody na rybách
-layout: withrightcolumn
+long_title: Preventivní opatření snižující škody na rybách
+layout: two_columns_page
 image: "/uploads/IMG_0386_610.JPG"
 ---
 S narůstajícími zkušenostmi se škodami na rybích obsádkách rybníků je

@@ -2,7 +2,7 @@
 title: Proč vydry nelikvidovat?
 listed: true
 position: 2
-layout: withrightcolumn
+layout: two_columns_page
 image: "/uploads/DSCN9152.JPG"
 ---
 Přestože se vydra říční v současnosti vyskytuje prakticky plošně na

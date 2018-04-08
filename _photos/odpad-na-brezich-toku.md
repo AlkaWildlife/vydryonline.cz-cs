@@ -2,7 +2,7 @@
 title: odpad na březích toků
 image: "/uploads/a_DSCN0135_2000.JPG"
 author: stepan-zapotocny
-categories: []
+tags: []
 galleries: slash-news-slash-zaciname-vyzkum-vyder-v-krusnych-horach
 position: 125
 date: 2017-11-13 07:03:16.000000000 Z

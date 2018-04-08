@@ -2,9 +2,8 @@
 title: Legislativní status
 listed: true
 position: 5
-editable_elements:
-  Page/Title: Legislativní status vydry říční
-layout: withrightcolumn
+long_title: Legislativní status vydry říční
+layout: two_columns_page
 ---
 #### Status vydry říční 
 

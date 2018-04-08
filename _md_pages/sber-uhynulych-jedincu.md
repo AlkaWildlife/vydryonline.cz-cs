@@ -2,10 +2,8 @@
 title: A3 Sběr kadáverů
 listed: true
 position: 2
-editable_elements:
-  Page/Title: A3 Sběr a analýzy uhynulých jedinců
-  Right column/Title: Dále ke čtení
-layout: withrightcolumn
+long_title: A3 Sběr a analýzy uhynulých jedinců
+layout: two_columns_page
 image: "/uploads/DSC_0017_610.JPG"
 ---
 ####  Náplň opatření: 

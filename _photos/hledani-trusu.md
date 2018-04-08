@@ -2,7 +2,7 @@
 title: Hledání trusu
 image: "/uploads/aDSCN0947.JPG"
 author: katerina-polednikova
-categories: []
+tags: []
 galleries: slash-news-slash-vydry-v-norsku
 position: 35
 date: 2016-05-16 15:54:34.000000000 Z

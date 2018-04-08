@@ -2,7 +2,7 @@
 title: Ke stažení
 listed: true
 position: 2
-layout: withoutrightcolumn
+layout: single_column_page
 ---
 V této sekci najdete ke stažení publikace týkající se vydry říční: jak
 odborné články, tak strategické dokumety, brožury či články pro laickou

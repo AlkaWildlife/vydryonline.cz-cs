@@ -2,10 +2,8 @@
 title: A4 PVA analýza
 listed: true
 position: 3
-editable_elements:
-  Page/Title: A4 Analýza životaschopnosti populace vydry říční v ČR
-  Right column/Title: Dále ke čtení
-layout: withrightcolumn
+long_title: A4 Analýza životaschopnosti populace vydry říční v ČR
+layout: two_columns_page
 image: "/uploads/Obr_zek2_610.jpg"
 ---
 ####  Náplň opatření:

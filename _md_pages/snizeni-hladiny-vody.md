@@ -2,9 +2,8 @@
 title: Snížení hladiny vody
 listed: true
 position: 6
-editable_elements:
-  Page/Title: Snížení hladiny vody při komorování
-layout: withrightcolumn
+long_title: Snížení hladiny vody při komorování
+layout: two_columns_page
 ---
 V některých případech může pomoci snížení hladiny vody na zimní období.
 Období, kdy se vytváří na rybnících led, je z hlediska lokálních škod

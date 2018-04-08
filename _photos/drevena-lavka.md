@@ -2,8 +2,7 @@
 title: dřevěná lávka
 image: "/uploads/lavka_1000.jpg"
 author: vaclav-hlavac
-categories:
-- TODO Fix
+tags:
 - category: mosty-pruchozi
 - category: zpruchodneni-mist
 galleries: slash-vydra-slash-vydry-a-silnice-slash-obecna-pravidla-pro-upravu-rizikovych-mist

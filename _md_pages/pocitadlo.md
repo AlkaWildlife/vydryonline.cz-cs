@@ -2,7 +2,7 @@
 title: Počítadlo
 listed: true
 position: 3
-layout: withrightcolumn
+layout: two_columns_page
 image: "/uploads/P5224060_610.JPG"
 ---
 Na našich silnicích hynou stovky zvířat. A i vydry nejsou výjimkou.

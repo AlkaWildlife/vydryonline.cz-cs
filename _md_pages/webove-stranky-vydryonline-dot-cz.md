@@ -2,9 +2,7 @@
 title: A5 Web vydryonline.cz
 listed: true
 position: 4
-editable_elements:
-  Right column/Title: Dále ke čtení
-layout: withrightcolumn
+layout: two_columns_page
 image: "/uploads/vydryonline.jpg"
 ---
 Cílem stránek je:informovat o projektu a poskytovat aktuální a komplexní

@@ -2,7 +2,7 @@
 title: Bulletin Vydra
 listed: true
 position: 0
-layout: withoutrightcolumn
+layout: single_column_page
 ---
 Bulletin Vydra vychází s několika málo přestávkami ročně od roku 1990. 
 {: .wysiwyg-text-align-justify}

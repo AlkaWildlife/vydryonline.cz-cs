@@ -2,7 +2,7 @@
 title: Alternativní kořist
 listed: true
 position: 3
-layout: withrightcolumn
+layout: two_columns_page
 ---
 Vhodným preventivním opatřením je přisazení nebo alespoň ponechání
 stávající bílé (plevelné) ryby v rybí obsádce. Vydra není potravní

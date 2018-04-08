@@ -2,11 +2,8 @@
 title: Postup krok za krokem
 listed: true
 position: 0
-editable_elements:
-  Page/Title: Postup při žádání o náhrady škod krok za krokem
-  Right column/Title: Another pages
-  Right column/Links: "* TODO add some links\n\n"
-layout: withoutrightcolumn
+long_title: Postup při žádání o náhrady škod krok za krokem
+layout: single_column_page
 ---
 Pokud máte podezření, že vám vznikla škoda na rybách způsobená vydrou
 říční, můžete požádat o náhrady škod dle Zákona č. 115/2000. Samozřejmě

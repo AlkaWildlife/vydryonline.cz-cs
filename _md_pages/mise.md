@@ -2,9 +2,8 @@
 title: Mise
 listed: true
 position: 0
-editable_elements:
-  Page/Title: Mise stránek
-layout: withrightcolumn
+long_title: Mise stránek
+layout: two_columns_page
 image: "/uploads/IGP4776_610.JPG"
 ---
 Vydra říční je celoevropsky ohroženým druhem, který se stal symbolem

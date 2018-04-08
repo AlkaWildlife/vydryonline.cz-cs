@@ -3,22 +3,12 @@ title: Poradna
 listed: true
 position: 1
 editable_elements:
-  User answers/Page title: 'Odpovědi '
-  User answers/Categories title: 'Kategorie '
-  User answers/Archives title: 'Archiv '
-  Question form/Title: 'Poslat dotaz '
-  Question form/Name: 'jméno '
-  Question form/Email: 'Email '
-  Question form/Message: 'dotaz '
-  Question form/Submit: 'Odeslat '
-  Header/logo: http://placehold.it/206x61
-  header/Search: 'Hledat... '
   User answers/More: 'Více '
   User answers/Page: 'Page '
   User answers/Of: 'of '
   User answers/Prev page: 'předchozí '
   User answers/Next page: 'další '
-layout: useranswers
+layout: user_answers
 ---
 {% block content/main %}
   {% assign from = params.from | default: "1900/01" | parse_date_time %}

@@ -2,7 +2,7 @@
 title: O nás
 listed: true
 position: 4
-layout: withoutrightcolumn
+layout: single_column_page
 ---
 provozovatel webu: [ALKA Wildlife, o.p.s.][1]{: rel="nofollow"}
 

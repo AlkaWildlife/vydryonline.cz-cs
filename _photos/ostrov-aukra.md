@@ -2,7 +2,7 @@
 title: Ostrov Aukra
 image: "/uploads/aDSCN0992.JPG"
 author: katerina-polednikova
-categories: []
+tags: []
 galleries: slash-news-slash-vydry-v-norsku
 position: 34
 date: 2016-05-02 13:17:48.000000000 Z

@@ -2,10 +2,9 @@
 title: Co mohu udělat s norkem americkým, který mi škodí na rybníce?
 author: katerina-polednikova
 date: 2016-03-20
-categories:
-- TODO Fix
-- category: skody
-- category: norek
+tags:
+- škody
+- norek
 ---
 Norek americký může na rybníce způsobovat i poměrně významné škody. A je
 velmi těžké zjistit, kolik ryb na rybníce vyloví norek a kolik vydra. V

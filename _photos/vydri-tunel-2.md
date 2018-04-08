@@ -2,10 +2,9 @@
 title: vydří tunel
 image: "/uploads/DSCN0667_dolni.JPG"
 author: lukas-polednik
-categories:
-- TODO Fix
-- category: propustky
-- category: zpruchodneni-mist
+tags:
+- propustky
+- zprůchodnění míst
 position: 32
 date: 2016-04-30 13:57:05.000000000 Z
 ---

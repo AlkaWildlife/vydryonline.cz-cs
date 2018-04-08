@@ -2,7 +2,7 @@
 title: Chování
 listed: true
 position: 3
-layout: withrightcolumn
+layout: two_columns_page
 image: "/uploads/vydry12_610.jpg"
 ---
 Vydra říční je primárně samotářský živočich. V závislosti na kapacitě

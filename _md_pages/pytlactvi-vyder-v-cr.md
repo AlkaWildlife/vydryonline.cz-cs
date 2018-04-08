@@ -2,9 +2,8 @@
 title: Pytláctví vyder v ČR
 listed: true
 position: 4
-editable_elements:
-  Page/Title: Příklady pytláctví vyder v ČR
-layout: withrightcolumn
+long_title: Příklady pytláctví vyder v ČR
+layout: two_columns_page
 image: "/uploads/IMG_8976.JPG"
 ---
  Ilegální lov je výsledek minimální tolerance a nerespektování zákonů ze

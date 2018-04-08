@@ -3,9 +3,8 @@ title: Je možné získat náhrady škody způsobené vydrou na rybách chovaný
   lomu?
 author: katerina-polednikova
 date: 2016-03-01
-categories:
-- TODO Fix
-- category: skody
+tags:
+- škody
 ---
 **Ne, pokud se nejedná o rybářský revír**. Dle Zákona č. 115/2000, o
 poskytování náhrad škod způsobených vybranými zvláště chráněnými

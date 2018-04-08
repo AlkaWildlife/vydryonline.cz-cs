@@ -2,9 +2,8 @@
 title: hráz v.n. Lipno
 image: "/uploads/DSCN1264.JPG"
 author: lukas-polednik
-categories:
-- TODO Fix
-- category: rizikove-misto
+tags:
+- rizikové místo
 position: 30
 date: 2016-04-30 13:43:33.000000000 Z
 ---

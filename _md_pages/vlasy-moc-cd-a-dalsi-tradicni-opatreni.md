@@ -2,7 +2,7 @@
 title: Vlasy, moč a další tradiční opatření
 listed: true
 position: 0
-layout: withrightcolumn
+layout: two_columns_page
 image: "/uploads/fladry4_610.jpg"
 ---
 Od kamarádů doporučovaná opatření spočívající v rozvěšení ovčí vlny,

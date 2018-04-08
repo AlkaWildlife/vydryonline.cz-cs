@@ -2,21 +2,12 @@
 title: Sběr uhynulých vyder
 listed: true
 position: 1
-editable_elements:
-  Page/Title: |-
-    <div>
-    Sběr a analýzy uhynulých vyder
-    </div>
-  Right column/Title: |-
-    <div>
-    Více ke čtení 
-    </div>
-  Right column/Links: |+
-    #### Mapa rizikových míst
+long_title: Sběr a analýzy uhynulých vyder
+aside_links: |
+  #### Mapa rizikových míst
 
-    ![](/uploads/banner_silnice_small.jpg)
-
-layout: withrightcolumn
+  ![](/uploads/banner_silnice_small.jpg)
+layout: two_columns_page
 image: "/uploads/pitva_01.JPG"
 ---
 Již od 90. let minulého století je v ČR více či méně organizován sběr
