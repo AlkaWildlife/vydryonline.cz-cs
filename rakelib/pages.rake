@@ -1,13 +1,15 @@
 # coding: utf-8
 require 'yaml'
 
+PAGES_DIR = '_md_pages'
+
 namespace "pages" do
   desc "Transform special page files with no body to Markdown pages\n" +
        "\n" +
        "Special page files have editable elements in Front Matter.\n" +
        "Editable element Page/Content will become body of new Markdown\n" +
        "file. Other site-specific transformations take place."
-  task :html2md do
+  task html2md: [PAGES_DIR] do
     Dir['./**/*.html'].
       reject {|f| f.start_with?('./node_modules') or
                   f.start_with?('./.') or
@@ -40,13 +42,17 @@ namespace "pages" do
         end
         [f, fm, body] }.
       map {|f, fm, body|
-        if fm['editable_elements']['Right column/Title'].strip ==
-           'Více ke čtení'
+        if fm['editable_elements']['Right column/Title'] and
+           fm['editable_elements']['Right column/Title'].strip ==
+             'Více ke čtení'
           fm['editable_elements'].delete 'Right column/Title'
+        elsif fm['editable_elements']['Right column/Title']
+          fm['editable_elements']['Right column/Title'].strip!
         end
         [f, fm, body] }.
       map {|f, fm, body|
-        if fm['editable_elements']['Right column/Links'].strip.empty?
+        if fm['editable_elements']['Right column/Links'] and
+           fm['editable_elements']['Right column/Links'].strip.empty?
           fm['editable_elements'].delete 'Right column/Links'
         end
         [f, fm, body] }.
@@ -62,9 +68,11 @@ namespace "pages" do
         fm['permalink'] == f[1..('.html'.length - 1)]
         [f, fm, body] }.
       each {|f, fm, body|
-        filename = '_md_pages' + File::SEPARATOR +
+        filename = PAGES_DIR + File::SEPARATOR +
                    File.basename(f, '.html') + '.md'
         File.write(filename, fm.to_yaml + "---\n" + body + "\n")
         File.unlink f }
   end
+
+  directory PAGES_DIR
 end
