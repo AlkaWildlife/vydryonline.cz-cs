@@ -1,30 +1,27 @@
 ---
 title: Content page with right column layout
 listed: true
-layout: |-
-  withrightcolumntemplate' %}
-
-
-  {% block content/article %}
-    <article>
-      <div class="item_header">
-        <h3 class="item_title">{% editable_text "Title", block: "Page", rows: 1 %}Headline{% endeditable_text %}</h3>
-      </div>
-
-      {% capture title_image_enabled %}
-        {% editable_control "Title image", options: 'true=Yes,false=No', hint: "Tell if the title image is displayed or not", priority: 1, block: 'Page' %}
-          true
-        {% endeditable_control %}
-      {% endcapture %}
-      {% assign title_image_enabled = title_image_enabled | strip %}
-
-      {% if title_image_enabled == 'true' %}
-        <div class="item_img img-full img-full__none item-image">
-          <img
-            src=
-              {% editable_file 'image', hint: "Upload an image (perfect size: 610px by 385px)", block: 'Page
+layout: withrightcolumntemplate
 ---
-http://placehold.it/610x385
+{% block content/article %}
+  <article>
+    <div class="item_header">
+      <h3 class="item_title">{% editable_text "Title", block: "Page", rows: 1 %}Headline{% endeditable_text %}</h3>
+    </div>
+
+    {% capture title_image_enabled %}
+      {% editable_control "Title image", options: 'true=Yes,false=No', hint: "Tell if the title image is displayed or not", priority: 1, block: 'Page' %}
+        true
+      {% endeditable_control %}
+    {% endcapture %}
+    {% assign title_image_enabled = title_image_enabled | strip %}
+
+    {% if title_image_enabled == 'true' %}
+      <div class="item_img img-full img-full__none item-image">
+        <img
+          src=
+            {% editable_file 'image', hint: "Upload an image (perfect size: 610px by 385px)", block: 'Page' %}
+                http://placehold.it/610x385
             {% endeditable_file %}/>
       </div>
     {% endif %}
