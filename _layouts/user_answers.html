@@ -81,19 +81,15 @@ layout: default
                 </li>
 
                 {% assign first_user_answer = site.user_answers | last %}
-                {% assign one_month = 2678400 %}
-                {% assign previous_date = first_user_answer.date |
-                     plus: one_month |
-                     date: "%Y-%m" %}
-
-                {% for user_answer in site.user_answers %}
-                  {% assign from = user_answer.date | date: "%Y-%m" %}
-                  {% if from == previous_date %}{% continue %}{% endif %}
-
+                {% for user_answer in site.user_answers reversed %}
+                  {% assign month = user_answer.date | date: "%Y-%m" %}
+                  {% if month == previous_month and forloop.first == false %}
+                    {% continue %}
+                  {% endif %}
                   <li>
-                    <a href="{{ "/user-answers" | relative_url }}#from={{ from }}&amp;to={{ previous_date }}">{{ user_answer.date | date: "%-m/%Y" }}</a>
+                    <a href="{{ "/user-answers" | relative_url }}#month={{ month }}">{{ user_answer.date | date: "%-m/%Y" }}</a>
                   </li>
-                  {% assign previous_date = user_answer.date | date: "%Y-%m" %}
+                  {% assign previous_month = user_answer.date | date: "%Y-%m" %}
                 {% endfor %}
               </ul>
             </div>
@@ -109,8 +105,11 @@ layout: default
 
 <script>
   (function(w, d) {
+    if (typeof [].forEach !== "function") return
     if (typeof [].map !== "function") return
     if (typeof [].reduce !== "function") return
+    if (typeof [].every !== "function") return
+    if (typeof Object.keys !== "function") return
     if (!("onpopstate" in w)) return
     if (!("dateTime" in d.createElement("TIME"))) return
 
@@ -126,52 +125,107 @@ layout: default
     }
 
     function toggleShowAll(params) {
-      if (params["category"]) {
-        d.getElementById("filter_by_category_all").hidden = false
-      } else {
-        d.getElementById("filter_by_category_all").hidden = true
+      d.getElementById("filter_by_category_all").hidden = !params["category"]
+      d.getElementById("filter_by_date_all").hidden = !params["month"]
+    }
+
+    function ifFilterChanged(obj, cur, fn) {
+      var pre = obj.params || {}
+      var preKeys = Object.keys(pre).sort()
+      var curKeys = Object.keys(cur).sort()
+      var same = preKeys.length == curKeys.length &&
+        preKeys.every(function(k, i) { return curKeys[i] === k })
+
+      if (!same) fn()
+
+      obj.params = cur
+    }
+
+    function toArray(indexable) {
+      var array = []
+      var i
+      for (i = 0; i < indexable.length; i += 1) {
+        array[i] = indexable[i]
       }
 
-      if (params["from"] || params["to"]) {
-        d.getElementById("filter_by_date_all").hidden = false
-      } else {
-        d.getElementById("filter_by_date_all").hidden = true
-      }
+      return array
+    }
+
+    function forEachUserAnswer(fn) {
+      toArray(d.getElementsByClassName("js-user-answer")).forEach(fn)
+    }
+
+    function noFilter() {
+      forEachUserAnswer(function(ua) { ua.hidden = false })
     }
 
     function filterByCategory(category) {
-      var userAnswers = d.getElementsByClassName("js-user-answer")
-      var filterAnchor, params, i;
-      for (i = 0; i < userAnswers.length; i += 1) {
-        filterAnchor = userAnswers[i].
-          getElementsByClassName("js-user-answer-category")[0]
-        params = paramsFromHash("#" + filterAnchor.href.split("#", 2)[1])
-        userAnswers[i].hidden = !(!category || category === params["category"])
-      }
+      if (!category) return
+
+      forEachUserAnswer(function(ua) {
+        ua.hidden = toArray(
+          ua.getElementsByClassName("js-user-answer-category")
+        ).every(function(a) {
+          var params = paramsFromHash("#" + a.href.split("#", 2)[1])
+          return category !== params["category"]
+        })
+      })
     }
 
-    function filterByDate(from, to) {
-      if (from) from = new Date(from)
-      if (to) from = new Date(to)
+    function resetTime(date) {
+      var res = new Date(date)
+      res.setHours(0)
+      res.setMinutes(0)
+      res.setSeconds(0)
+      res.setMilliseconds(0)
 
-      var userAnswers = d.getElementsByClassName("js-user-answer")
-      var filterDate, i;
-      for (i = 0; i < userAnswers.length; i += 1) {
-        filterDate = new Date(
-          userAnswers[i].
-            getElementsByClassName("js-user-answer-date")[0].
-            dateTime
-        )
-        userAnswers[i].hidden = !((!from || from <= filterDate) &&
-                                  (!to   || to   >= filterDate))
+      return res
+    }
+
+    function firstMomentOfMonth(month) {
+      var parts = month.
+        split("-", 2).
+        map(function(p) { return p | 0 })
+
+      date = new Date()
+      date.setYear(parts[0])
+      date.setMonth(parts[1] - 1)
+      date.setDate(1)
+
+      return resetTime(date)
+    }
+
+    function lastMomentOfMonth(month) {
+      var date, day
+
+      for (day = 29; day <= 32; day += 1) {
+        date = new Date(firstMomentOfMonth(month))
+        date.setDate(day)
+        if (date.getMonth() !== firstMomentOfMonth(month).getMonth()) break
       }
+      resetTime(date).setTime(date.getTime() - 1)
+
+      return date
+    }
+
+    function filterByDate(month) {
+      if (!month) return
+
+      forEachUserAnswer(function(ua) {
+        var filterDate = resetTime(new Date(
+          ua.getElementsByClassName("js-user-answer-date")[0].dateTime
+        ))
+        ua.hidden = !((firstMomentOfMonth(month) <= filterDate) &&
+                      (lastMomentOfMonth(month) > filterDate))
+      })
     }
 
     function filter(ev) {
       var params = paramsFromHash(ev.target.location.hash)
+      ifFilterChanged(filter, params, noFilter)
       toggleShowAll(params)
       filterByCategory(params["category"])
-      filterByDate(params["from"], params["to"])
+      filterByDate(params["month"])
     }
 
     w.addEventListener("onpopstate", filter, false)
