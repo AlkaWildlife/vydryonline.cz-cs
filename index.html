@@ -2,123 +2,28 @@
 title: Úvod
 listed: true
 position: 0
-editable_elements:
-  News/Other news title: 'Další zprávy '
-  News/Show all: 'všechny zprávy '
-  Link 1/Url: "/user-answers "
-  Link 1/Image: "/uploads/banner_online_small.jpg"
-  Link 1/Title: 'Online poradna '
-  Link 2/Url: 'vydra/vydra-a-skody '
-  Link 2/Image: "/uploads/banner_skody_3_small.jpg"
-  Link 2/Title: 'Vydry a škody '
-  Link 3/Url: "/vydra/vydry-a-silnice "
-  Link 3/Image: "/uploads/banner_silnice_small.jpg"
-  Link 3/Title: 'Vydra a silnice '
-  Link 4/Url: 'http://www.vydristezky.cz '
-  Link 4/Image: "/uploads/banner_stezka_small.jpg"
-  Link 4/Title: 'Vydří stezky '
-  Link 5/Url: "/ke-stazeni/bulletin-vydra "
-  Link 5/Image: "/uploads/banner_bulletin_small.jpg"
-  Link 5/Title: 'Bulletin Vydra '
-  Mision/Content: |+
-    ### Mise
-
-
-
-
-
-    * informovat o projektu Realizace vybraných opatření pro vydru říční v
-      České republice
-    * poskytnout aktuální a komplexní informace k vydře říční v České
-      republice
-
-
-
-    Stránky jsou určení odborné veřejnosti, rybářům i pracovníkům ochrany
-    přírody. 
-
-
-
-  Photogallery/Title: 'Fotogalerie '
-  Appeal/Content: |+
-    ### Výzva
-
-    V celé ČR se organizuje sběr nalezených uhynulých vyder. Jejich těla se
-    využívají pro celou řadu specifických analýz a slouží také k
-    identifikaci rizikových míst na silnicích. Sběr je prováděn na základě
-    hlášení nálezů od veřejnosti. 
-
-    #### Pokud jste našli mrtvou vydru
-    {: .wysiwyg-text-align-center}
-
-    [kontaktujte nás!](/vydra/vydry-a-silnice/vyzva "Link: vyzva"){:
-    rel="nofollow" target="_self"}
-    {: .wysiwyg-text-align-center}
-
-  Other/Content: "### Počítadlo\n{: .wysiwyg-text-align-left}\n\nNálezy uhynulých
-    vyder v roce 2017:\n{: .wysiwyg-text-align-left}\n\n**[Celkem: 40](vydra/vydry-a-silnice/pocitadlo
-    \"Počítadlo\"){:\nrel=\"nofollow\" target=\"_self\"}**\n{: .wysiwyg-text-align-left}\n\n**[úhyn
-    na silnici: 19](vydra/vydry-a-silnice/pocitadlo \"Počítadlo\"){:\nrel=\"nofollow\"
-    target=\"_self\"}**\n{: .wysiwyg-text-align-left}\n\n**[zástřel: 1](vydra/vydry-a-silnice/pocitadlo
-    \"Počítadlo\"){:\nrel=\"nofollow\" target=\"_self\"}**\n{: .wysiwyg-text-align-left}\n\n\n{:
-    .wysiwyg-text-align-left}\n\n####   \n\n{: .wysiwyg-text-align-left}\n\n[****](vydra/vydry-a-silnice/pocitadlo
-    \"Počítadlo\"){: rel=\"nofollow\"\ntarget=\"_self\"}\n{: .wysiwyg-text-align-left}\n\n[****](vydra/vydry-a-silnice/pocitadlo
-    \"Počítadlo\"){: rel=\"nofollow\"\ntarget=\"_self\"}\n{: .wysiwyg-text-align-center}\n\n"
 layout: default
 ---
-{% block content %}
-  {% include 'home_showcase' %}
-  {% include 'home_news' %}
-  {% include 'home_links' %}
-
-  <div id="mainbottom-row">
-    <div class="row-container">
-      <div class="container-fluid">
-        <div class="row-fluid">
-          <div class="moduletable efforts  span3">
-            {% editable_text "Content", block: "Mision" %}
-              <h3>Mission</h3>
-              <p>Lorem ipsum dolor sit amet csectur adipsing elit VivamusAsit amet gravida quis viverra sed nisl. Vetiblum rhoncus nisi in lectus vestibulum.</p>
-              <p>Proin mattis metus at placerat malesuada Quam elit consequat tellus at scelerisque elit libero a ligula. Suspendisse dui felis. </p>
-            {% endeditable_text %}
-          </div>
-
-          <div class="moduletable projects  span3">
-            {% include 'home_photogallery' %}
-          </div>
-
-          <div class="moduletable whyus  span3">
-            {% editable_text "Content", block: "Appeal" %}
-              <h3 class="moduleTitle ">Appeal</h3>
-              <p>Praesent venenatis bibendum is ta eleend. Maecenas non leo et erat pharetra sceleue in sit amet. </p>
-              <ul>
-                <li><a href="#">Donec sit amet bibendum sem</a></li>
-                <li><a href="#">Vestibulum augue libero lobortis</a></li>
-                <li><a href="#">Aliquam faucibus dui quis libero soda</a></li>
-                <li><a href="#">Nam tellus risus dictum nec</a></li>
-                <li><a href="#">Praesent malesuad libero ac</a></li>
-                <li><a href="#">Augue consectetur nis eu tempor</a></li>
-              </ul>
-            {% endeditable_text %}
-          </div>
-
-          <div class="moduletable whyus  span3">
-            {% editable_text "Content", block: "Other" %}
-              <h3 class="moduleTitle ">Other</h3>
-              <p>Praesent venenatis bibendum is ta eleend. Maecenas non leo et erat pharetra sceleue in sit amet. </p>
-              <ul>
-                <li><a href="#">Donec sit amet bibendum sem</a></li>
-                <li><a href="#">Vestibulum augue libero lobortis</a></li>
-                <li><a href="#">Aliquam faucibus dui quis libero soda</a></li>
-                <li><a href="#">Nam tellus risus dictum nec</a></li>
-                <li><a href="#">Praesent malesuad libero ac</a></li>
-                <li><a href="#">Augue consectetur nis eu tempor</a></li>
-              </ul>
-            {% endeditable_text %}
-          </div>
+{% include home_showcase.html %}
+{% include home_news.html %}
+{% include home_links.html %}
+<div id="mainbottom-row">
+  <div class="row-container">
+    <div class="container-fluid">
+      <div class="row-fluid">
+        <div class="moduletable efforts  span3">
+          {{ site.data.home.mission.body | markdownify }}
+        </div>
+        <div class="moduletable projects  span3">
+          {% include home_photogallery.html %}
+        </div>
+        <div class="moduletable whyus  span3">
+          {{ site.data.home.appeal.body | markdownify }}
+        </div>
+        <div class="moduletable whyus  span3">
+          {{ site.data.home.other.body | markdownify }}
         </div>
       </div>
     </div>
   </div>
-{% endblock %}
-
+</div>

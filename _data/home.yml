@@ -1,0 +1,60 @@
+news:
+  following: Další zprávy
+  all: Všechny zprávy
+
+links:
+  - title: Online poradna
+    url: /user-answers
+    image: /uploads/banner_online_small.jpg
+  - title: Vydry a škody
+    url: /vydra/vydra-a-skody
+    image: /uploads/banner_skody_3_small.jpg
+  - title: Vydra a silnice
+    url: /vydra/vydry-a-silnice
+    image: /uploads/banner_silnice_small.jpg
+  - title: Vydří stezky
+    url: http://www.vydristezky.cz
+    image: /uploads/banner_stezka_small.jpg
+  - title: Bulletin Vydra
+    url: /ke-stazeni/bulletin-vydra
+    image: /uploads/banner_bulletin_small.jpg
+
+mission:
+  body: |+
+    ### Mise
+
+    * informovat o projektu Realizace vybraných opatření pro vydru
+      říční v České republice
+    * poskytnout aktuální a komplexní informace k vydře říční v České
+      republice
+
+    Stránky jsou určení odborné veřejnosti, rybářům i pracovníkům
+    ochrany přírody.
+
+gallery:
+  title: Fotogalerie
+
+appeal:
+  body: |+
+    ### Výzva
+
+    V celé ČR se organizuje sběr nalezených uhynulých vyder. Jejich
+    těla se využívají pro celou řadu specifických analýz a slouží také
+    k identifikaci rizikových míst na silnicích. Sběr je prováděn na
+    základě hlášení nálezů od veřejnosti.
+
+    #### Pokud jste našli mrtvou vydru
+
+    [kontaktujte nás!](/vydra/vydry-a-silnice/vyzva)
+
+other:
+  body: |+
+    ### Počítadlo
+
+    Nálezy uhynulých vyder v roce 2017:
+
+    **[Celkem: 40](/vydra/vydry-a-silnice/pocitadlo "Počítadlo")**
+
+    **[Úhyn na silnici: 19](/vydra/vydry-a-silnice/pocitadlo "Počítadlo")**
+
+    **[Zástřel: 1](/vydra/vydry-a-silnice/pocitadlo "Počítadlo")**
