@@ -15,7 +15,7 @@
           {% capture tag_slug -%}
             {% include helpers/slug.html page=filterable_tag %}
           {%- endcapture %}
-          <a href="{{ "/user-answers" | relative_url %}#category={{ tag_slug }}" class="js-user-answer-category">
+          <a href="{{ "/user-answers" | relative_url }}#category={{ tag_slug }}" class="js-user-answer-category">
             {{ filterable_tag.name }}
           </a>&nbsp;
         {% endfor %}
