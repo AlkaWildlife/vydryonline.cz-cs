@@ -35,7 +35,6 @@ namespace "pages" do
       map {|f, fm, body|
         if fm['editable_elements']['Page/Title image'] == 'true'
           fm['editable_elements'].delete 'Page/Title image'
-          fm['image'] = fm['editable_elements'].delete 'Page/image'
         else
           fm['editable_elements'].delete 'Page/Title image'
           fm['editable_elements'].delete 'Page/image'
@@ -43,8 +42,10 @@ namespace "pages" do
         [f, fm, body] }.
       map {|f, fm, body|
         if fm['editable_elements']['Right column/Title'] and
-           fm['editable_elements']['Right column/Title'].strip ==
-             'Více ke čtení'
+           (fm['editable_elements']['Right column/Title'].strip ==
+              'Více ke čtení' or
+            fm['editable_elements']['Right column/Title'].strip ==
+              'Dále ke čtení')
           fm['editable_elements'].delete 'Right column/Title'
         elsif fm['editable_elements']['Right column/Title']
           fm['editable_elements']['Right column/Title'].strip!
@@ -60,12 +61,48 @@ namespace "pages" do
         body = fm['editable_elements'].delete('Page/Content').strip
         [f, fm, body] }.
       map {|f, fm, body|
-        if fm['editable_elements'].empty?
-          fm.delete 'editable_elements'
-        end
+        fm['permalink'] = f[1...-('.html'.length)]
         [f, fm, body] }.
       map {|f, fm, body|
-        fm['permalink'] == f[1..('.html'.length - 1)]
+        fm['layout'] = case fm['layout']
+                       when 'withrightcolumn' then 'two_columns_page'
+                       when 'withoutrightcolumn' then 'single_column_page'
+                       else fm['layout']
+                       end
+        [f, fm, body] }.
+      map {|f, loco_fm, body|
+        fm = {}
+        fm['title'] = loco_fm['title']
+        fm['permalink'] = loco_fm['permalink']
+        if loco_fm['editable_elements']['Page/image']
+          fm['image'] = loco_fm['editable_elements'].delete 'Page/image'
+        end
+        if loco_fm['editable_elements']['Page/Title']
+          fm['long_title'] = loco_fm['editable_elements'].delete 'Page/Title'
+        end
+        fm['published'] = if loco_fm.key? 'published'
+                            !!loco_fm['published']
+                          else
+                            true
+                          end
+        fm['listed'] = if loco_fm.key? 'listed'
+                         !!loco_fm['listed']
+                       else
+                         true
+                       end
+        fm['position'] = loco_fm['position']
+        fm['layout'] = loco_fm['layout']
+        if fm['layout'] == 'two_columns_page' and
+           loco_fm['editable_elements']['Right column/Title']
+          fm['aside_title'] =
+            loco_fm['editable_elements'].delete 'Right column/Title'
+        end
+        if fm['layout'] == 'two_columns_page' and
+           loco_fm['editable_elements']['Right column/Links']
+          fm['aside_links'] =
+            loco_fm['editable_elements'].delete 'Right column/Links'
+        end
+
         [f, fm, body] }.
       each {|f, fm, body|
         filename = PAGES_DIR + File::SEPARATOR +
