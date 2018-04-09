@@ -33,7 +33,7 @@ layout: default
             <div class="page_header">
               <h3>
                 {% assign url_parts = page.url | split: "/" %}
-                {% if url_parts > 2 %}
+                {% if url_parts.size <= 2 %}
                   {% assign cardinatlity = 'many' %}
                 {% else %}
                   {% assign cardinatlity = 'one' %}

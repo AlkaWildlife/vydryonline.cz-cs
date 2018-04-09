@@ -45,7 +45,7 @@ defaults:
       layout: post
   - scope:
       path: ""
-      type: posts
+      type: user_answers
     values:
       layout: user_answer
 
