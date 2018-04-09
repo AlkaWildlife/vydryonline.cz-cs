@@ -1,7 +1,10 @@
 ---
 title: Kontakty
+permalink: "/o-nas/kontakty"
+published: true
 listed: true
 position: 1
+layout: two_columns_page
 aside_links: |
   [![](/uploads/ALKA_logo.jpg)][1]{: rel="nofollow" target="_blank"}
 
@@ -13,7 +16,6 @@ aside_links: |
 
   [1]: http://www.alkawildlife.eu "ALKA Wildlife web"
   [2]: https://www.facebook.com/AlkaWildlife "ALKA Wildlife facebook"
-layout: two_columns_page
 ---
 #### Provozovatel stránek:
 

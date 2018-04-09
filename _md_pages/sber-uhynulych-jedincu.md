@@ -1,10 +1,12 @@
 ---
 title: A3 Sběr kadáverů
+permalink: "/projekty/realizace-opatreni/sber-uhynulych-jedincu"
+image: "/uploads/DSC_0017_610.JPG"
+long_title: A3 Sběr a analýzy uhynulých jedinců
+published: true
 listed: true
 position: 2
-long_title: A3 Sběr a analýzy uhynulých jedinců
 layout: two_columns_page
-image: "/uploads/DSC_0017_610.JPG"
 ---
 ####  Náplň opatření: 
 

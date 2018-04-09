@@ -1,8 +1,10 @@
 ---
 title: Výběr rybníků při komorování
+permalink: "/vydra/vydra-a-skody/opatreni-ke-snizovani-skod/vyber-rybniku-pri-komorovani"
+long_title: Výběr rybníků pro komorování
+published: true
 listed: true
 position: 7
-long_title: Výběr rybníků pro komorování
 layout: two_columns_page
 ---
 V případě, že vlastníte více rybníků, je poměrně dobře účinným opatřením

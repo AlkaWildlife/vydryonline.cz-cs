@@ -1,9 +1,11 @@
 ---
 title: Chování
+permalink: "/vydra/o-vydre/socialni-chovani"
+image: "/uploads/vydry12_610.jpg"
+published: true
 listed: true
 position: 3
 layout: two_columns_page
-image: "/uploads/vydry12_610.jpg"
 ---
 Vydra říční je primárně samotářský živočich. V závislosti na kapacitě
 prostředí je území využíváno jedním nebo více jedinci. Jedinci stejného

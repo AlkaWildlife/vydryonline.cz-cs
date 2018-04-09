@@ -1,10 +1,12 @@
 ---
 title: A8 Řešení konfliktu
+permalink: "/projekty/realizace-opatreni/a8-reseni-konfliktu"
+image: "/uploads/IMG_0386_610.JPG"
+long_title: A8 Návrh optimalizace řešení střetu rybářství a vydry
+published: true
 listed: true
 position: 7
-long_title: A8 Návrh optimalizace řešení střetu rybářství a vydry
 layout: two_columns_page
-image: "/uploads/IMG_0386_610.JPG"
 ---
 #### Náplň opatření:
 

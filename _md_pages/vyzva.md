@@ -1,13 +1,13 @@
 ---
 title: Výzva
+permalink: "/vydra/vydry-a-silnice/vyzva"
+image: "/uploads/a_039_VH_610.jpg"
+published: true
 listed: true
 position: 0
-aside_links: |
-  ####  [Mapa rizikových míst](www.vydrynasilnici.cz){: rel="nofollow" target="_blank"}  
-
-  ####   ![](/uploads/banner_silnice_small.jpg)
 layout: two_columns_page
-image: "/uploads/a_039_VH_610.jpg"
+aside_links: "####  [Mapa rizikových míst](www.vydrynasilnici.cz){: rel=\"nofollow\"
+  target=\"_blank\"}  \n\n####   ![](/uploads/banner_silnice_small.jpg) \n\n####   \n\n\n"
 ---
 #### Pokud jste našli mrtvou vydru, kontaktujte nás!
 

@@ -1,10 +1,12 @@
 ---
 title: Prostředí
+permalink: "/vydra/o-vydre/prostredi"
+image: "/uploads/IMG_9122_610.JPG"
+long_title: Prostředí vydry říční
+published: true
 listed: true
 position: 2
-long_title: Prostředí vydry říční
 layout: two_columns_page
-image: "/uploads/IMG_9122_610.JPG"
 ---
 Vydra je tzv. semi-akvatický živočich, což znamená, že využívá, a je
 závislá, jak na vodním, tak i terestrickém prostředí. Vydry využívají

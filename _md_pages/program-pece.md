@@ -1,10 +1,13 @@
 ---
 title: Program péče
+permalink: "/vydra/o-vydre/program-pece"
+image: "/uploads/vydra4B_610.jpg"
+long_title: Program péče pro vydru říční (*Lutra lutra*) v České republice v letech
+  2009 - 2018
+published: true
 listed: true
 position: 7
-long_title: Program péče pro vydru říční (*Lutra lutra*) v České republice v letech 2009 - 2018
 layout: two_columns_page
-image: "/uploads/vydra4B_610.jpg"
 ---
 Program péče pro vydru říční v ČR je rámcovým materiálem, jehož smyslem
 je zajištění koncepčního dlouhodobého přístupu k ochraně druhu. Je

@@ -1,5 +1,7 @@
 ---
 title: Snížení násady
+permalink: "/vydra/vydra-a-skody/opatreni-ke-snizovani-skod/snizeni-nasady"
+published: true
 listed: true
 position: 2
 layout: two_columns_page

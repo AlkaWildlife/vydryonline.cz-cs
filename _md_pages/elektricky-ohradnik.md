@@ -1,9 +1,11 @@
 ---
 title: Elektrický ohradník
+permalink: "/vydra/vydra-a-skody/opatreni-ke-snizovani-skod/elektricky-ohradnik"
+image: "/uploads/IMG_0333_610.JPG"
+published: true
 listed: true
 position: 1
 layout: two_columns_page
-image: "/uploads/IMG_0333_610.JPG"
 ---
 Elektrické ohradníky jsou velmi účinným opatřením, avšak je potřeba
 zajistit přívod elektrického proudu a zabezpečit celé zařízení proti

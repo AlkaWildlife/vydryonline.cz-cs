@@ -1,10 +1,12 @@
 ---
 title: Povídání o vydře v Myslivosti
+permalink: "/vydra/o-vydre/povidani-o-vydre-v-myslivosti"
+image: "/uploads/P7010003_610.jpg"
+long_title: Povídání o vydře v časopise Myslivost
+published: true
 listed: true
 position: 6
-long_title: Povídání o vydře v časopise Myslivost
 layout: two_columns_page
-image: "/uploads/P7010003_610.jpg"
 ---
 Seriál Povídání o vydře a norkovi vycházel v časopise Myslivost v letech
 2009 až 2010. Zde jsou online verze:

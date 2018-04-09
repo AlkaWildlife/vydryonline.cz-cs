@@ -1,9 +1,11 @@
 ---
 title: Částečné oplocení
+permalink: "/vydra/vydra-a-skody/opatreni-ke-snizovani-skod/castecne-oploceni"
+image: "/uploads/IMG_0366_610.JPG"
+published: true
 listed: true
 position: 5
 layout: two_columns_page
-image: "/uploads/IMG_0366_610.JPG"
 ---
 V zimě mají vydry kvůli ledu ztížený přístup do rybníků a toho je k
 prevenci škod také možné využít. Pokud je rybník pevně zamrzlý podél

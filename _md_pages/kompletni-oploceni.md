@@ -1,9 +1,11 @@
 ---
 title: Kompletní oplocení
+permalink: "/vydra/vydra-a-skody/opatreni-ke-snizovani-skod/kompletni-oploceni"
+image: "/uploads/IMG_0157_610.JPG"
+published: true
 listed: true
 position: 4
 layout: two_columns_page
-image: "/uploads/IMG_0157_610.JPG"
 ---
 Další možností vhodnou v případě sádek, menších rybníků v intravilánu
 nebo na okraji obce, je oplocení celého rybníka. Plot musí být velmi

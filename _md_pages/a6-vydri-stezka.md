@@ -1,9 +1,11 @@
 ---
 title: A6 Vydří stezka
+permalink: "/projekty/realizace-opatreni/a6-vydri-stezka"
+image: "/uploads/DSCN1353_610.JPG"
+published: true
 listed: true
 position: 5
 layout: two_columns_page
-image: "/uploads/DSCN1353_610.JPG"
 ---
 ####  Náplň opatření:
 

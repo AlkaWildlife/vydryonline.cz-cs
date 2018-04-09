@@ -1,5 +1,7 @@
 ---
 title: Ke stažení
+permalink: "/ke-stazeni"
+published: true
 listed: true
 position: 2
 layout: single_column_page

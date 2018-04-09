@@ -1,5 +1,7 @@
 ---
 title: Projekty
+permalink: "/projekty"
+published: true
 listed: true
 position: 0
 layout: single_column_page

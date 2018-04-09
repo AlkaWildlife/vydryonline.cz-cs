@@ -1,10 +1,12 @@
 ---
 title: A1 Vliv dopravy
+permalink: "/projekty/realizace-opatreni/minimalizace-vlivu-dopravy"
+image: "/uploads/072_610.JPG"
+long_title: A1 Minimalizace vlivu dopravy
+published: true
 listed: true
 position: 0
-long_title: A1 Minimalizace vlivu dopravy
 layout: two_columns_page
-image: "/uploads/072_610.JPG"
 ---
 #### Náplň opatření
 {: .wysiwyg-text-align-justify}

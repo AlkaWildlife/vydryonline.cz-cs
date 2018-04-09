@@ -1,14 +1,17 @@
 ---
 title: Pravidla pro úpravu rizikových míst
+permalink: "/vydra/vydry-a-silnice/obecna-pravidla-pro-upravu-rizikovych-mist"
+image: "/uploads/vydra_v_trubce_610.jpg"
+long_title: Obecná pravidla pro úpravu rizikových míst
+published: true
 listed: true
 position: 2
-long_title: Obecná pravidla pro úpravu rizikových míst
-aside_links: |
+layout: two_columns_page
+aside_links: |+
   #### Mapa rizikových míst
 
   ![](/uploads/banner_silnice_small.jpg)
-layout: two_columns_page
-image: "/uploads/vydra_v_trubce_610.jpg"
+
 ---
 Místa, kde se vydry dostávají na silnici a mohou se setkat s
 projíždějícími auty, lze rozdělit do několika základních typů: 

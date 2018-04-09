@@ -1,11 +1,13 @@
 ---
 title: Bulletin Vydra 17
+permalink: "/ke-stazeni/bulletin-vydra/bulletin-vydra-17"
+image: "/uploads/cover_610.JPG"
+long_title: Bulletin vydra 17
+published: true
 listed: true
 position: 0
-long_title: Bulletin vydra 17
-aside_title: Další čísla
 layout: two_columns_page
-image: "/uploads/cover_610.JPG"
+aside_title: další čísla
 ---
 <div>
 <div class="wrapper-inner">

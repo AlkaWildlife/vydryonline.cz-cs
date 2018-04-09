@@ -1,9 +1,11 @@
 ---
 title: Vlasy, moč a další tradiční opatření
+permalink: "/vydra/vydra-a-skody/opatreni-ke-snizovani-skod/vlasy-moc-cd-a-dalsi-tradicni-opatreni"
+image: "/uploads/fladry4_610.jpg"
+published: true
 listed: true
 position: 0
 layout: two_columns_page
-image: "/uploads/fladry4_610.jpg"
 ---
 Od kamarádů doporučovaná opatření spočívající v rozvěšení ovčí vlny,
 lidských vlasů nebo visících CD nosičů okolo rybníka nefungují buď

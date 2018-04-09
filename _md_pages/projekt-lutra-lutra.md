@@ -1,9 +1,11 @@
 ---
 title: Projekt Lutra lutra
+permalink: "/projekty/projekt-lutra-lutra"
+published: true
 listed: true
 position: 1
-aside_title: Další projekty
 layout: two_columns_page
+aside_title: Další projekty
 ---
 ####  **Trvání:** 10/2017 – 9/2020
 

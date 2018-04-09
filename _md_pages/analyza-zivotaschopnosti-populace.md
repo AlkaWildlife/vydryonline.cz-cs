@@ -1,10 +1,12 @@
 ---
 title: A4 PVA analýza
+permalink: "/projekty/realizace-opatreni/analyza-zivotaschopnosti-populace"
+image: "/uploads/Obr_zek2_610.jpg"
+long_title: A4 Analýza životaschopnosti populace vydry říční v ČR
+published: true
 listed: true
 position: 3
-long_title: A4 Analýza životaschopnosti populace vydry říční v ČR
 layout: two_columns_page
-image: "/uploads/Obr_zek2_610.jpg"
 ---
 ####  Náplň opatření:
 

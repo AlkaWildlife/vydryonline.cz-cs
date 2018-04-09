@@ -1,10 +1,12 @@
 ---
 title: Bulletin Vydra 15
+permalink: "/ke-stazeni/bulletin-vydra/bulletin-vydra-15"
+image: "/uploads/bulletin_vydra_15.jpg"
+long_title: Bulletin Vydra 15/2012
+published: true
 listed: true
 position: 2
-long_title: Bulletin Vydra 15/2012
 layout: two_columns_page
-image: "/uploads/bulletin_vydra_15.jpg"
 ---
 **Bulletin Vydra 15/2012  
 **celé číslo v jednom souboru ke stažení

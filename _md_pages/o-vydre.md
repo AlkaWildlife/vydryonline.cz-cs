@@ -1,9 +1,11 @@
 ---
 title: O vydře
+permalink: "/vydra/o-vydre"
+image: "/uploads/Vydra-ricni-948a_610.jpg"
+published: true
 listed: true
 position: 2
 layout: single_column_page
-image: "/uploads/Vydra-ricni-948a_610.jpg"
 ---
 Vydra říční (*Lutra lutra*, Linné 1758), lasicovitá šelma, královna
 našich vod, prošla v nedávné minulosti dramatickým vývojem početnosti a

@@ -1,5 +1,7 @@
 ---
 title: Publikace o vydře
+permalink: "/ke-stazeni/odborne-clanky"
+published: true
 listed: true
 position: 1
 layout: two_columns_page

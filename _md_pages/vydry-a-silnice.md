@@ -1,9 +1,11 @@
 ---
 title: Vydry a silnice
+permalink: "/vydra/vydry-a-silnice"
+image: "/uploads/P5310050-l.JPG"
+published: true
 listed: true
 position: 0
 layout: single_column_page
-image: "/uploads/P5310050-l.JPG"
 ---
 Jedním z hlavních faktorů prostředí, které výrazně ovlivňují vydry je
 autoprovoz. V případě vydry říční neovlivňuje dopravní síť populaci

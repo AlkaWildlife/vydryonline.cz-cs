@@ -1,9 +1,11 @@
 ---
 title: Proč vydry nelikvidovat?
+permalink: "/vydra/vydra-a-skody/proc-vydry-nelikvidovat"
+image: "/uploads/DSCN9152.JPG"
+published: true
 listed: true
 position: 2
 layout: two_columns_page
-image: "/uploads/DSCN9152.JPG"
 ---
 Přestože se vydra říční v současnosti vyskytuje prakticky plošně na
 většině území České republiky a může se Vám zdát, že na Váš rybník chodí

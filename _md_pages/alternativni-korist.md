@@ -1,5 +1,7 @@
 ---
 title: Alternativní kořist
+permalink: "/vydra/vydra-a-skody/opatreni-ke-snizovani-skod/alternativni-korist"
+published: true
 listed: true
 position: 3
 layout: two_columns_page

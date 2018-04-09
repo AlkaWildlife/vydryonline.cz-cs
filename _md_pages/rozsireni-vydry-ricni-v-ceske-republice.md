@@ -1,8 +1,10 @@
 ---
 title: Rozšíření vydry říční v ČR
+permalink: "/vydra/o-vydre/rozsireni-vydry-ricni-v-ceske-republice"
+long_title: Rozšíření vydry říční v České republice
+published: true
 listed: true
 position: 0
-long_title: Rozšíření vydry říční v České republice
 layout: two_columns_page
 ---
 V České republice vydra říční zaznamenala výrazné změny v početnosti.

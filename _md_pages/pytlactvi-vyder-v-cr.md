@@ -1,10 +1,12 @@
 ---
 title: Pytláctví vyder v ČR
+permalink: "/vydra/o-vydre/pytlactvi-vyder-v-cr"
+image: "/uploads/IMG_8976.JPG"
+long_title: Příklady pytláctví vyder v ČR
+published: true
 listed: true
 position: 4
-long_title: Příklady pytláctví vyder v ČR
 layout: two_columns_page
-image: "/uploads/IMG_8976.JPG"
 ---
  Ilegální lov je výsledek minimální tolerance a nerespektování zákonů ze
 strany některých rybářů či rybníkářů. Jde o konflikt mezi ochranou druhu

@@ -1,8 +1,10 @@
 ---
 title: Snížení hladiny vody
+permalink: "/vydra/vydra-a-skody/opatreni-ke-snizovani-skod/snizeni-hladiny-vody"
+long_title: Snížení hladiny vody při komorování
+published: true
 listed: true
 position: 6
-long_title: Snížení hladiny vody při komorování
 layout: two_columns_page
 ---
 V některých případech může pomoci snížení hladiny vody na zimní období.

@@ -1,8 +1,10 @@
 ---
 title: A7 Správci silnic
+permalink: "/projekty/realizace-opatreni/a7-schuzky-se-spravci-silnic"
+long_title: A7 schůzky se správci silnic
+published: true
 listed: true
 position: 6
-long_title: A7 schůzky se správci silnic
 layout: two_columns_page
 ---
 #### Náplň opatření:   

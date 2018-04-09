@@ -1,5 +1,7 @@
 ---
 title: Bulletin Vydra
+permalink: "/ke-stazeni/bulletin-vydra"
+published: true
 listed: true
 position: 0
 layout: single_column_page

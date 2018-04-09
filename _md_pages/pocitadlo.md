@@ -1,9 +1,11 @@
 ---
 title: Počítadlo
+permalink: "/vydra/vydry-a-silnice/pocitadlo"
+image: "/uploads/P5224060_610.JPG"
+published: true
 listed: true
 position: 3
 layout: two_columns_page
-image: "/uploads/P5224060_610.JPG"
 ---
 Na našich silnicích hynou stovky zvířat. A i vydry nejsou výjimkou.
 Každoročně se nám podaří shromáždit několik desítek těl ze silnic a

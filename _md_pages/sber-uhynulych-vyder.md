@@ -1,14 +1,24 @@
 ---
 title: Sběr uhynulých vyder
+permalink: "/vydra/vydry-a-silnice/sber-uhynulych-vyder"
+image: "/uploads/pitva_01.JPG"
+long_title: |-
+  <div>
+  Sběr a analýzy uhynulých vyder
+  </div>
+published: true
 listed: true
 position: 1
-long_title: Sběr a analýzy uhynulých vyder
-aside_links: |
+layout: two_columns_page
+aside_title: |-
+  <div>
+  Více ke čtení 
+  </div>
+aside_links: |+
   #### Mapa rizikových míst
 
   ![](/uploads/banner_silnice_small.jpg)
-layout: two_columns_page
-image: "/uploads/pitva_01.JPG"
+
 ---
 Již od 90. let minulého století je v ČR více či méně organizován sběr
 uhynulých jedinců vyder říčních. Sledování stavu populací ohrožených

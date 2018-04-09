@@ -1,10 +1,12 @@
 ---
 title: Publicita
+permalink: "/projekty/realizace-opatreni/publicita"
+image: "/uploads/zaber_printscreen_610.jpg"
+long_title: Publicita projektu
+published: true
 listed: true
 position: 9
-long_title: Publicita projektu
 layout: two_columns_page
-image: "/uploads/zaber_printscreen_610.jpg"
 ---
 #### Tiskové konference a tisková zpráva 
 

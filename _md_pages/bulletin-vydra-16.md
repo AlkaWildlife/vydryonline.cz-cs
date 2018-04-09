@@ -1,10 +1,12 @@
 ---
 title: Bulletin Vydra 16
+permalink: "/ke-stazeni/bulletin-vydra/bulletin-vydra-16"
+image: "/uploads/bulletin16_cover.jpg"
+long_title: Bulletin Vydra 16 / 2015
+published: true
 listed: true
 position: 1
-long_title: Bulletin Vydra 16 / 2015
 layout: two_columns_page
-image: "/uploads/bulletin16_cover.jpg"
 ---
 **Bulletin Vydra 16**
 
