@@ -7,7 +7,6 @@
  */
 
 
-
 (function($){
 	
 	/* Private variables */

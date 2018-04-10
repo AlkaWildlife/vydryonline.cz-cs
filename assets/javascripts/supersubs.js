@@ -15,7 +15,6 @@
  */
 
 
-
 ;(function($){ // $ will refer to jQuery within this closure
 
 	$.fn.supersubs = function(options){

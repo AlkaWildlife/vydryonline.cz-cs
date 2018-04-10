@@ -1,5 +1,4 @@
 /*** adding sf-vertical in addition to sf-menu creates a vertical menu ***/
-
 .sf-vertical, .sf-vertical li {
   width: 10em; }
 

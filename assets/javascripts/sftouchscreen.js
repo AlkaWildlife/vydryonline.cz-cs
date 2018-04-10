@@ -13,7 +13,6 @@
 */
 
 
-
 (function($){
   $.fn.sftouchscreen = function() {
     // Return original object to support chaining.

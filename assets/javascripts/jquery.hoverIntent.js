@@ -28,7 +28,6 @@
 * @author    Brian Cherne brian(at)cherne(dot)net
 */
 
-
 (function($) {
 	$.fn.hoverIntent = function(f, g, filter) {
 		// default configuration options
