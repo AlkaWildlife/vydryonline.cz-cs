@@ -7,9 +7,11 @@ layout: user_answers
 
 {% include user_answer_info.html user_answer=page %}
 
-<div class="item_img img-full img-full__none item-image">
-  <img src="{{ page.image | relative_url }}">
-</div>
+{% if page.image %}
+  <div class="item_img img-full img-full__none item-image">
+    <img src="{{ page.image | relative_url }}">
+  </div>
+{% endif %}
 
 <div class="item_fulltext">
   {{ content }}
