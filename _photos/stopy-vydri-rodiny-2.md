@@ -1,13 +1,12 @@
 ---
-title: stopy vydří rodiny
+title: Stopy vydří rodiny
 image: "/uploads/IMG_7323.jpg"
 author: libor-prauz
 tags:
 - stopy
 - pobytové znaky
-galleries: news-slash-pri-stopovani-na-dacicku-se-ukazala-i-vydra-a-nejen-tam
+gallery: /news/pri-stopovani-na-dacicku-se-ukazala-i-vydra
 position: 117
 date: 2017-02-05 10:22:40.000000000 Z
 ---
-stopní dráhy vydří rodiny, samice se dvěma mláďaty
-
+Stopní dráhy vydří rodiny, samice se dvěma mláďaty

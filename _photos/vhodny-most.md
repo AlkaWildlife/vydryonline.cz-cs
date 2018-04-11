@@ -1,13 +1,12 @@
 ---
-title: vhodný most
+title: Vhodný most
 image: "/uploads/most1_1000.jpg"
 author: lukas-polednik
 tags:
 - mosty průchozí
-galleries: slash-vydra-slash-vydry-a-silnice-slash-obecna-pravidla-pro-upravu-rizikovych-mist
+gallery: /vydra/vydry-a-silnice/obecna-pravidla-pro-upravu-rizikovych-mist
 position: 6
 date: 2016-04-08 14:24:15.000000000 Z
 ---
-bezproblémový most s velmi širokým podmostím, kde projde celá řada
-živočichů včetně vyder. 
-
+Bezproblémový most s velmi širokým podmostím, kde projde celá řada
+živočichů včetně vyder.

@@ -1,10 +1,10 @@
 ---
-title: stopa vydry
+title: Stopa vydry
 image: "/uploads/20170119_115906.jpg"
 author: jan-svanyga
 tags:
 - pobytové znaky
-galleries: slash-news-slash-zima-umoznila-spocitat-vydry-v-orlickych-horach
+gallery: /news/zima-umoznila-spocitat-vydry-v-orlickych-horach
 position: 102
 date: 2017-01-26 07:19:06.000000000 Z
 ---

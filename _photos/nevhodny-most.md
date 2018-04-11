@@ -1,5 +1,5 @@
 ---
-title: nevhodný most
+title: Nevhodný most
 image: "/uploads/DSCN1266.JPG"
 author: lukas-polednik
 tags:
@@ -9,4 +9,3 @@ date: 2016-04-30 13:40:04.000000000 Z
 ---
 Podmostí, kde voda sahá od stěny ke stěně se vydry vyhýbají. Takový most
 obchází horem přes silnici.
-

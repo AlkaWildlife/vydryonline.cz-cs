@@ -1,117 +1,73 @@
 ---
-title: Sčítání vyder v Krkonoších
+title: Sčítání vyder v Krkonoších
 image: "/uploads/02_u_610.jpg"
 date: 2017-01-09
 ---
+Mínus dvacet tři a metr sněhu jsme překonali, abychom spočítali vydry
+v Krkonoších.
 
+Vydry jsou noční a poměrně mobilní, za noc překonávají
+několikakilometrové vzdálenosti, proto je poměrně složité, zjistit
+kolik jich v daném území žije. Jednou z metod, která to umožňuje je
+stopování na sněhu. To však musí být provedeno tak, aby se ve
+sledovaném území přesně zmapovaly celé stopní dráhy – tím se od sebe
+odliší jednotlivá zvířata a je možné je tak spočítat. To je ale
+náročné na organizaci – několik stopařů musí v den, kdy jsou na sněhu
+stopy jen z jedné noci projít všechny toky ve sledovaném
+území. Tentokrát se nám to podařilo v Krkonoších.
 
-Mínus dvacet tři a metr sněhu jsme překonali, abychom spočítali vydry v
-Krkonoších.
-
-Vydry jsou noční a poměrně mobilní, za noc překonávají
-několikakilometrové vzdálenosti, proto je poměrně složité, zjistit kolik
-jich v daném území žije. Jednou z metod, která to umožňuje je stopování
-na sněhu. To však musí být provedeno tak, aby se ve sledovaném území
-přesně zmapovaly celé stopní dráhy – tím se od sebe odliší jednotlivá
-zvířata a je možné je tak spočítat. To je ale náročné na organizaci –
-několik stopařů musí v den, kdy jsou na sněhu stopy jen z jedné noci
-projít všechny toky ve sledovaném území. Tentokrát se nám to podařilo v
-Krkonoších.
-
-![](/uploads/04_u_610.jpg)
-
-*Sčítání vyder probíhá kontrolou stopních drah podél toků a vodních
-ploch.*
+![](/uploads/04_u_610.jpg) *Sčítání vyder probíhá kontrolou stopních
+drah podél toků a vodních ploch.*
 
 Krkonoše jsme nezkontrolovali celé, ale vybrali jsme území dle
-faunistické mapovací sítě a to tak, aby zahrnulo horní i dolní úseky
-řek. Zkontrolovali jsme toky Malé Labe, Labe a Jizerka a jejich přítoků
-od horních úseků až do podhůří. Celkově se jednalo o plochu 200 km
-čtverečních. 
+faunistické mapovací sítě a to tak, aby zahrnulo horní i dolní úseky
+řek. Zkontrolovali jsme toky Malé Labe, Labe a Jizerka a jejich přítoků
+od horních úseků až do podhůří. Celkově se jednalo o plochu 200 km
+čtverečních.
 
-A výsledek? Napočítali jsme 4 samostatné dospělé jedince a jednu rodinu
-– samici se dvěma mláďaty. Všechna zvířata se nacházela dle našeho
-předpokladu v „dolním“ kvadrátu, v dolních úsecích řek. Nejvyšší partie
-toků v Krkonoších byly totiž natolik zamrzlé, že v podstatě již
-neposkytovaly žádné prostředí pro vydru.
+A výsledek? Napočítali jsme 4 samostatné dospělé jedince a jednu
+rodinu – samici se dvěma mláďaty. Všechna zvířata se nacházela dle
+našeho předpokladu v „dolním“ kvadrátu, v dolních úsecích
+řek. Nejvyšší partie toků v Krkonoších byly totiž natolik zamrzlé, že
+v podstatě již neposkytovaly žádné prostředí pro vydru.
 
-![](/uploads/IMG_0384_u.JPG)
+![](/uploads/IMG_0384_u.JPG) *Stopy vydří rodiny na řece Jizerce.*
 
-*Stopy vydří rodiny na řece Jizerce.*
+Při sčítání jsme bohužel narazili na celou řadu problémů, se kterými
+se vydry v Krkonoších musí potýkat, přestože se jedná o národní
+park. A bohužel výsledky sčítání tomu zcela odpovídaly. Regulace toků
+je zde obrovská. Malé Labe je jen odtokový kanál svedený do kolmých
+stěn – vydru jsme zde v tento den žádnou nenašli. Na samotném Labi se
+vydry pohybovaly až dole ve Vrchlabí, kde jim vlastně jen ledové
+klouzačky na jezech umožnily propátrat části toku, kde se asi jindy
+v roce kvůli jezům a stěnám vůbec nedostanou. V horní části, v okolí
+Špindlerova mlýna jsme místo vyder narazili jen na kaskády jezů, které
+způsobují obrovskou fragmentaci toků pro ryby, hlavní potravu
+vyder. Ač lyžař jsem si zde smutně prohlížela nápisy typu „Nová éra“
+a „Šindlerům mlýn – město zážitků“ a přitom stála ve skiareálu a pode
+mnou v zemi v délce přes 250 m tekl Svatopetrský potok. Na ústí do
+podzemního kanálu je navíc nepřekonatelný dvojitý jez a vydry se tak
+do horních partií toku mohou dostat pouze přeběhem mezi lyžaři ve
+skiareálu, kde je i noční lyžování. Nejvíce vyder jsme tak našli na
+řece Jizerka, která je ze zmíněných toků nejzachovalejší. Zde jsme
+našli i samici se dvěma mláďaty.
 
-Při sčítání jsme bohužel narazili na celou řadu problémů, se kterými se
-vydry v Krkonoších musí potýkat, přestože se jedná o národní park. A
-bohužel výsledky sčítání tomu zcela odpovídaly. Regulace toků je zde
-obrovská. Malé Labe je jen odtokový kanál svedený do kolmých stěn –
-vydru jsme zde v tento den žádnou nenašli. Na samotném Labi se vydry
-pohybovaly až dole ve Vrchlabí, kde jim vlastně jen ledové klouzačky na
-jezech umožnily propátrat části toku, kde se asi jindy v roce kvůli
-jezům a stěnám vůbec nedostanou. V horní části, v okolí Špindlerova
-mlýna jsme místo vyder narazili jen na kaskády jezů, které způsobují
-obrovskou fragmentaci toků pro ryby, hlavní potravu vyder. Ač lyžař jsem
-si zde smutně prohlížela nápisy typu „Nová éra“ a „Šindlerům mlýn –
-město zážitků“ a přitom stála ve skiareálu a pode mnou v zemi v délce
-přes 250 m tekl Svatopetrský potok. Na ústí do podzemního kanálu je
-navíc nepřekonatelný dvojitý jez a vydry se tak do horních partií toku
-mohou dostat pouze přeběhem mezi lyžaři ve skiareálu, kde je i noční
-lyžování. Nejvíce vyder jsme tak našli na řece Jizerka, která je ze
-zmíněných toků nejzachovalejší. Zde jsme našli i samici se dvěma
-mláďaty.
+![](/uploads/IMG_7198_610.JPG) *Svatopeterský potok vytéká z tunelu pod
+ski areálem.*
 
-![](/uploads/IMG_7198_610.JPG)
+Sněhová nadílka z minulého týdne nám snad dovolí další stopování
+v následujících dnech v dalších oblastech.
 
-*Svatopeterský potok vytéká z tunelu pod ski areálem.*
-
-
-
-Sněhová nadílka z minulého týdne nám snad dovolí další stopování v
-následujících dnech v dalších oblastech.
-
-
-
-
-
-<div>
-<div class="wrapper-inner">
-<div>
-<div class="row-container">
-<div class="container-fluid">
-<div class="content-inner row-fluid">
-<div class="span9">
-<div class="page-item page-item__">
-<div>
-<div class="item_fulltext">
-<div markdown="1">
-Sčítání vyder je prováděno v rámci projektu [Realizace vybraných
-opatření Programu péče pro vydru říční v ČR][1]{: rel="nofollow"}.
+Sčítání vyder je prováděno v rámci projektu [Realizace vybraných
+opatření Programu péče pro vydru říční v ČR][1].
 
 ![](/uploads/loga_mgs_stojato_mm.jpg){: .wysiwyg-float-left}*Podpořeno
-grantem z Islandu, Lichtenštejnska a Norska.*
+grantem z Islandu, Lichtenštejnska a Norska.*
 
-*Tato akce byla realizována za finanční podpory EHP fondů 2009-2014 a
-Ministerstva životního prostředí. Za její obsah je výhradně odpovědná
-ALKA Wildlife,o.p.s. a nelze ji v žádném případě považovat za názor
-donora nebo Ministerstva životního prostředí.*
-{: .wysiwyg-text-align-justify}
-
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-
-  
+*Tato akce byla realizována za finanční podpory EHP fondů 2009–2014
+a Ministerstva životního prostředí. Za její obsah je výhradně
+odpovědná ALKA Wildlife, o.p.s. a nelze ji v žádném případě považovat
+za názor donora nebo Ministerstva životního prostředí.*
 
 
-   
-
-
-
-
-[1]: http://www.vydryonline.cz/projekt "Link: http://www.alkawildlife.eu/page.php?mx=55_projekty/aktualni&amp;ax=156_realizace-vybranych-opatreni-programu-pece-pro-vydru-ricni-v-cr&amp;lx=cz&amp;ft=&amp;us="
+[1]: http://www.vydryonline.cz/projekt

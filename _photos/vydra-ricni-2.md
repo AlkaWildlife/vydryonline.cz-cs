@@ -1,5 +1,5 @@
 ---
-title: vydra říční
+title: Vydra říční
 image: "/uploads/vydra_a_mlade.JPG"
 author: alka-wildlife-ops
 tags:
@@ -7,5 +7,4 @@ tags:
 position: 17
 date: 2016-04-08 18:40:47.000000000 Z
 ---
-Dva jedinci vydry říční (záběr z fotopasti)
-
+Dva jedinci vydry říční (záběr z fotopasti)

@@ -1,5 +1,5 @@
 ---
-title: trus a výměšek vydry
+title: Trus a výměšek vydry
 image: "/uploads/IMG_6407.JPG"
 author: katerina-polednikova
 tags:
@@ -9,6 +9,5 @@ tags:
 position: 18
 date: 2016-04-30 11:33:12.000000000 Z
 ---
-středně starý a čerstvý trus vydry říční, vzadu výměšek žláz (tzv.
-jelly)
-
+Středně starý a čerstvý trus vydry říční, vzadu výměšek žláz
+(tzv. jelly)

@@ -1,5 +1,5 @@
 ---
-title: stopa vydry
+title: Stopa vydry
 image: "/uploads/IMG_1416.JPG"
 author: katerina-polednikova
 tags:
@@ -9,4 +9,4 @@ tags:
 position: 23
 date: 2016-04-30 12:15:33.000000000 Z
 ---
-stopa vydry říční v bahně na břehu řeky 
+Stopa vydry říční v bahně na břehu řeky

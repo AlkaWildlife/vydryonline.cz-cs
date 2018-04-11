@@ -7898,6 +7898,22 @@ blockquote p:after {
 blockquote small {
   text-align: right; }
 
+.item_fulltext blockquote {
+  border-left: medium solid rgb(165, 170, 102);
+  border-left: medium solid rgba(97, 123, 0, 0.57);
+  padding-left: 1em;
+  margin-bottom: 24px; }
+
+.item_fulltext blockquote p:before {
+  content: normal; }
+
+.item_fulltext blockquote p:after {
+  content: normal; }
+
+#component .item_fulltext blockquote p:last-child,
+.item_fulltext blockquote p:last-child {
+  padding-bottom: 0; }
+
 #aside-right .moduletable {
   margin: 0 0 50px; }
 
@@ -9837,6 +9853,12 @@ article {
     .item_fulltext ul li {
       line-height: 1.5em;
       list-style-type: disc; }
+  .item_fulltext table {
+    border-collapse: collapse; }
+    .item_fulltext table th,
+    .item_fulltext table td {
+      border: 1px solid;
+      padding: .5em 1em; }
 
 .search-term, .search-results {
   font-size: 1rem; }

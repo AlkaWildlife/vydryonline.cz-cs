@@ -1,5 +1,5 @@
 ---
-title: stopní dráha vydry
+title: Stopní dráha vydry
 image: "/uploads/IMG_1414.JPG"
 author: katerina-polednikova
 tags:
@@ -9,5 +9,4 @@ tags:
 position: 24
 date: 2016-04-30 12:16:32.000000000 Z
 ---
-stopní dráha vydry v bahně na břehu řeky
-
+Stopní dráha vydry v bahně na břehu řeky

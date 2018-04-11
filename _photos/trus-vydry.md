@@ -1,5 +1,5 @@
 ---
-title: trus vydry
+title: Trus vydry
 image: "/uploads/IMG_6393.JPG"
 author: katerina-polednikova
 tags:
@@ -9,5 +9,4 @@ tags:
 position: 21
 date: 2016-04-30 12:11:18.000000000 Z
 ---
-středně starý trus vydry říční
-
+Středně starý trus vydry říční

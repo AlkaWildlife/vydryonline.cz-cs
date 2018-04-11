@@ -1,5 +1,5 @@
 ---
-title: vydra říční
+title: Vydra říční
 image: "/uploads/vydry12_1000.jpg"
 author: katerina-polednikova
 tags:
