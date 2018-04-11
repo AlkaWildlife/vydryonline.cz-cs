@@ -1,7 +1,88 @@
 # coding: utf-8
 require 'yaml'
+require_relative 'util'
 
 PAGES_DIR = '_md_pages'
+
+def md_files
+  excluded = [jekyll_config['destination']] + jekyll_config['exclude']
+  Dir['**/*.md'].
+    reject {|f| excluded.include? f }.
+    reject {|f| excluded.any? {|ex| f.start_with? ex } }.
+    select {|f| File.file? f }
+end
+
+def parsed_md_files
+  md_files.
+    map {|f| [f] + File.read(f).split(/^---$/, 3) }.
+    map {|f, _, fm_raw, body| [f, YAML.load(fm_raw), body] }
+end
+
+def scalar_values h
+  enum = if h.is_a? Hash then h.values else h end
+  enum.
+    map {|v| if v.is_a? Enumerable then scalar_values v else v end }.
+    flatten
+end
+
+def any_strings h, fn
+  scalar_values(h).
+    select {|v| v.is_a? String }.
+    map {|v| send(fn, v) }.
+    flatten
+end
+
+def match_all md, res
+  res.reduce([]) do |res, re|
+    pos = 0
+    while m = re.match(md, pos)
+      res << m[0]
+      pos = m.end 0
+    end
+
+    res
+  end
+end
+
+WEIRD_MARKDOWN_RES = [
+  /\\/,
+  /(?:\r\n|\n){3,}(?!\[[^\]\n]\]:|\z)/m,
+  /(?:\r\n|\n){2,}\z/m,
+  / +(?:\r\n|\n)?\z/m,
+  /\{::\}/,
+  /\{:\s+(?!\.wysiwyg-float-(?:left|right)\})/m,
+  /"Link: /,
+  /^\[[^\]]\]:.+"$/,
+  /"\)/,
+  /<\/?(?!iframe\b)/i,
+  /&\w+;/,
+  /\b\p{Zs}$/,
+  /\p{Zs}{3,}$/,
+  /\p{Zs}{2,}(?!$)/
+]
+
+def weird_markdown md
+  match_all md, WEIRD_MARKDOWN_RES
+end
+
+CZECH_TYPO_RES = [
+  /\b[ksvzouai](?: |\r\n|\n)/mi,
+  /\p{Nd}+\.?(?: |\r\n|\n)/m,
+  /\b\p{L}{1,3}\.(?: |\r\n|\n)/m,
+  /\b\p{Ll}{1,3}\.(?: |\r\n|\n)\p{Ll}/m,
+  /\b\p{Lu}{1,3}\.(?: |\r\n|\n)\p{Lu}/m,
+  /\p{Alnum}+\.\p{Alnum}+/m,
+  /\A\p{Ll}[^\b]?\b/,
+  /['"”]/,
+  /\.{3}/,
+  /–$/,
+  /\p{Nd}+\.?\b\s*-\s*\p{Nd}+\.?/m,
+  /\s+-\s+/m
+]
+
+def czech_typo str
+  match_all str, CZECH_TYPO_RES
+end
 
 namespace "pages" do
   desc "Transform special page files with no body to Markdown pages\n" +
@@ -109,6 +190,36 @@ namespace "pages" do
                    File.basename(f, '.html') + '.md'
         File.write(filename, fm.to_yaml + "---\n" + body + "\n")
         File.unlink f }
+  end
+
+  task :list do
+    md_files.each {|f| puts f }
+  end
+
+  desc "Detect Markdown documents with formatting needing attention\n" +
+       "\n" +
+       "It looks for escape sequences, kramdown ALDs with exception of\n" +
+       "floats from WYSIWYG editor, empty lines and HTML elements."
+  task :todo do
+    parsed_md_files.
+      map {|f, fm, body| ms = any_strings(fm, :weird_markdown) +
+                              weird_markdown(body)
+                         [f, ms] }.
+      reject {|f, ms| ms.empty? }.
+      each {|f, ms| ms.each {|m| puts "#{f}: #{m.inspect}" } }
+  end
+
+  desc "Detect candidates for fixes according to Czech convention\n" +
+       "\n" +
+       "Czech grammar describes where should be non-braking\n" +
+       "spaces. Sometimes it requires deeper understanding of the context."
+  task :czech_typo do
+    parsed_md_files.
+      map {|f, fm, body| ms = any_strings(fm, :czech_typo) +
+                              czech_typo(body)
+                         [f, ms] }.
+      reject {|f, ms| ms.empty? }.
+      each {|f, ms| ms.each {|m| puts "#{f}: #{m.inspect}" } }
   end
 
   directory PAGES_DIR
