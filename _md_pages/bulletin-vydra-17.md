@@ -16,7 +16,7 @@ komplet
 **Úvodní strany**  
 [PDF (0,5 MB)](/uploads/cover.pdf)
 
-##### Jednotlivé příspěvky  
+# Jednotlivé příspěvky  
 
 **Rozšíření vydry říční (*Lutra lutra*) v České republice v roce 2016**  
 *strany 4–13 (Odborný článek)*  

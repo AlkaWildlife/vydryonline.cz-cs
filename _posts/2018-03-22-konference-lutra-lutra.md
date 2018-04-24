@@ -11,7 +11,7 @@ v Drážďanech, kde budou představeny nejnovější poznatky k vydře říč
 
 [Program konference (PDF)](/uploads/Konference_Lutra_lutra_program.pdf)
 
-#### Organizační informace
+# Organizační informace
 
 Přednášky budou probíhat v němčině a češtině se simultánním překladem do
 druhého jazyka.  
@@ -22,7 +22,7 @@ Přihlásit na konferenci se můžete na
 [lukas.polednik@alkawildlife.eu](mailto:lukas.polednik@alkawildlife.eu)
 / [606 598 903](tel:+420-606-598-903)
 
-#### Program konference Lutra lutra
+# Program konference Lutra lutra
 
 **9.30: Begrüßung – Přivítání**
 

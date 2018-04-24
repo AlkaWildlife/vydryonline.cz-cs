@@ -27,7 +27,7 @@ jedu navíc ještě i k porušení dalších předpisů řešících použív�
 chemických látek a jedů (Zákon č. 157/1988 Sb., Zákon č. 147/1996
 Sb. a Vyhláška č. 90/2002 Sb.)
 
-#### Dačice 2008: karbofuran
+# Dačice 2008: karbofuran
 
 ![](/uploads/KP_Dacice.JPG){: .wysiwyg-float-left}Na rybniční soustavě
 u Dačic (okres Jindřichův Hradec) a na přilehlém úseku řeky Dyje byly
@@ -42,7 +42,7 @@ ryb.
 
 <div class="clearfix"></div>
 
-#### Dobrnice 2009: karbofuran
+# Dobrnice 2009: karbofuran
 
 ![](/uploads/Hlav___otrava_Dobrnice2009.jpg){: .wysiwyg-float-left}Na
 rybníku necelý kilometr jižně od obce Dobrnice (okres Havlíčkův Brod)
@@ -53,7 +53,7 @@ trusu.
 
 <div class="clearfix"></div>
 
-#### Občiny 2009: železa
+# Občiny 2009: železa
 
 ![](/uploads/Hlav____eleza_Ob_inyHB_3.jpg){: .wysiwyg-float-left}Místní
 občan pozoroval na poli u obce Občiny u Havlíčkova Brodu vydru vlekoucí
@@ -65,7 +65,7 @@ nakonec uhynula.
 
 <div class="clearfix"></div>
 
-#### Veselí nad Lužnicí 2011: zástřel
+# Veselí nad Lužnicí 2011: zástřel
 
 ![](/uploads/DSC_0012_Veseli_n_Luz_24_2_2011_c355.JPG){:
 .wysiwyg-float-left}V únoru 2011 byla nalezena uhynulá vydra na břehu
@@ -74,7 +74,7 @@ samec, bylo střeleno přímo do hlavy.
 
 <div class="clearfix"></div>
 
-#### Mladeč 2011: zástřel
+# Mladeč 2011: zástřel
 
 ![](/uploads/s320_p1030460_mladec_28_3_2011_VB.jpg){:
 .wysiwyg-float-left}V březnu 2011 byla nalezena uhynulá vydra říční na
@@ -86,7 +86,7 @@ která se pravděpodobně ještě stále držela matky.
 
 <div class="clearfix"></div>
 
-#### Lukavice 2012: karbofuran
+# Lukavice 2012: karbofuran
 
 U potoka Ležák u chatové osady východně od obce Lukavice (okres Chrudim)
 byla 19. 2. 2012 nalezena mrtvá vydra. Následné vyšetření prokázalo, že
@@ -98,7 +98,7 @@ v roce 2008.
 
 <div class="clearfix"></div>
 
-#### Mníšek 2014: zástřel
+# Mníšek 2014: zástřel
 
 Těžce postřelená vydra byla nalezena u Mníšku v CHKO Třeboňsko
 v prosinci 2014. I když bylo zvíře ihned operováno v záchranné stanici

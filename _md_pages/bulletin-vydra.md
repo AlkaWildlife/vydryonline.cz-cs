@@ -23,7 +23,7 @@ Příspěvky jsou přijímány průběžně a prochází recenzním řízením.
 Organizaci publikování zajišťovala do čísla 14 AOPK ČR a slovenská ŠOP,
 od čísla 15 zajišťuje společnost ALKA Wildlife, o.p.s. a redakční rada.
 
-#### Redakční rada:
+# Redakční rada:
 
 Kateřina Poledníková  
 Jitka Větrovcová  

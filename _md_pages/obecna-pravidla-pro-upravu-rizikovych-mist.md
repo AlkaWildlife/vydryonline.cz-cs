@@ -8,7 +8,7 @@ listed: true
 position: 2
 layout: two_columns_page
 aside_links: |
-  #### Mapa rizikových míst
+  # Mapa rizikových míst
 
   ![](/uploads/banner_silnice_small.jpg)
 ---
@@ -34,7 +34,7 @@ a doprava.
 
  
 
-#### Brožura Vydra a doprava
+# Brožura Vydra a doprava
 
 ![](/uploads/vydra_a_doprava_-_ob_lka_300.jpg){:
 .wysiwyg-float-left}Publikace je prioritně zaměřena na ochranu vydry
@@ -57,7 +57,7 @@ a doprava](/uploads/vydra_a_doprava_-_web_1.pdf) (pdf, 13 MB)
 
  
 
-#### Příklady
+# Příklady
 
 Příklady vhodných mostů, neprůchozích míst, propustků, různých úprav
 a opatření ke zprůchodnění silnic pro vydry si můžete prohlédnout níže

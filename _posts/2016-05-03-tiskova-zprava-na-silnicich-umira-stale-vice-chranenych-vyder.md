@@ -9,7 +9,7 @@ Tisková zpráva organizace ALKA Wildlife, o.p.s.
 
 **3. května 2016, Lidéřovice**
 
-#### Na silnicích umírá stále více chráněných vyder. Mapová aplikace ukáže, kde jsou nejvíce riziková místa
+# Na silnicích umírá stále více chráněných vyder. Mapová aplikace ukáže, kde jsou nejvíce riziková místa
 
 Silniční doprava stále více ohrožuje chráněné vydry říční. Ročně je
 nalezeno kolem padesáti takto uhynulých zvířat a jejich počet stále

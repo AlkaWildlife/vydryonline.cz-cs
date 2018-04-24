@@ -8,7 +8,7 @@ layout: two_columns_page
 ---
 Publikace jsou seřazeny dle účelu a časově.
 
-#### Články pro veřejnost
+# Články pro veřejnost
 
 [Sběr a analýzy uhynulých vyder v České
 republice](/uploads/ALKA_-_Sb_r_a_anal_zy_vyder_-_web.pdf)  
@@ -31,7 +31,7 @@ Ochrana přírody 4/2011 (pdf; 3,4 MB)
 [Program péče o vydru říční](/uploads/vydra_000496.pdf)  
 Ochrana přírody 3/2007 (220 kB)
 
-#### Odborné publikace
+# Odborné publikace
 
 [Distribution and molecular phylogeny of biliary trematodes
 (*Opistrorchiidae*) infecting native *Lutra lutra* and alien *Neovison
@@ -103,7 +103,7 @@ ochrany přírody 2/2017: 37–42 (pdf; 2,3 MB)
 Poledník L., Poledníková K., Beran V. a Mináriková T. (2017): Ochrana
 přírody 3: 25–28
 
-#### Strategické a metodické dokumenty a publikace
+# Strategické a metodické dokumenty a publikace
 
 [Program péče pro vydru říční (*Lutra lutra*) v České republice v letech
 2009–2018](/uploads/program-pece-pro-vydru-ricni-2009-2018.pdf)  

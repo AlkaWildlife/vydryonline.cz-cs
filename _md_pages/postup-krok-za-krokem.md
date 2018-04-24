@@ -14,15 +14,15 @@ musíte splnit zákonem stanovené podmínky.
 Níže uvedený postup dodržujte i v pořadí, jak je uvedeno.
 
 1. Zajistit si **odborný posudek** (posuzovatel musí rybník navštívit ve
-škodním období, tedy před podáním žádosti, navíc ve většině případů vám
-posuzovatelé poradí co a jak)
+   škodním období, tedy před podáním žádosti, navíc ve většině případů
+   vám posuzovatelé poradí co a jak)
 
 2. Podat **žádost o místní šetření** od místního úřadu (obec
-s rozšířenou působností, referát životního prostředí)
+   s rozšířenou působností, referát životního prostředí)
 
 3. Podat **žádost o náhradu škod** na krajský úřad
 
-#### Odborný posudek
+# Odborný posudek
 
 Povinnou přílohou žádosti o náhradu škod v případě vydry je odborný
 posudek, který odhaduje výši škod způsobených vydrou říční. Metodika
@@ -49,7 +49,7 @@ Kontakty na společnosti, které provádí posudky:
 
 [Stanice Pavlov, o.p.s. (sídlí u Světlé nad Sázavou)][3]
 
-#### Žádost o místní šetření
+# Žádost o místní šetření
 
 O škodě musíte informovat pracovníka místně příslušného odboru životního
 prostředí **obecního úřadu s rozšířenou působností** a požádat zde
@@ -59,7 +59,7 @@ Vaší žádosti musí provést kontrolu v terénu, při kterém prokáže či
 neprokáže přítomnost vydry říční na Vašem rybníce. Nehodnotí výši škody,
 jen potvrzuje přítomnost.
 
-#### Žádost o náhradu škod
+# Žádost o náhradu škod
 
 Žádost o náhradu škod se podává k místně příslušnému **krajskému
 úřadu**. V případě, že žádáte o náhradu škod na více rybníků, které se
@@ -105,7 +105,7 @@ je třeba dodržet nebo případně požádat o její prodloužení. Vše tedy 
 ale v případě nejasností je dobré komunikovat s pracovníkem krajského
 úřadu a dodržovat lhůty.
 
-#### Ke stažení
+# Ke stažení
 
 [Vzor žádosti o místní šetření](/uploads/vzor_zadost_mistni_setreni.doc)
 (doc)

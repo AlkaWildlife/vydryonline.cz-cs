@@ -8,7 +8,7 @@ listed: true
 position: 0
 layout: two_columns_page
 ---
-#### Náplň opatření
+# Náplň opatření
 
 Úhyny vyder na silnicích mírně ale dlouhodobě stoupají, jednoznačnou
 příčinou je stále stoupající autoprovoz a budování nové dopravní
@@ -32,9 +32,9 @@ opatření směřovaného pro vydru říční je, že umožní průchodnost i �
 dalších živočichů pohybujících se kolem vody a povede tak k celkovému
 snižování fragmentace krajiny.
 
-### Výstupy:
+# Výstupy:
 
-#### [![](/uploads/vydrynasilnici_300.jpg){: .wysiwyg-float-left}][1]Online mapová aplikace [WWW.VYDRYNASILNICI.CZ](WWW.VYDRYNASILNICI.CZ)
+## [![](/uploads/vydrynasilnici_300.jpg){: .wysiwyg-float-left}][1]Online mapová aplikace [WWW.VYDRYNASILNICI.CZ](WWW.VYDRYNASILNICI.CZ)
 
 Online mapa obsahuje dvě základní vrstvy: 1) všechna zaznamenaná místa
 úhynů vyder na našich silnicích a 2) riziková místa, který byla
@@ -44,7 +44,7 @@ priorit, přiložena je fotodokumentace a návrh řešení, jak daná místa pr
 vydry zprůchodnit. Aplikace je určena zejména pracovníkům OOP a správcům
 silnic.
 
-#### ![](/uploads/vydra_a_doprava_-_ob_lka_300.jpg){: .wysiwyg-float-left}Brožura
+## ![](/uploads/vydra_a_doprava_-_ob_lka_300.jpg){: .wysiwyg-float-left}Brožura
 
 [Vydra a doprava (pdf; 13 MB)](/uploads/vydra_a_doprava_-_web_1.pdf)
 
@@ -54,7 +54,7 @@ Tištěnou verzi pošleme na vyžádání.
 
  
 
-#### Publikace
+## Publikace
 
 [Poledník L. a Poledníková K. (2017): Vydra a doprava – problém, který
 je možné řešit. Fórum ochrany přírody 1/2017:

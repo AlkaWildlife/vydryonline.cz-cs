@@ -8,7 +8,7 @@ listed: true
 position: 1
 layout: two_columns_page
 ---
-#### Náplň opatření:
+# Náplň opatření:
 
 Monitoring populace/sledování jejího stavu je nedílnou součástí PP
 a ochrany druhu a jedná se o dlouhodobé opatření, které je potřebné
@@ -18,7 +18,7 @@ na čerstvém sněhu. Během jednoho dne se na čerstvém sněhu kontroluji
 všechny vodní toky a plochy v kvadrátu o velikosti 10 × 10 km a dle
 nalezených stopních drah je určen počet jedinců a rodin.
 
-#### Aktuality:
+# Aktuality:
 
 [Počítali jsme vydry na Dačicku](/news/pocitali-jsme-vydry-na-dacicku)
 
@@ -30,7 +30,7 @@ horách](/news/zima-umoznila-spocitat-vydry-v-orlickych-horach)
 [Při stopování na Dačicku se ukázala i vydra, a nejen
 tam](/news/pri-stopovani-na-dacicku-se-ukazala-i-vydra)
 
-#### Výstupy
+# Výstupy
 
 [Polednik L., Poledníková K., Větrovcová J., Beran V. a Pavel V. (2017):
 Zimní sčítání vydry říční ve vybraných oblastech České republiky

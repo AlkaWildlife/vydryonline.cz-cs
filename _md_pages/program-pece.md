@@ -39,7 +39,7 @@ přežití v našich poměrech je právě vyřešení konfliktu její existence
 zájmy rybářství. Pro konfliktní druhy se pak nevytváří tzv. záchranné
 programy, ale tzv. programy péče.
 
-##### Dlouhodobý cíl programu péče
+# Dlouhodobý cíl programu péče
 
 Zajistit nezhoršení stavu z hlediska velikosti populace a plochy areálu
 rozšíření vydry říční v rámci ČR. Za současný areál rozšíření se pro
@@ -48,7 +48,7 @@ monitoringu v r. 2006 a monitoringu okrajových oblastí výskytu
 v r. 2008. Za zmenšení areálu se považuje úbytek trvale obsazených
 kvadrátů nebo úbytek přechodně obsazených kvadrátů o více než 20 %.
 
-##### Hlavní okruhy opatření
+# Hlavní okruhy opatření
 
 * osvěta cílových skupin, zejména rybářů, a tím zlepšením jejich vztahu
   k vydře

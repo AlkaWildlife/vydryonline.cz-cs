@@ -33,7 +33,7 @@ republice, jsou považovány:
   zase přibývají a postupně je teprve jejich negativní vliv na prostředí
   zjišťován)
 
-#### Mise stránek vydryonline.cz
+# Mise stránek vydryonline.cz
 
 * komplexní a aktuální informace k vydře říční v České republice
 * informování o realizaci projektu Realizace vybraných opatření pro

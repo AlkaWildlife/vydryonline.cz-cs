@@ -6,7 +6,7 @@ listed: true
 position: 3
 layout: single_column_page
 ---
-#### **Bulletin Vydra**
+# **Bulletin Vydra**
 
 **jazyk příspěvku**: česky, slovensky, anglicky
 
@@ -24,7 +24,7 @@ poštou na CD: ALKA Wildlife, o.p.s., Lidéřovice 62, 380 01  Dačice
 
 Zasílat můžete kdykoliv po celý rok.
 
-#### Formát textu
+# Formát textu
 
 (protože redakční rada pracuje ve svém volnu a její práce není nijak
 honorovaná, prosíme o co nejpřesnější dodržení instrukcí, abychom
@@ -42,7 +42,7 @@ diskuse, literatura).
 jazyce v případě slovensky a česky psaných příspěvků a naopak česky či
 slovensky v případě anglicky psaných příspěvků.
 
-###### Text:
+## Text:
 
 * **zarovnání do bloku**: řádkování 1,15
 * **název článku**: Times New Roman, velikost písma 14, bold

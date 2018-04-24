@@ -15,7 +15,7 @@ aside_links: |
   [2]: https://www.facebook.com/AlkaWildlife
        "Facebooková stránka ALKA Wildlife"
 ---
-#### Provozovatel stránek:
+# Provozovatel stránek:
 
 ALKA Wildlife, o.p.s.
 

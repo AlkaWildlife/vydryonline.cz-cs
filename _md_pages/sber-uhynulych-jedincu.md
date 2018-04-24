@@ -8,7 +8,7 @@ listed: true
 position: 2
 layout: two_columns_page
 ---
-#### Náplň opatření:
+# Náplň opatření:
 
 Sběr probíhá na základě hlášení nálezců z řad veřejnosti. V rámci
 samotného sběru členové týmu musí pro uhynulého jedince zajet. Poté je
@@ -26,7 +26,7 @@ Další materiál je uchováván (vzorky svaloviny, jater, kostí) nebo
 předáván na další pracoviště: vzorek pro genetické analýzy (UBO AV ČR),
 vzorek pro měření těžkých kovů a rtuti (FCHT Universita Pardubice).
 
-#### Výstupy:
+# Výstupy:
 
 ![](/uploads/titulni_strana_300.jpg){: .wysiwyg-float-left}Brožura
 v tištěné a pdf verzi (tištěnou verzi na požádání zašleme; pdf lze

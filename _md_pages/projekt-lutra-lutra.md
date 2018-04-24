@@ -7,22 +7,22 @@ position: 1
 layout: two_columns_page
 aside_title: Další projekty
 ---
-#### **Trvání:** 10/2017 – 9/2020
+# **Trvání:** 10/2017 – 9/2020
 
-#### **Finanční zdroje**:
+# **Finanční zdroje**:
 
 ERDF (Evropský fond pro regionální rozvoj)
 
 ![](/uploads/Emblem_Europaeische_Union_mit_Verweis_Fonds_Farbe_300.jpg)
 
-#### **Program**:
+# **Program**:
 
 ![](/uploads/SNCZ2020_Zusatz_RGB_150dpi_300_m.jpg){:
 .wysiwyg-float-left}Programu na podporu přeshraniční spolupráce mezi
 Českou republikou a Svobodným státem Sasko 2014–2020  
 **Oficiální stránky programu:** [http://www.sn-cz2020.eu][1]
 
-#### **Partneři:**
+# **Partneři:**
 
 **Vedoucí partner**: [AG Naturschutzinstitut Region Dresden
 e.V.][2]
@@ -31,7 +31,7 @@ e.V.][2]
 [Alka Wlidlife, o. p. s.][3]  
 [Muzeum města Ústí nad Labem][4]
 
-#### **Kontaktní osoba:**
+# **Kontaktní osoba:**
 
 Kateřina Poledníková  
 e-mail: [katerina.polednikova@alkawildlife.eu](mailto:katerina.polednikova@alkawildlife.eu)  
@@ -56,7 +56,7 @@ a kritická místa upravit a vydrám zajistit lepší budoucnost? A kdo by to
 mohl udělat? Na tyto otázky bychom chtěli odpovědět v rámci projektu
 Lutra lutra.
 
-#### **Cíle projektu**
+# **Cíle projektu**
 
 - Identifikace migračních koridorů mezi českými a saskými subpopulacemi
   vydry
@@ -71,10 +71,10 @@ Lutra lutra.
 
 - Osvěta, informovanost široké i odborné veřejnosti
 
-#### ![](/uploads/Vydra-ricni-9012_610.jpg)  
+# ![](/uploads/Vydra-ricni-9012_610.jpg)  
 *autor foto: Jiří Bohdal*
 
-#### **Aktivity projektu**
+# **Aktivity projektu**
 
 **Monitoring**
 
@@ -124,7 +124,7 @@ zpracována informační publikace. Dohledány a kontaktovány budou rybářsk�
 subjekty i další relevantní subjekty a instituce s cílem zajistit pro
 vydry dlouhodobě stabilní vhodné prostředí.
 
-#### **Aktuality**
+# **Aktuality**
 
 [Začínáme výzkum vyder v Krušných
 horách](/news/zaciname-vyzkum-vyder-v-krusnych-horach)

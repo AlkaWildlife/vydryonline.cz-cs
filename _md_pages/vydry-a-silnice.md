@@ -31,20 +31,20 @@ pracovníky orgánů ochrany přírody a správce silnic, aby teoretické
 znalosti byly využity v praxi. Najdete zde, **kde** je potřeba provést
 opatření a **jak** to udělat.
 
-#### [Online poradna](/user-answers)
+# [Online poradna](/user-answers)
 
 Pokud nenajdete v této sekci to, co hledáte, zkuste se podívat do naší
 online poradny. Pokud potřebujete vyřešit nějakou konkrétní situaci na
 silnici, napište nám.
 
-#### [Mapa uhynulých vyder a rizikových míst][1]
+# [Mapa uhynulých vyder a rizikových míst][1]
 
 Mapová aplikace obsahuje všechna zdokumentovaná místa vyder uhynulých na
 silnicích od roku 1970. Postupně je plněná také detailními informacemi
 k jednotlivým rizikovým místům: o jaký problém jde a jak by se daly
 řešit.
 
-#### [Fotogalerie](/gallery)
+# [Fotogalerie](/gallery)
 
 Řadu příkladů vhodných či nevhodných mostů/propustků/hrází, opatření jak
 místo na silnici zlepšit si můžete prohlédnout ve fotogalerii, kde pro

@@ -16,7 +16,7 @@ celé číslo v jednom souboru ke stažení
 **Úvodní strana a obsah**  
 [PDF (350 kB)](/uploads/BV_cover_15_2012.pdf)
 
-#### Jednotlivé příspěvky:
+# Jednotlivé příspěvky:
 
 **Co se událo v rámci programu péče pro vydru říční v ČR v roce 2011?**  
 *strany 4–8 (Sekce: Péče o druhy)*  

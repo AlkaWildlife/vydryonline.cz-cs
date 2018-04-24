@@ -7,11 +7,11 @@ listed: true
 position: 0
 layout: two_columns_page
 aside_links: |
-  #### [Mapa rizikových míst](http://www.vydrynasilnici.cz)
+  # [Mapa rizikových míst](http://www.vydrynasilnici.cz)
 
   ![](/uploads/banner_silnice_small.jpg)
 ---
-#### Pokud jste našli mrtvou vydru, kontaktujte nás!
+# Pokud jste našli mrtvou vydru, kontaktujte nás!
 
 S Vaší pomocí každoročně sbíráme uhynulé vydry říční z celého území
 České republiky.
@@ -23,7 +23,7 @@ informace, které budou dále použity při její ochraně i ochraně dalších
 živočichů, kteří využívají stejné prostředí jako vydry. Více se o sběru
 a analýzách dozvíte [zde](sber-uhynulych-vyder).
 
-#### Postup při nálezu uhynulé vydry
+# Postup při nálezu uhynulé vydry
 
 Pokud naleznete uhynulou vydru, zavolejte prosím na jedno z těchto čísel
 a vyplňte, co víte ve formuláři, který si níže můžete stáhnout.

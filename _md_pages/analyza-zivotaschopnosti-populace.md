@@ -8,7 +8,7 @@ listed: true
 position: 3
 layout: two_columns_page
 ---
-#### Náplň opatření:
+# Náplň opatření:
 
 Analýza životaschopnosti populace vydry říční v České republice byla
 provedena v rámci projektu VAV (SP/2D4/16/08). V rámci projektu
@@ -17,7 +17,7 @@ použity jak deterministické metody (životní tabulky), tak stochastické
 modely (PVA) založené na přežívání jednotlivců. Vzhledem k charakteru
 druhu a počtu jedinců bude použit generický program Vortex.
 
-#### Výstupy:
+# Výstupy:
 
 Analýzy proběhnou až na konci projektu, aby výsledky z ostatních aktivit
 byly v analýzách zahrnuty.

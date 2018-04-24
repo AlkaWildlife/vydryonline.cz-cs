@@ -7,7 +7,7 @@ listed: true
 position: 5
 layout: two_columns_page
 ---
-#### Náplň opatření:
+# Náplň opatření:
 
 Osvěta veřejnosti bude probíhat formou osobní prezentace a komunikace
 pro veřejnost a děti na Dačicku, kde byla v rámci programu OPŽP
@@ -18,16 +18,16 @@ exkurze. Druhým úkolem je vytvoření webových stránek vydristezky.cz,
 které seznámí laickou veřejnost a děti s tímto druhem, budou navazovat
 na Vydří stezku na Dyji.
 
-### Výstupy
+# Výstupy
 
-#### ![](/uploads/ALKA_pexeso_vnit_ek_300.jpg){: .wysiwyg-float-left}Pexeso *Řeka Dyje – co tam žije?*
+## ![](/uploads/ALKA_pexeso_vnit_ek_300.jpg){: .wysiwyg-float-left}Pexeso *Řeka Dyje – co tam žije?*
 
 Pexeso s fotografiemi živočišných druhů, kteří žijí v řece Moravská Dyje
 či v jejím nejbližším okolí.
 
 <div class="clearfix"></div>
 
-#### [![](/uploads/vydristezky_300.jpg){: .wysiwyg-float-left}][1]Webové stránky [VYDRISTEZKY.CZ][1]
+## [![](/uploads/vydristezky_300.jpg){: .wysiwyg-float-left}][1]Webové stránky [VYDRISTEZKY.CZ][1]
 
 Webové stránky k naučné stezce Vydří stezka na Dyji. Naučná stezka vede
 podél řeky Dyje mezi obcemi Dačice a Staré Hobzí. Stránky jsou určeny
@@ -37,7 +37,7 @@ podél řeky Dyje mezi obcemi Dačice a Staré Hobzí. Stránky jsou určeny
 
  
 
-#### Exkurze a povídání
+## Exkurze a povídání
 
 [Hostem ve Starém Městě pod Landštejnem][2]
 

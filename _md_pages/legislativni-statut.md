@@ -7,7 +7,7 @@ listed: true
 position: 5
 layout: two_columns_page
 ---
-#### Status vydry říční
+# Status vydry říční
 
 Vydra říční je chráněným druhem z pohledu české legislativy
 i mezinárodních úmluv:
@@ -39,7 +39,7 @@ význam především jako biotopy vodního ptactva, neboli „Ramsarská úmluva
 (zajišťuje především ochranu biotopů vydry, jako druhu, který je
 součástí mokřadních ekosystémů).
 
-#### Lov vyder
+# Lov vyder
 
 Lov vydry říční je zakázán:
 

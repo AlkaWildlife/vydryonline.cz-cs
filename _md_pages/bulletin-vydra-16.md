@@ -16,7 +16,7 @@ celé číslo v jednom souboru ke stažení
 **Úvodní strana a obsah**  
 [PDF (500 kB)](/uploads/1_cover.pdf)
 
-##### Jednotlivé příspěvky:
+# Jednotlivé příspěvky:
 
 **Vydří stezka na Dyji**  
 *strany 4–7 (Zpráva)*  

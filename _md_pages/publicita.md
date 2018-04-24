@@ -8,7 +8,7 @@ listed: true
 position: 9
 layout: two_columns_page
 ---
-#### Tiskové konference a tisková zpráva
+# Tiskové konference a tisková zpráva
 
 „[Pytláctví v ČR ročně zabíjí desítky vyder, varuje MŽP a ALKA][1]“
 Praha, 30. ledna 2015 – Až desítky vyder ročně podle výzkumů a odhadů
@@ -19,7 +19,7 @@ zvířat ještě vyšší.
 „[Nelegální zabíjení volně žijících živočichů][2]“ Telč, 23. ledna
 2017 – jednání dotčených subjektů, tisková konference a tisková zpráva
 
-#### Tiskové zprávy
+# Tiskové zprávy
 
 [Mezinárodní den vyder:
 7. 5. 2015](/news/mezinarodni-den-vyder-27-dot-5-2015)
@@ -31,13 +31,13 @@ zvířat ještě vyšší.
 [Zima umožnila spočítat vydry v Orlických
 horách](/news/zima-umoznila-spocitat-vydry-v-orlickych-horach)
 
-#### TV
+# TV
 
 [„Vydry – ohrožení predátoři“ ČT2 pořad *Chcete mě?*][5]
 
 [„Srdeční záležitost“ ČT2 pořad *Nedej se*][6]
 
-#### Rozhlas
+# Rozhlas
 
 5. 2. 2017 12:20 Český Rozhlas Plus, pořad *Hlavní zprávy – rozhovory,
 komentáře:* rozhovor v živém vysílání k trávení volně žijících zvířat
@@ -45,7 +45,7 @@ komentáře:* rozhovor v živém vysílání k trávení volně žijících zv
 13. 2. 2017 Český Rozhlas Plus, pořad *Dopolední Plus*: reportáž ze
 stopování na Dačicku
 
-#### Přednášky/semináře![](/uploads/DSC_2950_300.JPG){: .wysiwyg-float-right}
+# Přednášky/semináře![](/uploads/DSC_2950_300.JPG){: .wysiwyg-float-right}
 
 Setkání k Programu péče o vydru říční v ČR, Havlíčkův Brod, 15. 2. 2017:
 představení výsledků projektu
@@ -55,7 +55,7 @@ představení projektu
 
 <div class="clearfix"></div>
 
-#### Články
+# Články
 
 [Poledníková K., Poledník L. a Mináriková T. (2015): Projekt Realizace
 vybraných opatření programu péče pro vydru říční v České republice.

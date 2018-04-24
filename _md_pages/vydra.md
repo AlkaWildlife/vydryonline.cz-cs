@@ -6,4 +6,4 @@ listed: true
 position: 3
 layout: single_column_page
 ---
-### Tématické sekce:
+# Tématické sekce:

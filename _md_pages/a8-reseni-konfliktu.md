@@ -8,7 +8,7 @@ listed: true
 position: 7
 layout: two_columns_page
 ---
-#### Náplň opatření:
+# Náplň opatření:
 
 Konflikt v ochraně druhu s ekonomickými zájmy rybářských subjektů,
 kterým vydry způsobují škody na rybích obsádkách,ohrožuje populaci vydry

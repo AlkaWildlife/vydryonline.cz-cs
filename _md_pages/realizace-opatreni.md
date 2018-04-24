@@ -40,4 +40,4 @@ existenci vyder u nás nejvýznamněji ovlivňují: silniční doprava, vlivem
 které na silnicích ročně hynou desítky vyder a netolerance tohoto
 predátora v krajině některými rybníkáři či rybáři.
 
-### Jednotlivé aktivity projektu
+# Jednotlivé aktivity projektu

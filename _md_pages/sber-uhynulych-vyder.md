@@ -8,7 +8,7 @@ listed: true
 position: 1
 layout: two_columns_page
 aside_links: |
-  #### Mapa rizikových míst
+  # Mapa rizikových míst
 
   ![](/uploads/banner_silnice_small.jpg)
 ---
@@ -19,7 +19,7 @@ zdrojem informací však mohou být také systematicky shromažďované údaje
 o úhynech jedinců, zejména pokud se informace sbírají dlouhodobě a lze
 sledovat změny.
 
-#### *Historie sběru a současnost*
+# *Historie sběru a současnost*
 
 Dlouho byl sběr organizován Agenturou ochrany přírody a krajiny ČR (AOPK
 ČR) a Českým nadačním fondem pro vydru (CNFV). Od roku 2008 koordinuje
@@ -37,7 +37,7 @@ do sběru, samozřejmě také postupným návratem vyder do naší krajiny
 nárůstem uhynulých jedinců na silnicích v důsledku stále stoupající
 dopravy.
 
-#### *K čemu slouží?*
+# *K čemu slouží?*
 
 Postupně se sběr daří lépe a lépe organizovat a také se
 intenzivněji využívají těla. U těl je prováděna pitva a jednotlivé tkáně
@@ -58,7 +58,7 @@ odborná pracoviště:
 
 Kosterní materiál je ukládán ve sbírce Muzea Ústí nad Labem.
 
-#### *Co se již zjistilo?*
+# *Co se již zjistilo?*
 
 Výsledky analýz se postupně zpracovávají a publikují v odborných
 časopisech, popularizačních a také například na těchto webových
