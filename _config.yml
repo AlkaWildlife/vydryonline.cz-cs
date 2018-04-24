@@ -7,6 +7,12 @@ baseurl: ""
 url: https://www.vydryonline.cz
 author: alka-wildlife
 
+lang_alternatives:
+  - lang: en-GB
+    label: Switch to English
+    url: https://en.vydryonline.cz
+    flag: /assets/images/flag_uk.png
+
 # Integrations and machine-readable metadata
 facebook:
   app_id: 145375228868712

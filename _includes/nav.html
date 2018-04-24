@@ -1,9 +1,13 @@
 <div id="top-row">
-  <div class="language-switch">
-    <a href="http://en.vydryonline.cz" hreflang="en" lang="en">
-      <img alt="Switch to English" src="{{ "/assets/images/flag_uk.png" | relative_url }}">
-    </a>
-  </div>
+  {% if site.lang_alternatives %}
+    <div class="language-switch">
+      {% for alt in site.lang_alternatives %}
+        <a href="{{ alt.url }}" hreflang="{{ alt.lang }}" lang="{{ alt.lang }}">
+          <img alt="{{ alt.label }}" src="{{ alt.flag | relative_url }}">
+        </a>
+      {% endfor %}
+    </div>
+  {% endif %}
   <div class="row-container">
     <div class="container-fluid">
       <div id="top" class="row-fluid">
