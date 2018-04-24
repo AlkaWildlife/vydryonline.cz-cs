@@ -32,9 +32,8 @@ layout: default
                    append: "'" %}
               {% assign news_posts = site.posts |
                    where_exp: "post", not_this_page |
-                   where_exp: "post", "post.categories contains 'news'" |
-                   limit: 5 %}
-              {% for news in news_posts %}
+                   where_exp: "post", "post.categories contains 'news'" %}
+              {% for news in news_posts limit: 5 %}
                 {% include home_news_bigitem.html news=news %}
               {% endfor %}
             </div>
