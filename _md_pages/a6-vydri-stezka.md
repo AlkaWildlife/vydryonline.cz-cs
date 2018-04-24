@@ -48,8 +48,8 @@ podél řeky Dyje mezi obcemi Dačice a Staré Hobzí. Stránky jsou určeny
 [S páťáky na stezce][5]
 
 
-[1]: http://www.vydristezky.cz
-[2]: http://www.vydristezky.cz/news/hostem-ve-starem-meste-pod-landstejnem
-[3]: http://www.vydristezky.cz/news/s-pataky-opet-na-stezce
-[4]: http://www.vydristezky.cz/news/o-zviratech-v-materske-skolce
-[5]: http://www.vydristezky.cz/news/s-pataky-na-stezce
+[1]: https://www.vydristezky.cz
+[2]: https://www.vydristezky.cz/news/hostem-ve-starem-meste-pod-landstejnem
+[3]: https://www.vydristezky.cz/news/s-pataky-opet-na-stezce
+[4]: https://www.vydristezky.cz/news/o-zviratech-v-materske-skolce
+[5]: https://www.vydristezky.cz/news/s-pataky-na-stezce

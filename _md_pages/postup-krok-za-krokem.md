@@ -118,5 +118,5 @@ Vysočina](/uploads/vzor_zadost_vysocina.doc) (doc)
 
 
 [1]: http://vydry.org/nas-tym/ "Český nadační fond pro vydru"
-[2]: http://www.alkawildlife.eu/page.php?mx=7_vydra-a-skody&ax=3_jak-zadat-o-nahradu-skod&lx=cz&ft=&us= "ALKA Wildlife, o.p.s."
+[2]: https://www.alkawildlife.eu/page.php?mx=7_vydra-a-skody&ax=3_jak-zadat-o-nahradu-skod&lx=cz&ft=&us= "ALKA Wildlife, o.p.s."
 [3]: http://www.stanicepavlov.eu/kontakt "Stanice Pavlov, o.p.s."

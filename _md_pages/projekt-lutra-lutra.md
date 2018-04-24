@@ -133,5 +133,5 @@ horách](/news/zaciname-vyzkum-vyder-v-krusnych-horach)
 
 [1]: http://www.sn-cz2020.eu
 [2]: http://naturschutzinstitut.de/naturschutzinstitute/nsi_dresden/index.html
-[3]: http://www.alkawildlife.eu
+[3]: https://www.alkawildlife.eu
 [4]: http://www.muzeumusti.cz

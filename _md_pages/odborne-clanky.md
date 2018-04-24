@@ -134,4 +134,4 @@ Odhad aktuálních počtů vyder v České republice, odhady pro jednotlivé
 mapovací kvadráty, platné od roku 2016, výstup projektu MGSII-42
 
 
-[1]: http://www.vydryonline.cz/vydra/o-vydre/povidani-o-vydre-v-myslivosti
+[1]: /vydra/o-vydre/povidani-o-vydre-v-myslivosti

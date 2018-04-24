@@ -75,4 +75,4 @@ za názor donora nebo Ministerstva životního prostředí.*
 
 
 [1]: http://www.zachranneprogramy.cz/index.php?docId=2560&spec=zivocichove
-[2]: http://www.vydryonline.cz/projekt
+[2]: /projekt

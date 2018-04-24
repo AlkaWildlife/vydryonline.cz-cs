@@ -11,7 +11,7 @@ aside_links: |
   [![](/uploads/alka-fb.png)][2]
 
 
-  [1]: http://www.alkawildlife.eu "Web ALKA Wildlife"
+  [1]: https://www.alkawildlife.eu "Web ALKA Wildlife"
   [2]: https://www.facebook.com/AlkaWildlife
        "Facebooková stránka ALKA Wildlife"
 ---

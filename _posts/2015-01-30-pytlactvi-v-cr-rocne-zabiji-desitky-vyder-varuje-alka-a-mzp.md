@@ -82,4 +82,4 @@ E-mail: [tereza.minarikova@alkawildlife.eu](mailto:tereza.minarikova@alkawildlif
 [www.alkawildlife.eu][1]
 
 
-[1]: http://www.alkawildlife.eu
+[1]: https://www.alkawildlife.eu

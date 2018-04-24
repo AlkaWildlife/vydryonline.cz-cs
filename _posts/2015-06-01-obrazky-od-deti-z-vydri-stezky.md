@@ -42,4 +42,4 @@ Vycházka byla součást projektu [Realizace vybraných opatření pro vydru
 *autor: Vendy*
 
 
-[1]: http://www.vydryonline.cz/o-nas/projekt
+[1]: /o-nas/projekt

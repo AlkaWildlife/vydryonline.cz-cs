@@ -19,4 +19,4 @@ lasicovitých šelem, publikovat původní vědecké práce a informovat o 
 ochraně těchto druhů v ČR a SR.
 
 
-[1]: http://www.vydryonline.cz/ke-stazeni/bulletin-vydra/bulletin-vydra-16
+[1]: /ke-stazeni/bulletin-vydra/bulletin-vydra-16

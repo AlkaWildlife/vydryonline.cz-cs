@@ -70,9 +70,9 @@ je možné řešit. Fórum ochrany přírody 01/2017:
 str. 5.](/uploads/11-vydra-a-doprava-problem-ktery-je-mozne-resit.pdf)
 
 
-[1]: http://www.vydryonline.cz/news/pytlactvi-v-cr-rocne-zabiji-desitky-vyder-varuje-alka-a-mzp
-[2]: http://www.vydryonline.cz/news/ministr-brabec-traveni-zvirat-je-nelidske-a-trestne
-[3]: http://www.vydryonline.cz/news/tiskova-zprava-na-silnicich-umira-stale-vice-chranenych-vyder
-[4]: http://www.vydryonline.cz/news/chranena-vydra-zastrelena-u-oleksovic
+[1]: /news/pytlactvi-v-cr-rocne-zabiji-desitky-vyder-varuje-alka-a-mzp
+[2]: /news/ministr-brabec-traveni-zvirat-je-nelidske-a-trestne
+[3]: /news/tiskova-zprava-na-silnicich-umira-stale-vice-chranenych-vyder
+[4]: /news/chranena-vydra-zastrelena-u-oleksovic
 [5]: http://www.ceskatelevize.cz/ivysilani/1095970013-chcete-me/216562221300027
 [6]: http://www.ceskatelevize.cz/porady/1095913550-nedej-se/217562248420003-srdecni-zalezitost/
