@@ -2,6 +2,8 @@
 title: Chráněná vydra zastřelena u Oleksovic
 image: "/uploads/foto1_IMG_0322_610.JPG"
 date: 2016-08-16
+category: news
+layout: news
 ---
 **U obce Oleksovice na Znojemsku byla nalezena uhynulá vydra
 říční. Při následné pitvě bylo zjištěno, že zvíře uhynulo na následky

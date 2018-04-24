@@ -2,6 +2,8 @@
 title: Průchodnost silnic
 image: "/uploads/nahled.jpg"
 date: 2017-05-02
+category: news
+layout: news
 ---
 Článek shrnuje výsledky mapování průchodnosti silnic pro vydru říční
 v České republice. Výsledky vychází z kontroly míst, kde byly nalezeny

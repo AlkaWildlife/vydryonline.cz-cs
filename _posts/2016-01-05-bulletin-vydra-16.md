@@ -2,6 +2,8 @@
 title: Bulletin Vydra 16
 image: "/uploads/cover_2_300.jpg"
 date: 2016-01-05
+category: news
+layout: news
 ---
 Nové číslo Bulletinu Vydra (číslo 16) je uzavřeno a 
 [publikováno][1]. Přejeme zajímavé čtení.

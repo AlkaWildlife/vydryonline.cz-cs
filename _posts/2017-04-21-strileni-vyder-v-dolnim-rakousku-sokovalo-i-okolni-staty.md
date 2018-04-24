@@ -2,6 +2,8 @@
 title: Střílení vyder v Rakousku šokovalo okolní státy
 image: "/uploads/Vydra-ricni-948a_610.jpg"
 date: 2017-04-21
+category: news
+layout: news
 ---
 **Lidéřovice, 21. 4. 2017 – Povolením k odstřelu 40 vyder Dolnorakouská
 vláda šokovala okolní evropské státy. Vydra říční je v Evropě původní

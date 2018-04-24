@@ -2,6 +2,8 @@
 title: Při stopování na Dačicku se ukázala i vydra, a nejen tam
 image: "/uploads/P1120644_v_610.JPG"
 date: 2017-02-05
+category: news
+layout: news
 ---
 Stopujeme dál. Ladovská zima nám dovoluje pokračovat, a tak jsme se
 tentokrát podívali do tradiční stopovací oblasti, na Dačicko.

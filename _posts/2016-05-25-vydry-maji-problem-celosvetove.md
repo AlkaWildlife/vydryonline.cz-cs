@@ -2,6 +2,8 @@
 title: Vydry mají problém, celosvětově
 image: "/uploads/687_u.jpg"
 date: 2016-05-25
+category: news
+layout: news
 ---
 Dnešní den, 25. 5. 2016, je Mezinárodním dnem vyder. Rok 2016 je
 Mezinárodním rokem vyder!

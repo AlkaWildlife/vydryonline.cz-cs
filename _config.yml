@@ -35,25 +35,9 @@ collections:
   galleries: {}
   posts:
     output: true
-    permalink: "/news/:title"
+    permalink: "/:categories/:title"
   showcases: {}
-  user_answers:
-    output: true
-    permalink: "/user-answers/:title"
   filterable_tags: {}
-  photos: {}
-
-defaults:
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: post
-  - scope:
-      path: ""
-      type: user_answers
-    values:
-      layout: user_answer
 
 # Build settings
 markdown: kramdown

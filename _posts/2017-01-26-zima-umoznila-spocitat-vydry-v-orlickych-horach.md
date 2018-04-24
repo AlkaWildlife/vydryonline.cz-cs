@@ -2,6 +2,8 @@
 title: Zima umožnila spočítat vydry v Orlických horách
 image: "/uploads/20170119_125112_610.jpg"
 date: 2017-01-26
+category: news
+layout: news
 ---
 **Lidéřovice, 26. 1. 2017 – Vydra říční je naše největší šelma žijící
 v řekách a rybnících. Letošní zima se sněhovou nadílkou a tuhými mrazy

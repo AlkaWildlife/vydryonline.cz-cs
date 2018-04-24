@@ -2,6 +2,8 @@
 title: Vydry v Norsku
 image: "/uploads/aDSCN0927_610.JPG"
 date: 2015-10-23
+category: news
+layout: news
 ---
 Vrátili jsme se z Norska, kde jsme cestovali za vydrami a za kolegy z 
 institutu NINA, kteří se vydrou říční v Norsku zabývají.

@@ -2,6 +2,8 @@
 title: Bulletin VYDRA 2017
 image: "/uploads/Vydra-ricni-948a_300.jpg"
 date: 2018-03-15
+category: news
+layout: news
 ---
 [Bulletin VYDRA číslo 17][1] je kompletní. Dočtete se zde o aktuálním výskytu
 vydry u nás, co jsme zjistili při stopování, že vydry na Slovensku také

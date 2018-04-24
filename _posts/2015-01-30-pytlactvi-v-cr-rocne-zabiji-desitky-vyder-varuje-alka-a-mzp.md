@@ -2,6 +2,8 @@
 title: Pytláctví v ČR ročně zabíjí desítky vyder, varuje ALKA a MŽP
 image: "/uploads/prehled_nasilnych_umrti_610.jpg"
 date: 2015-01-30
+category: news
+layout: news
 ---
 **Praha, 30. ledna 2015 – Až desítky vyder ročně podle výzkumů a odhadů
 společnosti ALKA Wildlife zabijí každý rok pytláci v České

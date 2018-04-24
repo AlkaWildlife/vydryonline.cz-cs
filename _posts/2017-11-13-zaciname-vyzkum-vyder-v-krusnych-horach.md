@@ -2,6 +2,8 @@
 title: Začínáme výzkum vyder v Krušných horách
 image: "/uploads/a_ID0221_610.JPG"
 date: 2017-11-13
+category: news
+layout: news
 ---
 Vydra říční je šelma, která se po desítkách let navrátila i do potoků
 Krušných hor a je možné se s ní potkat i na tocích v podkrušnohoří. Jak

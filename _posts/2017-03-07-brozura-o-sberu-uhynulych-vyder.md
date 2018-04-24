@@ -2,6 +2,8 @@
 title: Brožura o sběru uhynulých vyder
 image: "/uploads/titulni_strana_300.jpg"
 date: 2017-03-07
+category: news
+layout: news
 ---
 Připravili jsme pro Vás brožuru o sběru a analýzách uhynulých vyder.
 Sběr uhynulých vyder v celé České republice organizujeme již od roku

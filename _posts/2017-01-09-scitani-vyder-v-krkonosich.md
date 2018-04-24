@@ -2,6 +2,8 @@
 title: Sčítání vyder v Krkonoších
 image: "/uploads/02_u_610.jpg"
 date: 2017-01-09
+category: news
+layout: news
 ---
 Mínus dvacet tři a metr sněhu jsme překonali, abychom spočítali vydry
 v Krkonoších.

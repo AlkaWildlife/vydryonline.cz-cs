@@ -2,6 +2,8 @@
 title: Počítali jsme vydry na Dačicku
 image: "/uploads/IMG_1399_610.JPG"
 date: 2016-02-04
+category: news
+layout: news
 ---
 Podmínky nám konečně po třech letech dovolily opět provést sčítání
 vyder.

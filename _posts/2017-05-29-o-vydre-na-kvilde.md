@@ -2,6 +2,8 @@
 title: O vydře na Kvildě
 image: "/uploads/WOD_2017_logo.jpg"
 date: 2017-05-29
+category: news
+layout: news
 ---
 Středa 31. 5. 2017 byla pro letošek určena jako Mezinárodní den vyder.
 Pojďte se o vydře dozvědět něco víc. Přednášet v Informačním středisku

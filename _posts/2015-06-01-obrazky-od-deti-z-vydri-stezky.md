@@ -2,6 +2,8 @@
 title: Obrázky od dětí z Vydří stezky
 image: "/uploads/Scan_20150511_104652_Nela_Chaloupkov__610.jpg"
 date: 2015-06-01
+category: news
+layout: news
 ---
 Se žáky 5. tříd Základní školy Boženy Němcové v Dačicích jsme ke Dni
 Země šli [Vydří stezkou na Dyji](https://www.vydristezky.cz). Po

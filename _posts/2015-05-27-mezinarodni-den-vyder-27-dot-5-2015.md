@@ -2,6 +2,8 @@
 title: 'Mezinárodní den vyder: 27. 5. 2015'
 image: "/uploads/otterday_610.jpg"
 date: 2015-05-27
+category: news
+layout: news
 ---
 Vydry jsou okouzlující vodní predátoři, ale zároveň i ohrožená skupina
 živočichů, která doplácí na znečištění vod, likvidaci mokřadů a poptávku

@@ -2,6 +2,8 @@
 title: 'TZ: Na silnicích umírá stále více chráněných vyder'
 image: "/uploads/072_610.JPG"
 date: 2016-05-03
+category: news
+layout: news
 ---
 Tisková zpráva organizace ALKA Wildlife, o.p.s.
 

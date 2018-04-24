@@ -2,6 +2,8 @@
 title: Konference Lutra lutra
 image: "/uploads/flyer-cz.jpg"
 date: 2018-03-22
+category: news
+layout: news
 ---
 V říjnu 2017 odstartoval přeshraniční projekt Lutra lutra. 11. dubna
 2018 se bude konat zahajovací konference projektu ve Via Re
