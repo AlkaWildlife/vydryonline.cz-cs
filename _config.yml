@@ -7,10 +7,11 @@ baseurl: ""
 url: https://www.vydryonline.cz
 author: alka-wildlife
 lang_alternatives:
-  - lang: en-GB
+  - lang: en_GB
     label: Switch to English
+    title: "Visit an English version of this page: %@"
     url: https://en.vydryonline.cz
-    flag: /assets/images/flag_uk.png
+    icon: /assets/images/flag_uk.png
 
 # Integrations and machine-readable metadata
 facebook:
@@ -24,7 +25,7 @@ social:
     - https://www.facebook.com/AlkaWildlife
 webmaster_verifications:
   google: o27dsTgYww0bzXVmTZ_CgadoY8QtzpDMgo-bVSgH3OM
-lang: cs-CZ
+lang: cs_CZ
 google_analytics: UA-57533252-3
 
 # Collection settings
