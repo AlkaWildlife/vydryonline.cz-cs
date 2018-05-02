@@ -24,10 +24,7 @@ ERDF (Evropský fond pro regionální rozvoj)
 
 # **Partneři:**
 
-**Vedoucí partner**: [AG Naturschutzinstitut Region Dresden
-e.V.][2]
-
-**Další Partneři**:  
+[AG Naturschutzinstitut Region Dresden e.V.][2] (vedoucí partner)  
 [Alka Wlidlife, o. p. s.][3]  
 [Muzeum města Ústí nad Labem][4]
 
