@@ -12,7 +12,7 @@ namespace "build" do
   CMS_SOURCES = FileList[
     "node_modules/netlify-cms/dist/cms.js",
     "node_modules/netlify-cms/dist/cms.js.map",
-    "node_modules/netlify-cms/dist/cms.css",
+    "node_modules/netlify-cms/dist/cms.css"
   ]
   CMS_SOURCES.each do |source|
     file source do
