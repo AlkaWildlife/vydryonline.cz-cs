@@ -8,7 +8,7 @@ filter:
 form:
   title: Poslat dotaz
   fields:
-    name: Jméno
-    email: Email
-    message: Dotaz
+    from: Jméno
+    reply_to: Email
+    body: Dotaz
     submit: Odeslat
