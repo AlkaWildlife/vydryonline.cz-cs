@@ -580,13 +580,13 @@ collections:
         label: Field labels
         widget: object
         fields:
-        - name: from
+        - name: name
           label: Name
           widget: string
-        - name: reply_to
+        - name: email
           label: Email
           widget: string
-        - name: body
+        - name: question
           label: Message
           widget: string
         - name: submit
