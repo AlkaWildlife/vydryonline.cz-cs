@@ -7,7 +7,7 @@ date: '2018-05-04'
 category: news
 layout: news
 ---
-Pořad Planetárium v sobotu 28. 4. 2017 od 18:05 rozhovor s Václavem Beranem o vydrách a o projektu Lutra lutra. 
+Pořad Planetárium v sobotu 28. 4. 2017 od 18:05 rozhovor s Václavem Beranem o vydrách a o projektu Lutra lutra.
 
 Pořad Planetárium vysílá Český rozhlas Sever a Český rozhlas Liberec. Vysílání si lze živě poslechnout i prostřednictvím internetu v počítači nebo mobilním telefonu. Na adrese www.rozhlas.cz/planetarium je v provozu Zvukový archiv Planetária, do kterého jsou všechna odvysílaná Planetária ve své zvukové podobě průběžně ukládána. K poslechu tak zůstávají kdykoliv přístupná i starší vydání magazínu. K poslechu zve Frederik Velinský. 
 
