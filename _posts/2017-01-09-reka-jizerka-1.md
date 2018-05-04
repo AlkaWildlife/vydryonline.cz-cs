@@ -1,6 +1,6 @@
 ---
 title: Řeka Jizerka
-image: "/uploads/02.jpg"
+image: "/media/02.jpg"
 author: libor-prauz
 tags: []
 gallery: /news/scitani-vyder-v-krkonosich

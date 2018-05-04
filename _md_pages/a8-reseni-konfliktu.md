@@ -1,7 +1,7 @@
 ---
 title: A8 Řešení konfliktu
 permalink: "/projekty/realizace-opatreni/a8-reseni-konfliktu"
-image: "/uploads/IMG_0386_610.JPG"
+image: "/media/IMG_0386_610.JPG"
 long_title: A8 Návrh optimalizace řešení střetu rybářství a vydry
 published: true
 listed: true

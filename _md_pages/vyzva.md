@@ -1,7 +1,7 @@
 ---
 title: Výzva
 permalink: "/vydra/vydry-a-silnice/vyzva"
-image: "/uploads/a_039_VH_610.jpg"
+image: "/media/a_039_VH_610.jpg"
 published: true
 listed: true
 position: 0
@@ -9,7 +9,7 @@ layout: two_columns_page
 aside_links: |
   # [Mapa rizikových míst](http://www.vydrynasilnici.cz)
 
-  ![](/uploads/banner_silnice_small.jpg)
+  ![](/media/banner_silnice_small.jpg)
 ---
 # Pokud jste našli mrtvou vydru, kontaktujte nás!
 
@@ -52,6 +52,6 @@ stádiu – rozjeté „fleky“ na silnici, zbytky po preparaci či pitvě.
 
 ***Jménem vyder a řešitelů projektu mnohokrát děkujeme.***
 
-[Protokol_uhynule_vydry.pdf](/uploads/Protokol_uhynule_vydry.pdf)
+[Protokol_uhynule_vydry.pdf](/media/Protokol_uhynule_vydry.pdf)
 
-[Protokol_uhynule_vydry.doc](/uploads/Protokol_uhynule_vydry.pdf)
+[Protokol_uhynule_vydry.doc](/media/Protokol_uhynule_vydry.pdf)

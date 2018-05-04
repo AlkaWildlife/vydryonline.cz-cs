@@ -1,6 +1,6 @@
 ---
 title: Stopa vydry
-image: "/uploads/IMG_1412.JPG"
+image: "/media/IMG_1412.JPG"
 author: katerina-polednikova
 tags:
 - stopy

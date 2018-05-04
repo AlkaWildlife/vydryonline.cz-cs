@@ -1,6 +1,6 @@
 ---
 title: Zima na Vysočině
-image: "/uploads/P1040509.JPG"
+image: "/media/P1040509.JPG"
 author: vaclav-beran
 tags: []
 gallery: /news/pocitali-jsme-vydry-na-dacicku

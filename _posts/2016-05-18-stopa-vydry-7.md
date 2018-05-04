@@ -1,6 +1,6 @@
 ---
 title: Stopa vydry
-image: "/uploads/IMG_1411.JPG"
+image: "/media/IMG_1411.JPG"
 author: jitka-vetrovcova
 tags: []
 gallery: /news/pocitali-jsme-vydry-na-dacicku

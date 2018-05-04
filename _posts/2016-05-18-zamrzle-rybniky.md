@@ -1,6 +1,6 @@
 ---
 title: Zamrzlé rybníky
-image: "/uploads/P1040506.JPG"
+image: "/media/P1040506.JPG"
 author: vaclav-beran
 tags: []
 gallery: /news/pocitali-jsme-vydry-na-dacicku

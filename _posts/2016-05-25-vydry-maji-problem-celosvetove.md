@@ -1,6 +1,6 @@
 ---
 title: Vydry mají problém, celosvětově
-image: "/uploads/687_u.jpg"
+image: "/media/687_u.jpg"
 date: 2016-05-25
 category: news
 layout: news
@@ -24,13 +24,13 @@ jen status málo dotčený a stabilní vývoj. V loňském roce jsme Vás
 informovali, že 9 ze 13 druhů má klesající populační trend. Letos je to
 již 12 ze 13!
 
-![](/uploads/iucn-otter-red-data-status_610.jpg)
+![](/media/iucn-otter-red-data-status_610.jpg)
 
 Mezinárodní fond na ochranu vyder (IOSF) letos vyhlásila nejen
 Mezinárodní den vyder, ale dokonce i [Mezinárodní rok vyder][1]. Pokud
 Vás zajímají vydry ve světě podívejte se na stránky [www.otter.org][2].
 
-![](/uploads/IOSF-Year_Otter_CZ_poster_610.jpg)
+![](/media/IOSF-Year_Otter_CZ_poster_610.jpg)
 
 
 [1]: http://www.otter.org/Public/News_StopPress.aspx

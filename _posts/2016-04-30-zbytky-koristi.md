@@ -1,6 +1,6 @@
 ---
 title: Zbytky kořisti
-image: "/uploads/zbytky_raka.JPG"
+image: "/media/zbytky_raka.JPG"
 author: katerina-polednikova
 tags:
 - pobytové znaky

@@ -1,6 +1,6 @@
 ---
 title: Konference Lutra lutra
-image: "/uploads/flyer-cz.jpg"
+image: "/media/flyer-cz.jpg"
 date: 2018-03-22
 category: news
 layout: news
@@ -9,7 +9,7 @@ V říjnu 2017 odstartoval přeshraniční projekt Lutra lutra. 11. dubna
 2018 se bude konat zahajovací konference projektu ve Via Re
 v Drážďanech, kde budou představeny nejnovější poznatky k vydře říční.
 
-[Program konference (PDF)](/uploads/Konference_Lutra_lutra_program.pdf)
+[Program konference (PDF)](/media/Konference_Lutra_lutra_program.pdf)
 
 # Organizační informace
 

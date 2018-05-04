@@ -1,6 +1,6 @@
 ---
 title: Dřevěná lávka
-image: "/uploads/lavka_1000.jpg"
+image: "/media/lavka_1000.jpg"
 author: vaclav-hlavac
 tags:
 - mosty-pruchozi

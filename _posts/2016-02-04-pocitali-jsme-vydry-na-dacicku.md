@@ -1,6 +1,6 @@
 ---
 title: Počítali jsme vydry na Dačicku
-image: "/uploads/IMG_1399_610.JPG"
+image: "/media/IMG_1399_610.JPG"
 date: 2016-02-04
 category: news
 layout: news
@@ -8,7 +8,7 @@ layout: news
 Podmínky nám konečně po třech letech dovolily opět provést sčítání
 vyder.
 
-![](/uploads/IMG_0393_mm.JPG){: .wysiwyg-float-left}Sčítání na sněhu
+![](/media/IMG_0393_mm.JPG){: .wysiwyg-float-left}Sčítání na sněhu
 je jednou z metod monitoringu populace dle Programu péče pro vydru
 říční v České republice. Stopování je poměrně náročné, protože v jeden
 den se musí ve sledované oblasti zkontrolovat všechny toky, rybníky,
@@ -22,7 +22,7 @@ a v některých letech vůbec (například v loňské mírné zimě).
 
  
 
-![](/uploads/IMG_0301_mm.JPG){: .wysiwyg-float-left}Naštěstí letos zima
+![](/media/IMG_0301_mm.JPG){: .wysiwyg-float-left}Naštěstí letos zima
 aspoň na chvíli přišla a tak jsme 22. 1. 2016 vyrazili stopovat v okolí
 Dačic na Českomoravské vysočině. Pravou zimu jsme si užili pořádně, ráno
 bylo celých mínus 24 stupňů, ale pak zimní krajinu zalilo slunce a bylo
@@ -34,7 +34,7 @@ vyskytuje a stopu ondatry pižmové.
 
  
 
-![](/uploads/P1040555_mm.JPG){: .wysiwyg-float-left}Vyder jsme
+![](/media/P1040555_mm.JPG){: .wysiwyg-float-left}Vyder jsme
 spočítali ve čtverci 10 × 10 km jedenáct, z toho v jednom případě se
 jednalo o matku s mládětem. Na Dačicku se vydry vyskytovaly vždy,
 hustoty z dřívějších let se pohybovaly od osmi do čtrnácti. Rodin
@@ -53,7 +53,7 @@ oblastech, mezi něž Dačicko a celá Českomoravská Vysočina patří.
 Sčítání vyder je prováděno v rámci projektu [Realizace vybraných
 opatření Programu péče pro vydru říční v ČR][1].
 
-![](/uploads/loga_mgs_stojato_mm.jpg){: .wysiwyg-float-left}*Podpořeno
+![](/media/loga_mgs_stojato_mm.jpg){: .wysiwyg-float-left}*Podpořeno
 grantem z Islandu, Lichtenštejnska a Norska.*
 
 *Tato akce byla realizována za finanční podpory EHP fondů 2009–2014

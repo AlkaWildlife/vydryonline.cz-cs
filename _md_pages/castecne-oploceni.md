@@ -1,7 +1,7 @@
 ---
 title: Částečné oplocení
 permalink: "/vydra/vydra-a-skody/opatreni-ke-snizovani-skod/castecne-oploceni"
-image: "/uploads/IMG_0366_610.JPG"
+image: "/media/IMG_0366_610.JPG"
 published: true
 listed: true
 position: 5
@@ -17,7 +17,7 @@ vytvořit přirozenou cestou, např. nechat na místě, které v zimě
 nezamrzá, vyrůst orobinec. Orobinec na přítoku Vám také splní další
 užitečnou roli – funguje jako kořenová čistička.
 
-![](/uploads/IMG_0367_610.JPG)
+![](/media/IMG_0367_610.JPG)
 
 *Dobře oplocený přítok do rybníka – podél plotu jsou vidět stopy norka,
 který se neúspěšně snažil dostat do vody. Stejně funguje opatření

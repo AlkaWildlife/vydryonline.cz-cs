@@ -1,7 +1,7 @@
 ---
 title: Sběr uhynulých vyder
 permalink: "/vydra/vydry-a-silnice/sber-uhynulych-vyder"
-image: "/uploads/pitva_01.JPG"
+image: "/media/pitva_01.JPG"
 long_title: Sběr a analýzy uhynulých vyder
 published: true
 listed: true
@@ -10,7 +10,7 @@ layout: two_columns_page
 aside_links: |
   # Mapa rizikových míst
 
-  ![](/uploads/banner_silnice_small.jpg)
+  ![](/media/banner_silnice_small.jpg)
 ---
 Již od 90. let minulého století je v ČR více či méně organizován sběr
 uhynulých jedinců vyder říčních. Sledování stavu populací ohrožených
@@ -65,22 +65,22 @@ Výsledky analýz se postupně zpracovávají a publikují v odborných
 stránkách, nebo na mapě rizikových míst.
 
 [Sběr a analýzy uhynulých vyder v České republice. Brožura
-2017.](/uploads/ALKA_-_Sb_r_a_anal_zy_vyder_-_web.pdf)
+2017.](/media/ALKA_-_Sb_r_a_anal_zy_vyder_-_web.pdf)
 
 [Myslivost 8 (2015): Monitoring vydry říční. K čemu nám jsou kadávery
 vyder?][1]
 
 [Ochrana přírody 4 (2011): Databáze údajů o uhynulých jedincích vydry
-říční v ČR.](/uploads/ochrana_prirody_databaze_vyder.pdf
+říční v ČR.](/media/ochrana_prirody_databaze_vyder.pdf
 "(pdf; 3,4 MB)")
 
 [Lynx, n.s. 42 (2011): Causes of deaths of Lutra lutra in the Czech
-Republic (Carnivora: Mustelidae).](/uploads/145-157_Poledn_k.pdf
+Republic (Carnivora: Mustelidae).](/media/145-157_Poledn_k.pdf
 "(pdf; 480 kB)")
 
 [IUCN OSG Bulletin 27;3 (2010): Carbofuran – a new and effective method
 of illegal killing of otters (Lutra lutra) in the Czech
-Republic.](/uploads/Polednikova_et_al_2010.pdf "(pdf; 460 MB)")
+Republic.](/media/Polednikova_et_al_2010.pdf "(pdf; 460 MB)")
 
 
 [1]: http://myslivost.cz/Casopis-Myslivost/Myslivost/2015/Srpen-2015/Monitoring-vydry-ricni-K-cemu-nam-jsou-kadavery-v

@@ -1,6 +1,6 @@
 ---
 title: Labská a Špindlerův mlýn
-image: "/uploads/IMG_7169.JPG"
+image: "/media/IMG_7169.JPG"
 author: katerina-polednikova
 tags: []
 gallery: /news/scitani-vyder-v-krkonosich

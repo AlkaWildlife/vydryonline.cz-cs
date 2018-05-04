@@ -11,7 +11,7 @@ layout: user_answer
 Na kameni v řece byl nalezen tento trus (délka cca 5 cm). Dotaz je, kdo
 je „autorem“ tohoto trusu a jak se to pozná?
 
-![](/uploads/152_610.jpg)
+![](/media/152_610.jpg)
 
 Jedná se o trus plný drobných kousků raka. U nás raky konzumuje
 především vydra a norek americký. Dle velikosti na fotografii (odhad je
@@ -22,14 +22,14 @@ stejně tenký jako jeho „normální“ trus, tedy cca 4 mm tloušťka. Jisto
 získáte čichem – vydří trus (i ten s raky) voní rybinou, v norčím trusu
 je vždy cítit zápach, který znáte ze zvěřince, zoo.
 
-![](/uploads/mix_019_610.JPG)
+![](/media/mix_019_610.JPG)
 
 Značkovací místo vyder – vydry spolu pomocí trusu komunikují a takovéto
 uskupení je pak typické. Norek velmi nepravidelně vytváří latríny, ale
 velmi zřídka, pak je tam toho trusu opravdu hodně na jedné hromádce, ale
 nebývá to na exponovaném místě, jakým kameny jsou.
 
-![](/uploads/mix_029_610.JPG)
+![](/media/mix_029_610.JPG)
 
 Zbytky raka – pokud najdete jen zbytek raka, nelze s jistotou říci, kdo
 je původcem. Pokud je v okolí výše vyfocený trus, logicky to vypadá na

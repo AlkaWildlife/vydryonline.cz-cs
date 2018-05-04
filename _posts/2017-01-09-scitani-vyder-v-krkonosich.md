@@ -1,6 +1,6 @@
 ---
 title: Sčítání vyder v Krkonoších
-image: "/uploads/02_u_610.jpg"
+image: "/media/02_u_610.jpg"
 date: 2017-01-09
 category: news
 layout: news
@@ -18,7 +18,7 @@ náročné na organizaci – několik stopařů musí v den, kdy jsou na sně
 stopy jen z jedné noci projít všechny toky ve sledovaném
 území. Tentokrát se nám to podařilo v Krkonoších.
 
-![](/uploads/04_u_610.jpg) *Sčítání vyder probíhá kontrolou stopních
+![](/media/04_u_610.jpg) *Sčítání vyder probíhá kontrolou stopních
 drah podél toků a vodních ploch.*
 
 Krkonoše jsme nezkontrolovali celé, ale vybrali jsme území dle
@@ -33,7 +33,7 @@ našeho předpokladu v „dolním“ kvadrátu, v dolních úsecích
 řek. Nejvyšší partie toků v Krkonoších byly totiž natolik zamrzlé, že
 v podstatě již neposkytovaly žádné prostředí pro vydru.
 
-![](/uploads/IMG_0384_u.JPG) *Stopy vydří rodiny na řece Jizerce.*
+![](/media/IMG_0384_u.JPG) *Stopy vydří rodiny na řece Jizerce.*
 
 Při sčítání jsme bohužel narazili na celou řadu problémů, se kterými
 se vydry v Krkonoších musí potýkat, přestože se jedná o národní
@@ -54,7 +54,7 @@ skiareálu, kde je i noční lyžování. Nejvíce vyder jsme tak našli na
 řece Jizerka, která je ze zmíněných toků nejzachovalejší. Zde jsme
 našli i samici se dvěma mláďaty.
 
-![](/uploads/IMG_7198_610.JPG) *Svatopeterský potok vytéká z tunelu pod
+![](/media/IMG_7198_610.JPG) *Svatopeterský potok vytéká z tunelu pod
 ski areálem.*
 
 Sněhová nadílka z minulého týdne nám snad dovolí další stopování
@@ -63,7 +63,7 @@ v následujících dnech v dalších oblastech.
 Sčítání vyder je prováděno v rámci projektu [Realizace vybraných
 opatření Programu péče pro vydru říční v ČR][1].
 
-![](/uploads/loga_mgs_stojato_mm.jpg){: .wysiwyg-float-left}*Podpořeno
+![](/media/loga_mgs_stojato_mm.jpg){: .wysiwyg-float-left}*Podpořeno
 grantem z Islandu, Lichtenštejnska a Norska.*
 
 *Tato akce byla realizována za finanční podpory EHP fondů 2009–2014

@@ -1,7 +1,7 @@
 ---
 title: Publicita
 permalink: "/projekty/realizace-opatreni/publicita"
-image: "/uploads/zaber_printscreen_610.jpg"
+image: "/media/zaber_printscreen_610.jpg"
 long_title: Publicita projektu
 published: true
 listed: true
@@ -45,7 +45,7 @@ komentáře:* rozhovor v živém vysílání k trávení volně žijících zv
 13. 2. 2017 Český Rozhlas Plus, pořad *Dopolední Plus*: reportáž ze
 stopování na Dačicku
 
-# Přednášky/semináře![](/uploads/DSC_2950_300.JPG){: .wysiwyg-float-right}
+# Přednášky/semináře![](/media/DSC_2950_300.JPG){: .wysiwyg-float-right}
 
 Setkání k Programu péče o vydru říční v ČR, Havlíčkův Brod, 15. 2. 2017:
 představení výsledků projektu
@@ -60,14 +60,14 @@ představení projektu
 [Poledníková K., Poledník L. a Mináriková T. (2015): Projekt Realizace
 vybraných opatření programu péče pro vydru říční v České republice.
 Poledníková, Poledník a Mináriková. **Bulletin Vydra** 16:
-75–79.](/uploads/8_Polednikova_etal_75_79.pdf)
+75–79.](/media/8_Polednikova_etal_75_79.pdf)
 
 [Poledníková K. (2015): K čemu nám jsou kadávery vyder? Myslivost 8:
-23–25.](/uploads/Myslivost_Vydra_2015_FINAL.pdf)
+23–25.](/media/Myslivost_Vydra_2015_FINAL.pdf)
 
 [Poledník L. a Poledníková K. (2017): Vydra a doprava – problém, který
 je možné řešit. Fórum ochrany přírody 01/2017:
-str. 5.](/uploads/11-vydra-a-doprava-problem-ktery-je-mozne-resit.pdf)
+str. 5.](/media/11-vydra-a-doprava-problem-ktery-je-mozne-resit.pdf)
 
 
 [1]: /news/pytlactvi-v-cr-rocne-zabiji-desitky-vyder-varuje-alka-a-mzp

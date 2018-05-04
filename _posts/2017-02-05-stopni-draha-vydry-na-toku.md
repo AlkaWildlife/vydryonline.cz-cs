@@ -1,6 +1,6 @@
 ---
 title: Stopní dráha vydry na toku
-image: "/uploads/IMG_7792_u.JPG"
+image: "/media/IMG_7792_u.JPG"
 author: katerina-polednikova
 tags:
 - stopy

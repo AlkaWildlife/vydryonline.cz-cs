@@ -1,6 +1,6 @@
 ---
 title: Trus vydry
-image: "/uploads/IMG_6393.JPG"
+image: "/media/IMG_6393.JPG"
 author: katerina-polednikova
 tags:
 - pobytové znaky

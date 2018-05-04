@@ -1,6 +1,6 @@
 ---
 title: Neprůchozí propustek
-image: "/uploads/DSCN0668_horni.JPG"
+image: "/media/DSCN0668_horni.JPG"
 author: lukas-polednik
 tags:
 - rizikové místo

@@ -1,7 +1,7 @@
 ---
 title: O vydře
 permalink: "/vydra/o-vydre"
-image: "/uploads/Vydra-ricni-948a_610.jpg"
+image: "/media/Vydra-ricni-948a_610.jpg"
 published: true
 listed: true
 position: 2

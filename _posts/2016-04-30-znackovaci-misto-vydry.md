@@ -1,6 +1,6 @@
 ---
 title: Značkovací místo vydry
-image: "/uploads/IMG_1402.JPG"
+image: "/media/IMG_1402.JPG"
 author: katerina-polednikova
 tags:
 - vydra

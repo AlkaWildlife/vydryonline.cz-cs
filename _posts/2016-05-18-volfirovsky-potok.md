@@ -1,6 +1,6 @@
 ---
 title: Volfířovský potok
-image: "/uploads/IMG_0374.JPG"
+image: "/media/IMG_0374.JPG"
 author: katerina-polednikova
 tags: []
 gallery: /news/pocitali-jsme-vydry-na-dacicku

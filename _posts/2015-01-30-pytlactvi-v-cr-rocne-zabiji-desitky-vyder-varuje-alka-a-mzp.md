@@ -1,6 +1,6 @@
 ---
 title: Pytláctví v ČR ročně zabíjí desítky vyder, varuje ALKA a MŽP
-image: "/uploads/prehled_nasilnych_umrti_610.jpg"
+image: "/media/prehled_nasilnych_umrti_610.jpg"
 date: 2015-01-30
 category: news
 layout: news

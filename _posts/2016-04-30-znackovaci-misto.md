@@ -1,6 +1,6 @@
 ---
 title: Značkovací místo
-image: "/uploads/IMG_6425.JPG"
+image: "/media/IMG_6425.JPG"
 author: katerina-polednikova
 tags:
 - pobytové znaky

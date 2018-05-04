@@ -1,6 +1,6 @@
 ---
 title: Stopa vydry
-image: "/uploads/IMG_0412.JPG"
+image: "/media/IMG_0412.JPG"
 author: vaclav-beran
 tags:
 - pobytové znaky

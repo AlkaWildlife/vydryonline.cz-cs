@@ -1,7 +1,7 @@
 ---
 title: A5 Web vydryonline.cz
 permalink: "/projekty/realizace-opatreni/webove-stranky-vydryonline-dot-cz"
-image: "/uploads/vydryonline.jpg"
+image: "/media/vydryonline.jpg"
 published: true
 listed: true
 position: 4

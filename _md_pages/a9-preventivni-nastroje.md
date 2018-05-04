@@ -1,7 +1,7 @@
 ---
 title: A9 preventivní nástroje
 permalink: "/projekty/realizace-opatreni/a9-preventivni-nastroje"
-image: "/uploads/IMG_6014_610.JPG"
+image: "/media/IMG_6014_610.JPG"
 long_title: A9 testování nástroje snižující škody na rybách
 published: true
 listed: true

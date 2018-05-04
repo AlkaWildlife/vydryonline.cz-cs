@@ -1,6 +1,6 @@
 ---
 title: Neprůchozí propustek
-image: "/uploads/IMG_7410.JPG"
+image: "/media/IMG_7410.JPG"
 author: lukas-polednik
 tags:
 - rizikové místo

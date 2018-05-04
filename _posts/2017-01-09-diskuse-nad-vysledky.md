@@ -1,6 +1,6 @@
 ---
 title: Diskuse nad výsledky
-image: "/uploads/IMG_7221.JPG"
+image: "/media/IMG_7221.JPG"
 author: katerina-polednikova
 tags: []
 gallery: /news/scitani-vyder-v-krkonosich

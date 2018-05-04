@@ -1,6 +1,6 @@
 ---
 title: Stopa vydry v hlubokém sněhu
-image: "/uploads/06_uu.jpg"
+image: "/media/06_uu.jpg"
 author: libor-prauz
 tags: []
 gallery: /news/scitani-vyder-v-krkonosich

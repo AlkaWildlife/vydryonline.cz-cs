@@ -1,6 +1,6 @@
 ---
 title: Nevhodný most
-image: "/uploads/DSCN1266.JPG"
+image: "/media/DSCN1266.JPG"
 author: lukas-polednik
 tags:
 - rizikové místo

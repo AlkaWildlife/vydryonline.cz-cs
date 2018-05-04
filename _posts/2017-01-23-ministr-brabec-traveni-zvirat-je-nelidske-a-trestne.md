@@ -1,6 +1,6 @@
 ---
 title: 'Ministr Brabec: Trávení zvířat je nelidské, trestné'
-image: "/uploads/IMG_8976_610.JPG"
+image: "/media/IMG_8976_610.JPG"
 date: 2017-01-23
 category: news
 layout: news

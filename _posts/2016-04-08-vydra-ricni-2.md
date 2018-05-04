@@ -1,6 +1,6 @@
 ---
 title: Vydra říční
-image: "/uploads/vydra_a_mlade.JPG"
+image: "/media/vydra_a_mlade.JPG"
 author: alka-wildlife-ops
 tags:
 - vydra

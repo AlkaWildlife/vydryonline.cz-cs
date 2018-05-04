@@ -1,6 +1,6 @@
 ---
 title: Monitoring
-image: "/uploads/a_DSCN0248_2000.JPG"
+image: "/media/a_DSCN0248_2000.JPG"
 author: stepan-zapotocny
 tags: []
 gallery: /news/zaciname-vyzkum-vyder-v-krusnych-horach

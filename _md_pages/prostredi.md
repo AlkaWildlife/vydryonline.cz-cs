@@ -1,7 +1,7 @@
 ---
 title: Prostředí
 permalink: "/vydra/o-vydre/prostredi"
-image: "/uploads/IMG_9122_610.JPG"
+image: "/media/IMG_9122_610.JPG"
 long_title: Prostředí vydry říční
 published: true
 listed: true

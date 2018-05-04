@@ -1,6 +1,6 @@
 ---
 title: 'TZ: Na silnicích umírá stále více chráněných vyder'
-image: "/uploads/072_610.JPG"
+image: "/media/072_610.JPG"
 date: 2016-05-03
 category: news
 layout: news
@@ -53,11 +53,11 @@ Kateřina Poledníková, ALKA Wildlife, [606 598 903](tel:+420-606-598-903),
 *Vydra uhynulá na silnici č. 52 z Brna do Vídně. Silnice vede po hrázi
 horní nádrže v. n. Nové mlýny. Jedná se o nejrizikovější místo pro vydry
 z pohledu silnic v České republice.*  
-![](/uploads/P5310050_610.JPG)
+![](/media/P5310050_610.JPG)
 
 *Poslední kroky. Stopy vydry v bahně na kraji silnice, kousek dál leželo
 tělo. (5. 2. 2016 Slavětice)*  
-![](/uploads/DSCN1261_610.JPG)
+![](/media/DSCN1261_610.JPG)
 
 
 [1]: http://www.vydrynasilnici.cz

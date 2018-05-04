@@ -1,6 +1,6 @@
 ---
 title: Zima na Vysočině
-image: "/uploads/IMG_1400.JPG"
+image: "/media/IMG_1400.JPG"
 author: jitka-vetrovcova
 tags: []
 gallery: /news/pocitali-jsme-vydry-na-dacicku

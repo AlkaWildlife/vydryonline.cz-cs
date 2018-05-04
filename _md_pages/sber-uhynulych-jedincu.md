@@ -1,7 +1,7 @@
 ---
 title: A3 Sběr kadáverů
 permalink: "/projekty/realizace-opatreni/sber-uhynulych-jedincu"
-image: "/uploads/DSC_0017_610.JPG"
+image: "/media/DSC_0017_610.JPG"
 long_title: A3 Sběr a analýzy uhynulých jedinců
 published: true
 listed: true
@@ -28,9 +28,9 @@ vzorek pro měření těžkých kovů a rtuti (FCHT Universita Pardubice).
 
 # Výstupy:
 
-![](/uploads/titulni_strana_300.jpg){: .wysiwyg-float-left}Brožura
+![](/media/titulni_strana_300.jpg){: .wysiwyg-float-left}Brožura
 v tištěné a pdf verzi (tištěnou verzi na požádání zašleme; pdf lze
 stáhnout)
 
 [Sběr a analýzy uhynulých vyder v České
-republice](/uploads/ALKA_-_Sb_r_a_anal_zy_vyder_-_web.pdf) (pdf, 7,5 MB)
+republice](/media/ALKA_-_Sb_r_a_anal_zy_vyder_-_web.pdf) (pdf, 7,5 MB)

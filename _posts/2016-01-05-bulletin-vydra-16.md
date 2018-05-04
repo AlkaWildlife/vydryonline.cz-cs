@@ -1,6 +1,6 @@
 ---
 title: Bulletin Vydra 16
-image: "/uploads/cover_2_300.jpg"
+image: "/media/cover_2_300.jpg"
 date: 2016-01-05
 category: news
 layout: news

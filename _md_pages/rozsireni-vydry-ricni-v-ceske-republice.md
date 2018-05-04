@@ -35,7 +35,7 @@ použita národní síť S-JTSK. Celkem bylo zkontrolováno 2546 bodů ve
 667 kvadrátech, respektive 2425 podkvadrátech. Deset dalších kvadrátů,
 respektive 123 podkvadrátů, bylo označeno jako „bez vody“.
 
-![](/uploads/vydra_2011.jpg){: .wysiwyg-float-left}*Výskyt vydry říční
+![](/media/vydra_2011.jpg){: .wysiwyg-float-left}*Výskyt vydry říční
 v České republice v roce 2011 (Poledník et al. 2011).*
 
 Z celkového množství 667 kvadrátů je 251 plně pozitivních (37 %),
@@ -51,4 +51,4 @@ v těchto oblastech.
 
 [Polednik L., Poledníková K., Beran V., Čamlík G., Záptočný Š. a Kranz
 A. (2011): Rozšíření vydry říční v Ćeské republice v roce 2011. Bulletin
-Vydra 15: 22–28](/uploads/Polednik_etal_22_28.pdf)
+Vydra 15: 22–28](/media/Polednik_etal_22_28.pdf)

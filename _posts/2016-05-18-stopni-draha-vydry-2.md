@@ -1,6 +1,6 @@
 ---
 title: Stopní dráha vydry
-image: "/uploads/P1040538.JPG"
+image: "/media/P1040538.JPG"
 author: vaclav-beran
 tags: []
 gallery: /news/pocitali-jsme-vydry-na-dacicku

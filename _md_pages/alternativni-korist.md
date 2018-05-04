@@ -19,4 +19,4 @@ může být potrava vyder na rybnících, ukazuje studie jejich potravy ze 40
 rybníků na Českomoravské vrchovině.
 
 [Variabilita složení potravy vydry říční (*Lutra lutra*) na rybnících
-Českomoravské vrchoviny (pdf)](/uploads/Lynx_2007_031-046_Poledn_k.pdf)
+Českomoravské vrchoviny (pdf)](/media/Lynx_2007_031-046_Poledn_k.pdf)

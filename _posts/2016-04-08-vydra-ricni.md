@@ -1,6 +1,6 @@
 ---
 title: Vydra říční
-image: "/uploads/vydra4B_1000.jpg"
+image: "/media/vydra4B_1000.jpg"
 author: katerina-polednikova
 tags:
 - vydra

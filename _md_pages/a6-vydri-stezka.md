@@ -1,7 +1,7 @@
 ---
 title: A6 Vydří stezka
 permalink: "/projekty/realizace-opatreni/a6-vydri-stezka"
-image: "/uploads/DSCN1353_610.JPG"
+image: "/media/DSCN1353_610.JPG"
 published: true
 listed: true
 position: 5
@@ -20,14 +20,14 @@ na Vydří stezku na Dyji.
 
 # Výstupy
 
-## ![](/uploads/ALKA_pexeso_vnit_ek_300.jpg){: .wysiwyg-float-left}Pexeso *Řeka Dyje – co tam žije?*
+## ![](/media/ALKA_pexeso_vnit_ek_300.jpg){: .wysiwyg-float-left}Pexeso *Řeka Dyje – co tam žije?*
 
 Pexeso s fotografiemi živočišných druhů, kteří žijí v řece Moravská Dyje
 či v jejím nejbližším okolí.
 
 <div class="clearfix"></div>
 
-## [![](/uploads/vydristezky_300.jpg){: .wysiwyg-float-left}][1]Webové stránky [VYDRISTEZKY.CZ][1]
+## [![](/media/vydristezky_300.jpg){: .wysiwyg-float-left}][1]Webové stránky [VYDRISTEZKY.CZ][1]
 
 Webové stránky k naučné stezce Vydří stezka na Dyji. Naučná stezka vede
 podél řeky Dyje mezi obcemi Dačice a Staré Hobzí. Stránky jsou určeny

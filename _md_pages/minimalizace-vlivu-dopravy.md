@@ -1,7 +1,7 @@
 ---
 title: A1 Vliv dopravy
 permalink: "/projekty/realizace-opatreni/minimalizace-vlivu-dopravy"
-image: "/uploads/072_610.JPG"
+image: "/media/072_610.JPG"
 long_title: A1 Minimalizace vlivu dopravy
 published: true
 listed: true
@@ -34,7 +34,7 @@ snižování fragmentace krajiny.
 
 # Výstupy:
 
-## [![](/uploads/vydrynasilnici_300.jpg){: .wysiwyg-float-left}][1]Online mapová aplikace [WWW.VYDRYNASILNICI.CZ](WWW.VYDRYNASILNICI.CZ)
+## [![](/media/vydrynasilnici_300.jpg){: .wysiwyg-float-left}][1]Online mapová aplikace [WWW.VYDRYNASILNICI.CZ](WWW.VYDRYNASILNICI.CZ)
 
 Online mapa obsahuje dvě základní vrstvy: 1) všechna zaznamenaná místa
 úhynů vyder na našich silnicích a 2) riziková místa, který byla
@@ -44,9 +44,9 @@ priorit, přiložena je fotodokumentace a návrh řešení, jak daná místa pr
 vydry zprůchodnit. Aplikace je určena zejména pracovníkům OOP a správcům
 silnic.
 
-## ![](/uploads/vydra_a_doprava_-_ob_lka_300.jpg){: .wysiwyg-float-left}Brožura
+## ![](/media/vydra_a_doprava_-_ob_lka_300.jpg){: .wysiwyg-float-left}Brožura
 
-[Vydra a doprava (pdf; 13 MB)](/uploads/vydra_a_doprava_-_web_1.pdf)
+[Vydra a doprava (pdf; 13 MB)](/media/vydra_a_doprava_-_web_1.pdf)
 
 Tištěnou verzi pošleme na vyžádání.
 
@@ -58,16 +58,16 @@ Tištěnou verzi pošleme na vyžádání.
 
 [Poledník L. a Poledníková K. (2017): Vydra a doprava – problém, který
 je možné řešit. Fórum ochrany přírody 1/2017:
-str. 5.](/uploads/11-vydra-a-doprava-problem-ktery-je-mozne-resit.pdf)
+str. 5.](/media/11-vydra-a-doprava-problem-ktery-je-mozne-resit.pdf)
 
 [Poledník L., Poledníková K., Beran V. a Mináriková T. (2017)
 Průchodnost silnic z pohledu vydry říční. Fórum ochrany přírody 2/2017:
 37 – 42. (pdf;
-2,3 MB)](/uploads/12-pruchodnost-silnic-z-pohledu-vydry-ricni.pdf)
+2,3 MB)](/media/12-pruchodnost-silnic-z-pohledu-vydry-ricni.pdf)
 
 [Poledníková K, Poledník L., Beran V. a Mináriková T. (2017) Vydry na
 silnici – problém, který můžeme řešit. Ochrana přírody 3:
-25 – 28](/uploads/OP_03_2017_vydry.pdf)
+25 – 28](/media/OP_03_2017_vydry.pdf)
 
 
 [1]: http://www.vydrynasilnici.cz

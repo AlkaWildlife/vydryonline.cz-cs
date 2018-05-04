@@ -5,19 +5,19 @@ news:
 links:
   - title: Online poradna
     url: /user-answers
-    image: /uploads/banner_online_small.jpg
+    image: /media/banner_online_small.jpg
   - title: Vydry a škody
     url: /vydra/vydra-a-skody
-    image: /uploads/banner_skody_3_small.jpg
+    image: /media/banner_skody_3_small.jpg
   - title: Vydra a silnice
     url: /vydra/vydry-a-silnice
-    image: /uploads/banner_silnice_small.jpg
+    image: /media/banner_silnice_small.jpg
   - title: Vydří stezky
     url: http://www.vydristezky.cz
-    image: /uploads/banner_stezka_small.jpg
+    image: /media/banner_stezka_small.jpg
   - title: Bulletin Vydra
     url: /ke-stazeni/bulletin-vydra
-    image: /uploads/banner_bulletin_small.jpg
+    image: /media/banner_bulletin_small.jpg
 
 mission:
   body: |+

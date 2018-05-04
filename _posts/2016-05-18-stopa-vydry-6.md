@@ -1,6 +1,6 @@
 ---
 title: Stopa vydry
-image: "/uploads/P1040555.JPG"
+image: "/media/P1040555.JPG"
 author: vaclav-beran
 tags: []
 gallery: /news/pocitali-jsme-vydry-na-dacicku

@@ -1,7 +1,7 @@
 ---
 title: O projektu Lutra lutra v Českém rozhlase
-image: /uploads/vydra_888_bohdal_610.jpg
-listing_thumbnail: /uploads/vydra_888_bohdal_274.jpg
+image: /media/vydra_888_bohdal_610.jpg
+listing_thumbnail: /media/vydra_888_bohdal_274.jpg
 published: true
 date: '2018-05-04'
 category: news
@@ -19,4 +19,4 @@ Rozhovor začíná v čase 5:38.
 
 Více o projektu Lutra lutra [zde](/projekty/projekt-lutra-lutra). 
 
-![null](/uploads/spojene_loga_610.jpg)
+![](/media/spojene_loga_610.jpg)

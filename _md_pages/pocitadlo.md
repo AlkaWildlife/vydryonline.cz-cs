@@ -1,7 +1,7 @@
 ---
 title: Počítadlo
 permalink: "/vydra/vydry-a-silnice/pocitadlo"
-image: "/uploads/P5224060_610.JPG"
+image: "/media/P5224060_610.JPG"
 published: true
 listed: true
 position: 3

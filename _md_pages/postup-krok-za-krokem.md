@@ -107,14 +107,14 @@ ale v případě nejasností je dobré komunikovat s pracovníkem krajského
 
 # Ke stažení
 
-[Vzor žádosti o místní šetření](/uploads/vzor_zadost_mistni_setreni.doc)
+[Vzor žádosti o místní šetření](/media/vzor_zadost_mistni_setreni.doc)
 (doc)
 
 [Vzor žádosti o náhrady škod: Jihočeský
-kraj](/uploads/vzor_zadost_jihocesky.doc) (doc)
+kraj](/media/vzor_zadost_jihocesky.doc) (doc)
 
 [Vzor žádosti o náhrady škod: kraj
-Vysočina](/uploads/vzor_zadost_vysocina.doc) (doc)
+Vysočina](/media/vzor_zadost_vysocina.doc) (doc)
 
 
 [1]: http://vydry.org/nas-tym/ "Český nadační fond pro vydru"

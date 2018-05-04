@@ -1,6 +1,6 @@
 ---
 title: Stopní dráha vydry
-image: "/uploads/IMG_1414.JPG"
+image: "/media/IMG_1414.JPG"
 author: katerina-polednikova
 tags:
 - stopy

@@ -1,6 +1,6 @@
 ---
 title: Stopy vydří rodiny
-image: "/uploads/P1120625.JPG"
+image: "/media/P1120625.JPG"
 author: gaspar-camlik
 tags:
 - stopy

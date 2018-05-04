@@ -1,6 +1,6 @@
 ---
 title: Kontrola rybníka
-image: "/uploads/IMG_7275.JPG"
+image: "/media/IMG_7275.JPG"
 author: katerina-polednikova
 tags: []
 gallery: /news/zima-umoznila-spocitat-vydry-v-orlickych-horach

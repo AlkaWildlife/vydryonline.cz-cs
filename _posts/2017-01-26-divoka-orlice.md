@@ -1,6 +1,6 @@
 ---
 title: Divoká Orlice
-image: "/uploads/20170119_124805.jpg"
+image: "/media/20170119_124805.jpg"
 author: jan-svanyga
 tags: []
 gallery: /news/zima-umoznila-spocitat-vydry-v-orlickych-horach

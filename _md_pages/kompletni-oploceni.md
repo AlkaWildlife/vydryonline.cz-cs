@@ -1,7 +1,7 @@
 ---
 title: Kompletní oplocení
 permalink: "/vydra/vydra-a-skody/opatreni-ke-snizovani-skod/kompletni-oploceni"
-image: "/uploads/IMG_0157_610.JPG"
+image: "/media/IMG_0157_610.JPG"
 published: true
 listed: true
 position: 4
@@ -20,7 +20,7 @@ plotu. Plot je možné zhotovit ze svařovaného pletiva s umělohmotnou
 povrchovou úpravou, velikost ok 5 × 5 cm. Pletivo musí být zapuštěno
 alespoň 20 cm pod zem a s výškou nad zemí optimálně 1 metr.
 
-![](/uploads/IMG_0147_610.JPG)
+![](/media/IMG_0147_610.JPG)
 
 *Ani na přítoku a výtoku z rybníka nesmí být plot přerušen.*
 

@@ -1,7 +1,7 @@
 ---
 title: Elektrický ohradník
 permalink: "/vydra/vydra-a-skody/opatreni-ke-snizovani-skod/elektricky-ohradnik"
-image: "/uploads/IMG_0333_610.JPG"
+image: "/media/IMG_0333_610.JPG"
 published: true
 listed: true
 position: 1
@@ -19,7 +19,7 @@ přerušen. V zimním období je třeba výšku upravovat podle výšky
 sněhu. Důležité je také vést dobře ohradník na přítoku a výtoku, tak aby
 nikde nevznikl prostor, kudy se vydra dostane pod ohradníkem dovnitř.
 
-![](/uploads/IMG_0343_610.JPG)
+![](/media/IMG_0343_610.JPG)
 
 *Elektrický ohradník není funkční, po obnově nebyl zkontrolován, část
 vedení je pod sněhem. V daném místě je vidět stopa vydry, která hned

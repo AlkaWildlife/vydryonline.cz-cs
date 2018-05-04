@@ -1,6 +1,6 @@
 ---
 title: Stopa vydry
-image: "/uploads/B_l_02.jpg"
+image: "/media/B_l_02.jpg"
 author: libor-prauz
 tags:
 - pobytové znaky

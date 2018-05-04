@@ -1,7 +1,7 @@
 ---
 title: Realizace opatření ZP
 permalink: "/projekty/realizace-opatreni"
-image: "/uploads/Projektove_foto_610.jpg"
+image: "/media/Projektove_foto_610.jpg"
 long_title: Realizace vybraných opatření PP
 published: true
 listed: true
@@ -17,7 +17,7 @@ prostředí
 
 **Rozpočet projektu**: 2 286 418,93 Kč
 
-![](/uploads/loga_mgs_stojato_mm.jpg){: .wysiwyg-float-left}Podpořeno
+![](/media/loga_mgs_stojato_mm.jpg){: .wysiwyg-float-left}Podpořeno
 grantem z Islandu, Lichtenštejnska a Norska.
 
 Tento web byl vytvořen za finanční podpory EHP fondů 2009–2014

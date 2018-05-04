@@ -1,6 +1,6 @@
 ---
 title: Brožura o sběru uhynulých vyder
-image: "/uploads/titulni_strana_300.jpg"
+image: "/media/titulni_strana_300.jpg"
 date: 2017-03-07
 category: news
 layout: news
@@ -19,4 +19,4 @@ i tištěnou verzi.
 Přejeme příjemné čtení.
 
 [Brožura Sběr a analýzy uhynulých vyder v České republice (pdf;
-7,5 MB)](/uploads/ALKA_-_Sb_r_a_anal_zy_vyder_-_web.pdf)
+7,5 MB)](/media/ALKA_-_Sb_r_a_anal_zy_vyder_-_web.pdf)

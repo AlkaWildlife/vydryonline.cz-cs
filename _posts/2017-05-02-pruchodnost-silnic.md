@@ -1,6 +1,6 @@
 ---
 title: Průchodnost silnic
-image: "/uploads/nahled.jpg"
+image: "/media/nahled.jpg"
 date: 2017-05-02
 category: news
 layout: news
@@ -14,4 +14,4 @@ na Vysočině je situace horší než jinde. Nejnebezpečnější jsou pro vydry
 díky intenzitě provozu silnice I. tříd a dálnice.
 
 [Průchodnost silnic z pohledu vydry říční (pdf; 2,3
-MB)](/uploads/12-pruchodnost-silnic-z-pohledu-vydry-ricni.pdf)
+MB)](/media/12-pruchodnost-silnic-z-pohledu-vydry-ricni.pdf)

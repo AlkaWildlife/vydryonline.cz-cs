@@ -1,6 +1,6 @@
 ---
 title: Ostrov Aukra
-image: "/uploads/aDSCN0988.JPG"
+image: "/media/aDSCN0988.JPG"
 tags: []
 gallery: /news/vydry-v-norsku
 position: 37

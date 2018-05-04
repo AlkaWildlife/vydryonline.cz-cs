@@ -1,6 +1,6 @@
 ---
 title: Zbytky potravy vydry
-image: "/uploads/IMG_7835.JPG"
+image: "/media/IMG_7835.JPG"
 author: katerina-polednikova
 tags:
 - pobytové znaky

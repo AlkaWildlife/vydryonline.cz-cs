@@ -1,6 +1,6 @@
 ---
 title: O vydře na Kvildě
-image: "/uploads/WOD_2017_logo.jpg"
+image: "/media/WOD_2017_logo.jpg"
 date: 2017-05-29
 category: news
 layout: news
@@ -24,4 +24,4 @@ celém světě. 12 ze 13 druhů vyder vykazuje klesající početnost. Stejně
 jako u nás jsou vydry po celém světě nelegálně loveny, problém je
 zhoršování stavu prostředí, úbytek kořisti a autodoprava.
 
-![](/uploads/vydra_Kvilda_pozvanka_610.jpg)
+![](/media/vydra_Kvilda_pozvanka_610.jpg)

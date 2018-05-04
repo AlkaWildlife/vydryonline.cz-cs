@@ -1,6 +1,6 @@
 ---
 title: Trus a výměšek vydry
-image: "/uploads/IMG_6407.JPG"
+image: "/media/IMG_6407.JPG"
 author: katerina-polednikova
 tags:
 - trus

@@ -1,6 +1,6 @@
 ---
 title: Jeden z jezů na Krkonošských tocích
-image: "/uploads/IMG_7184.JPG"
+image: "/media/IMG_7184.JPG"
 author: katerina-polednikova
 tags: []
 gallery: /news/scitani-vyder-v-krkonosich

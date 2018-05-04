@@ -1,6 +1,6 @@
 ---
 title: Setkání s vydrou
-image: "/uploads/P1120638_v.JPG"
+image: "/media/P1120638_v.JPG"
 author: gaspar-camlik
 tags: []
 gallery: /news/pri-stopovani-na-dacicku-se-ukazala-i-vydra

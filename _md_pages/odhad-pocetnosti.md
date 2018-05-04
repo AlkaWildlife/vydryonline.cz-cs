@@ -1,7 +1,7 @@
 ---
 title: A2 Odhad početnosti
 permalink: "/projekty/realizace-opatreni/odhad-pocetnosti"
-image: "/uploads/IMG_0393_600.JPG"
+image: "/media/IMG_0393_600.JPG"
 long_title: A2 odhad početnosti vyder
 published: true
 listed: true
@@ -35,6 +35,6 @@ tam](/news/pri-stopovani-na-dacicku-se-ukazala-i-vydra)
 [Polednik L., Poledníková K., Větrovcová J., Beran V. a Pavel V. (2017):
 Zimní sčítání vydry říční ve vybraných oblastech České republiky
 v letech 2013 – 2017. Bulletin Vydra 17:
-14–25.](/uploads/Polednik_etal_14_25.pdf)
+14–25.](/media/Polednik_etal_14_25.pdf)
 
-[Počty_vyder_2016.pdf](/uploads/Po_ty_vyder_2016.pdf)
+[Počty_vyder_2016.pdf](/media/Po_ty_vyder_2016.pdf)

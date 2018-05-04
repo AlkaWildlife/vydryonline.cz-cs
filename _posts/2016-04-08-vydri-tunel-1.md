@@ -1,6 +1,6 @@
 ---
 title: Vydří tunel
-image: "/uploads/vydritunel_a_plot.JPG"
+image: "/media/vydritunel_a_plot.JPG"
 author: lukas-polednik
 tags:
 - propustky

@@ -1,6 +1,6 @@
 ---
 title: Vhodný most
-image: "/uploads/most1_1000.jpg"
+image: "/media/most1_1000.jpg"
 author: lukas-polednik
 tags:
 - mosty průchozí

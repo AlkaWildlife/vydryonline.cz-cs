@@ -1,6 +1,6 @@
 ---
 title: Stopa norka
-image: "/uploads/aDSCN0864.JPG"
+image: "/media/aDSCN0864.JPG"
 author: katerina-polednikova
 tags:
 - norek

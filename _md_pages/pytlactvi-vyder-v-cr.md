@@ -1,7 +1,7 @@
 ---
 title: Pytláctví vyder v ČR
 permalink: "/vydra/o-vydre/pytlactvi-vyder-v-cr"
-image: "/uploads/IMG_8976.JPG"
+image: "/media/IMG_8976.JPG"
 long_title: Příklady pytláctví vyder v ČR
 published: true
 listed: true
@@ -29,7 +29,7 @@ Sb. a Vyhláška č. 90/2002 Sb.)
 
 # Dačice 2008: karbofuran
 
-![](/uploads/KP_Dacice.JPG){: .wysiwyg-float-left}Na rybniční soustavě
+![](/media/KP_Dacice.JPG){: .wysiwyg-float-left}Na rybniční soustavě
 u Dačic (okres Jindřichův Hradec) a na přilehlém úseku řeky Dyje byly
 nalezeny mrtvoly několika volně žijících zvířat. Jednalo se o čtyři
 vydry říční, tři norky americké a jedno káně lesní. Pitva a chemické
@@ -44,7 +44,7 @@ ryb.
 
 # Dobrnice 2009: karbofuran
 
-![](/uploads/Hlav___otrava_Dobrnice2009.jpg){: .wysiwyg-float-left}Na
+![](/media/Hlav___otrava_Dobrnice2009.jpg){: .wysiwyg-float-left}Na
 rybníku necelý kilometr jižně od obce Dobrnice (okres Havlíčkův Brod)
 byly 19. 3. nalezeny dvě mrtvé vydry. Později při bližším dohledání bylo
 nalezeno ještě další, třetí zvíře. Jednalo se o tři mladé samce, roční
@@ -55,7 +55,7 @@ trusu.
 
 # Občiny 2009: železa
 
-![](/uploads/Hlav____eleza_Ob_inyHB_3.jpg){: .wysiwyg-float-left}Místní
+![](/media/Hlav____eleza_Ob_inyHB_3.jpg){: .wysiwyg-float-left}Místní
 občan pozoroval na poli u obce Občiny u Havlíčkova Brodu vydru vlekoucí
 železa na pravé přední noze. Pracovník AOPK pak toto zraněné zvíře
 dohledal schované v hromadě klestí v kritickém stavu. Samička vydry
@@ -67,7 +67,7 @@ nakonec uhynula.
 
 # Veselí nad Lužnicí 2011: zástřel
 
-![](/uploads/DSC_0012_Veseli_n_Luz_24_2_2011_c355.JPG){:
+![](/media/DSC_0012_Veseli_n_Luz_24_2_2011_c355.JPG){:
 .wysiwyg-float-left}V únoru 2011 byla nalezena uhynulá vydra na břehu
 Blatské Stoky u Veselí nad Lužnicí. Pitva prokázala, že zvíře, mladý
 samec, bylo střeleno přímo do hlavy.
@@ -76,7 +76,7 @@ samec, bylo střeleno přímo do hlavy.
 
 # Mladeč 2011: zástřel
 
-![](/uploads/s320_p1030460_mladec_28_3_2011_VB.jpg){:
+![](/media/s320_p1030460_mladec_28_3_2011_VB.jpg){:
 .wysiwyg-float-left}V březnu 2011 byla nalezena uhynulá vydra říční na
 břehu řeky Moravy na hranici národní přírodní rezervace Vrapač v CHKO
 Litovelské Pomoraví. Poté byla také provedena pitva tohoto jedince, na

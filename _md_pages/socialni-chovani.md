@@ -1,7 +1,7 @@
 ---
 title: Chování
 permalink: "/vydra/o-vydre/socialni-chovani"
-image: "/uploads/vydry12_610.jpg"
+image: "/media/vydry12_610.jpg"
 published: true
 listed: true
 position: 3
@@ -14,7 +14,7 @@ s mláďaty nevytvářejí vydry žádné sociální skupiny. Výjimku tvoří 
 s nízkou dostupností potravy, kdy může docházet ke kumulaci několika
 jedinců lovících na jednom místě.
 
-![](/uploads/IMG_6402_300.JPG){: .wysiwyg-float-left}Vydry spolu
+![](/media/IMG_6402_300.JPG){: .wysiwyg-float-left}Vydry spolu
 komunikují především pomocí pachových značek. Ty jsou tvořeny především
 trusem, ale také močí a výměšky análních žláz. Pachové značky jsou často
 ukládány na nápadných místech: při soutocích, pod mosty nebo na výrazné
@@ -22,7 +22,7 @@ kameny.
 
 <div class="clearfix"></div>
 
-![](/uploads/obrazek_3a_300.jpg){: .wysiwyg-float-left}Jediným obdobím
+![](/media/obrazek_3a_300.jpg){: .wysiwyg-float-left}Jediným obdobím
 v roce, kdy dochází k aktivnímu vyhledávání obou pohlaví, je doba
 námluv. Brzy po páření ale samec samici opouští a veškerá péče o mláďata
 tak závisí na ní. Pohlavní dospělosti dosahují samice přibližně ve
@@ -49,7 +49,7 @@ potravy několik rybníků, které pravidelně obchází. Využívané území m
 spíše plošný charakter a jeho rozloha závisí na koncentraci a úživnosti
 vodních ploch v krajině.
 
-![](/uploads/telem_300.JPG){: .wysiwyg-float-left}Velikost domovských
+![](/media/telem_300.JPG){: .wysiwyg-float-left}Velikost domovských
 okrsků byla na našem území dlouhodobě sledována pomocí telemetrie
 (dálkové sledování zvířat s vysílačkou) volně žijících jedinců
 v rybníkářské oblasti Českomoravské vrchoviny. Domovské okrsky
@@ -67,7 +67,7 @@ navštíví jedna vydra tři rybníky.
 
 <div class="clearfix"></div>
 
-![](/uploads/obrazek_2_610.jpg)
+![](/media/obrazek_2_610.jpg)
 
 *Domovské okrsky telemetricky sledovaných vyder na Českomoravské
 vrchovině: zelené odstíny = samci; červené = samice*

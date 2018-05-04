@@ -1,6 +1,6 @@
 ---
 title: Labe ve Špindlerově mlýně
-image: "/uploads/IMG_7176.JPG"
+image: "/media/IMG_7176.JPG"
 author: katerina-polednikova
 tags: []
 gallery: /news/scitani-vyder-v-krkonosich

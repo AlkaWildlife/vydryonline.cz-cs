@@ -1,6 +1,6 @@
 ---
 title: Zima umožnila spočítat vydry v Orlických horách
-image: "/uploads/20170119_125112_610.jpg"
+image: "/media/20170119_125112_610.jpg"
 date: 2017-01-26
 category: news
 layout: news
@@ -35,7 +35,7 @@ stopování zorganizovat. Ve spolupráci s pracovníky AOPK ČR, Správy
 chráněné krajinné oblasti Orlické hory bylo provedeno stopování
 v celých Orlických horách.*“
 
-![](/uploads/IMG_7230_610.JPG)
+![](/media/IMG_7230_610.JPG)
 
 Akce se zúčastnilo 15 expertů, kteří zkontrolovali všechny vodní toky
 a plochy na území chráněné krajinné oblasti. „*Zjistili jsme, že na
@@ -54,12 +54,12 @@ jsou teritoriální zvířata, každý jedinec si hlídá svůj domovský okrsek
 V horských oblastech se tak počty pohybují v rozmezí 3–4 dospělých
 zvířat na 100 km<sup>2</sup>. CHKO Orlické hory má 204 km<sup>2</sup>.*“
 
-![](/uploads/B_l_04_610.jpg)
+![](/media/B_l_04_610.jpg)
 
 Sčítání vyder je prováděno v rámci projektu [Realizace vybraných
 opatření Programu péče pro vydru říční v ČR][2].
 
-![](/uploads/loga_mgs_stojato_mm.jpg){: .wysiwyg-float-left}*Podpořeno
+![](/media/loga_mgs_stojato_mm.jpg){: .wysiwyg-float-left}*Podpořeno
 grantem z Islandu, Lichtenštejnska a Norska.*
 
 *Tato akce byla realizována za finanční podpory EHP fondů 2009–2014

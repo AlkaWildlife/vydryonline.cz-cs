@@ -1,7 +1,7 @@
 ---
 title: Proč vydry nelikvidovat?
 permalink: "/vydra/vydra-a-skody/proc-vydry-nelikvidovat"
-image: "/uploads/DSCN9152.JPG"
+image: "/media/DSCN9152.JPG"
 published: true
 listed: true
 position: 2

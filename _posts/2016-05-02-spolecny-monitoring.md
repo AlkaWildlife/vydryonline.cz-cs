@@ -1,6 +1,6 @@
 ---
 title: Společný monitoring
-image: "/uploads/aDSCN0998.JPG"
+image: "/media/aDSCN0998.JPG"
 author: katerina-polednikova
 tags: []
 gallery: /news/vydry-v-norsku

@@ -1,7 +1,7 @@
 ---
 title: Mise
 permalink: "/o-nas/mise"
-image: "/uploads/IGP4776_610.JPG"
+image: "/media/IGP4776_610.JPG"
 long_title: Mise stránek
 published: true
 listed: true

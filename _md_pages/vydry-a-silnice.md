@@ -1,7 +1,7 @@
 ---
 title: Vydry a silnice
 permalink: "/vydra/vydry-a-silnice"
-image: "/uploads/P5310050-l.JPG"
+image: "/media/P5310050-l.JPG"
 published: true
 listed: true
 position: 0

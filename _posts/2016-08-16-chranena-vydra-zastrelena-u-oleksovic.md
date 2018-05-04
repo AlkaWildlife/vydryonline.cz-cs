@@ -1,6 +1,6 @@
 ---
 title: Chráněná vydra zastřelena u Oleksovic
-image: "/uploads/foto1_IMG_0322_610.JPG"
+image: "/media/foto1_IMG_0322_610.JPG"
 date: 2016-08-16
 category: news
 layout: news
@@ -26,7 +26,7 @@ tukových rezerv, na silnici poměrně daleko od nějakého toku*,“ popisuje
 okolnosti nálezu Václav Beran, zoolog ALKA Wildlife, který pitvu zvířete
 provedl.
 
-![](/uploads/foto2_IMG_0327_610.JPG) *Jeden z broků nalezených pod kůží*
+![](/media/foto2_IMG_0327_610.JPG) *Jeden z broků nalezených pod kůží*
 
 Vydra říční je silně ohrožený druh, chráněný podle českých
 i evropských zákonů. Proto je také celoročně hájena a nesmí se
@@ -67,9 +67,9 @@ lidé nahlásí nálezy uhynulých zvířat. A také tím, že toto chování n
 tolerováno nejen z hlediska zákonů, ale také morálně*,“ uzavírá Kateřina
 Poledníková.
 
-![](/uploads/foto3_IMG_0336_610.JPG) *Broky nalezené na temeni hlavy*
+![](/media/foto3_IMG_0336_610.JPG) *Broky nalezené na temeni hlavy*
 
-![](/uploads/loga_mgs_stojato_mm.jpg){: .wysiwyg-float-left}*Podpořeno
+![](/media/loga_mgs_stojato_mm.jpg){: .wysiwyg-float-left}*Podpořeno
 grantem z Islandu, Lichtenštejnska a Norska.*
 
 *Tato aktivita je realizována za finanční podpory EHP fondů

@@ -1,6 +1,6 @@
 ---
 title: Samice s mládětem
-image: "/uploads/obrazek_3b.jpg"
+image: "/media/obrazek_3b.jpg"
 author: alka-wildlife-ops
 tags:
 - vydra

@@ -1,6 +1,6 @@
 ---
 title: Zamrzlé Labe
-image: "/uploads/IMG_7215.JPG"
+image: "/media/IMG_7215.JPG"
 author: katerina-polednikova
 tags: []
 gallery: /news/scitani-vyder-v-krkonosich

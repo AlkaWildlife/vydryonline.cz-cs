@@ -1,6 +1,6 @@
 ---
 title: 'Mezinárodní den vyder: 27. 5. 2015'
-image: "/uploads/otterday_610.jpg"
+image: "/media/otterday_610.jpg"
 date: 2015-05-27
 category: news
 layout: news
@@ -33,7 +33,7 @@ efektivně společně loví. Druhým příkladem je vydra malá, dorůstající
 maximálně 5 kg. Ty, tvoří skupiny i o více rodinách. Většině druhů se
 věnuje řada vědeckých i ochranářských týmů.
 
-![](/uploads/Vydra-ricni-948a_300.jpg){: .wysiwyg-float-left}Co však
+![](/media/Vydra-ricni-948a_300.jpg){: .wysiwyg-float-left}Co však
 mají všechny vydry společného je, že jsou vždy predátorem na vrcholu
 potravního žebříčku, a jsou proto přirozeně ukazatelem stavu svého
 životního prostředí – vodních toků, nádrží, moří, ale i jejich

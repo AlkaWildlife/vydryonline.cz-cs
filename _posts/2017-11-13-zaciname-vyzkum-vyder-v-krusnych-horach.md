@@ -1,6 +1,6 @@
 ---
 title: Začínáme výzkum vyder v Krušných horách
-image: "/uploads/a_ID0221_610.JPG"
+image: "/media/a_ID0221_610.JPG"
 date: 2017-11-13
 category: news
 layout: news
@@ -36,4 +36,4 @@ právě v okolí Karlových Varů.
 Více se o projektu Lutra lutra dozvíte
 [zde](/projekty/projekt-lutra-lutra).
 
-![](/uploads/spojene_loga_610.jpg)
+![](/media/spojene_loga_610.jpg)

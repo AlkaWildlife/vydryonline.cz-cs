@@ -1,6 +1,6 @@
 ---
 title: Svatopeterský potok pod zemí
-image: "/uploads/IMG_7189.JPG"
+image: "/media/IMG_7189.JPG"
 author: katerina-polednikova
 tags: []
 gallery: /news/scitani-vyder-v-krkonosich

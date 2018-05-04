@@ -1,6 +1,6 @@
 ---
 title: Stopy vydří rodiny
-image: "/uploads/IMG_7323.jpg"
+image: "/media/IMG_7323.jpg"
 author: libor-prauz
 tags:
 - stopy

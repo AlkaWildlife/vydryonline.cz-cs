@@ -1,7 +1,7 @@
 ---
 title: Program péče
 permalink: "/vydra/o-vydre/program-pece"
-image: "/uploads/vydra4B_610.jpg"
+image: "/media/vydra4B_610.jpg"
 long_title: >-
   Program péče pro vydru říční (*Lutra lutra*) v České republice
   v letech 2009–2018
@@ -60,4 +60,4 @@ Hodnocení naplňování cílů a účinnosti navržených opatření bude zaji
 pravidelným monitoringem.
 
 [Program_péče (pdf;
-4,59 MB)](/uploads/program-pece-pro-vydru-ricni-2009-2018.pdf)
+4,59 MB)](/media/program-pece-pro-vydru-ricni-2009-2018.pdf)

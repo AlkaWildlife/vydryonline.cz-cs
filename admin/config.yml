@@ -2,7 +2,7 @@ backend:
   name: github
   repo: AlkaWildlife/vydryonline.cz-cs
 
-media_folder: uploads
+media_folder: media
 
 collections:
 - name: md_pages

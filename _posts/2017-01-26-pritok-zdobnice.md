@@ -1,6 +1,6 @@
 ---
 title: Přítok Zdobnice
-image: "/uploads/IMG_7244.JPG"
+image: "/media/IMG_7244.JPG"
 author: katerina-polednikova
 tags: []
 gallery: /news/zima-umoznila-spocitat-vydry-v-orlickych-horach

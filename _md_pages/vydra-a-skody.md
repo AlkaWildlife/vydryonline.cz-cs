@@ -1,7 +1,7 @@
 ---
 title: Vydra a škody
 permalink: "/vydra/vydra-a-skody"
-image: "/uploads/IGP4702_610.JPG"
+image: "/media/IGP4702_610.JPG"
 published: true
 listed: true
 position: 1

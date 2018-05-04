@@ -1,7 +1,7 @@
 ---
 title: Opatření ke snižování škod
 permalink: "/vydra/vydra-a-skody/opatreni-ke-snizovani-skod"
-image: "/uploads/IMG_0386_610.JPG"
+image: "/media/IMG_0386_610.JPG"
 long_title: Preventivní opatření snižující škody na rybách
 published: true
 listed: true

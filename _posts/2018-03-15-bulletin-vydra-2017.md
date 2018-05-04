@@ -1,6 +1,6 @@
 ---
 title: Bulletin VYDRA 2017
-image: "/uploads/Vydra-ricni-948a_300.jpg"
+image: "/media/Vydra-ricni-948a_300.jpg"
 date: 2018-03-15
 category: news
 layout: news

@@ -1,7 +1,7 @@
 ---
 title: Povídání o vydře v Myslivosti
 permalink: "/vydra/o-vydre/povidani-o-vydre-v-myslivosti"
-image: "/uploads/P7010003_610.jpg"
+image: "/media/P7010003_610.jpg"
 long_title: Povídání o vydře v časopise Myslivost
 published: true
 listed: true

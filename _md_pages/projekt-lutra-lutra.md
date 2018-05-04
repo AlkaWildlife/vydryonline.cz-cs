@@ -13,11 +13,11 @@ aside_title: Další projekty
 
 ERDF (Evropský fond pro regionální rozvoj)
 
-![](/uploads/Emblem_Europaeische_Union_mit_Verweis_Fonds_Farbe_300.jpg)
+![](/media/Emblem_Europaeische_Union_mit_Verweis_Fonds_Farbe_300.jpg)
 
 # **Program**:
 
-![](/uploads/SNCZ2020_Zusatz_RGB_150dpi_300_m.jpg){:
+![](/media/SNCZ2020_Zusatz_RGB_150dpi_300_m.jpg){:
 .wysiwyg-float-left}Programu na podporu přeshraniční spolupráce mezi
 Českou republikou a Svobodným státem Sasko 2014–2020  
 **Oficiální stránky programu:** [http://www.sn-cz2020.eu][1]
@@ -68,7 +68,7 @@ Lutra lutra.
 
 - Osvěta, informovanost široké i odborné veřejnosti
 
-# ![](/uploads/Vydra-ricni-9012_610.jpg)  
+# ![](/media/Vydra-ricni-9012_610.jpg)  
 *autor foto: Jiří Bohdal*
 
 # **Aktivity projektu**
