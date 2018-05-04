@@ -1,7 +1,7 @@
 ---
 title: Neprůchozí propustek
 image: "/media/IMG_7410.JPG"
-author: lukas-polednik
+author: Lukáš Poledník
 tags:
 - rizikové místo
 - vydra

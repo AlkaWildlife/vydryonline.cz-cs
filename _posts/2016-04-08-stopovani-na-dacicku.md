@@ -1,7 +1,7 @@
 ---
 title: Stopování na Dačicku
 image: "/media/IMG_0381_900.JPG"
-author: katerina-polednikova
+author: Kateřina Poledníková
 tags: []
 gallery: /news/pocitali-jsme-vydry-na-dacicku
 published: true

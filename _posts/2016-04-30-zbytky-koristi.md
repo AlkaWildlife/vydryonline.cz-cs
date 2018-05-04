@@ -1,7 +1,7 @@
 ---
 title: Zbytky kořisti
 image: "/media/zbytky_raka.JPG"
-author: katerina-polednikova
+author: Kateřina Poledníková
 tags:
 - pobytové znaky
 published: true

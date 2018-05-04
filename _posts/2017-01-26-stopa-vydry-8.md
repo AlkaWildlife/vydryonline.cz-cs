@@ -1,7 +1,7 @@
 ---
 title: Stopa vydry
 image: "/media/IMG_0412.JPG"
-author: vaclav-beran
+author: Václav Beran
 tags:
 - pobytové znaky
 gallery: /news/zima-umoznila-spocitat-vydry-v-orlickych-horach

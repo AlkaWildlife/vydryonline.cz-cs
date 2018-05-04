@@ -1,7 +1,7 @@
 ---
 title: Trus vydry
 image: "/media/IMG_6393.JPG"
-author: katerina-polednikova
+author: Kateřina Poledníková
 tags:
 - pobytové znaky
 - trus

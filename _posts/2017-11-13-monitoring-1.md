@@ -1,7 +1,7 @@
 ---
 title: Monitoring
 image: "/media/a_DSCN0248_2000.JPG"
-author: stepan-zapotocny
+author: Štěpán Zápotočný
 tags: []
 gallery: /news/zaciname-vyzkum-vyder-v-krusnych-horach
 published: true

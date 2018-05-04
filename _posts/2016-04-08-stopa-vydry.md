@@ -1,7 +1,7 @@
 ---
 title: Stopa vydry
 image: "/media/aDSCN0898.JPG"
-author: katerina-polednikova
+author: Kateřina Poledníková
 tags:
 - vydra
 - stopy

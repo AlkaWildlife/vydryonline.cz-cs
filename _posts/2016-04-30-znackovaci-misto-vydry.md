@@ -1,7 +1,7 @@
 ---
 title: Značkovací místo vydry
 image: "/media/IMG_1402.JPG"
-author: katerina-polednikova
+author: Kateřina Poledníková
 tags:
 - vydra
 - trus

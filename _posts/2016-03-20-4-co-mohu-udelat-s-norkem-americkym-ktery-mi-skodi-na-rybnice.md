@@ -1,6 +1,6 @@
 ---
 title: Co mohu udělat s norkem americkým, který mi škodí na rybníce?
-author: katerina-polednikova
+author: Kateřina Poledníková
 published: true
 date: 2016-03-20
 category: user-answers

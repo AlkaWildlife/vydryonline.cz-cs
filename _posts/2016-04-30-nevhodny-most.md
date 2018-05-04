@@ -1,7 +1,7 @@
 ---
 title: Nevhodný most
 image: "/media/DSCN1266.JPG"
-author: lukas-polednik
+author: Lukáš Poledník
 tags:
 - rizikové místo
 published: true

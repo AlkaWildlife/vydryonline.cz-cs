@@ -1,7 +1,7 @@
 ---
 title: Stopovací tým
 image: "/media/IMG_7224.JPG"
-author: katerina-polednikova
+author: Kateřina Poledníková
 tags: []
 gallery: /news/zima-umoznila-spocitat-vydry-v-orlickych-horach
 published: true

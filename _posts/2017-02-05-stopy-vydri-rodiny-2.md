@@ -1,7 +1,7 @@
 ---
 title: Stopy vydří rodiny
 image: "/media/IMG_7323.jpg"
-author: libor-prauz
+author: Libor Prauz
 tags:
 - stopy
 - pobytové znaky

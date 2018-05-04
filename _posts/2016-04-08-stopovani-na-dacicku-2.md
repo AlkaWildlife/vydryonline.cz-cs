@@ -1,7 +1,7 @@
 ---
 title: Stopování na Dačicku
 image: "/media/P1040594_900.JPG"
-author: vaclav-beran
+author: Václav Beran
 tags: []
 gallery: /news/pocitali-jsme-vydry-na-dacicku
 published: true

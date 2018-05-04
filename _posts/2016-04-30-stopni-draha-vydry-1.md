@@ -1,7 +1,7 @@
 ---
 title: Stopní dráha vydry
 image: "/media/IMG_1413.JPG"
-author: katerina-polednikova
+author: Kateřina Poledníková
 tags:
 - stopy
 - vydra

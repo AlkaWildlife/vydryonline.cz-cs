@@ -1,7 +1,7 @@
 ---
 title: Vhodný most
 image: "/media/most1_1000.jpg"
-author: lukas-polednik
+author: Lukáš Poledník
 tags:
 - mosty průchozí
 gallery: /vydra/vydry-a-silnice/obecna-pravidla-pro-upravu-rizikovych-mist

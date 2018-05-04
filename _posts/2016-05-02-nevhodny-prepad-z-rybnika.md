@@ -1,7 +1,7 @@
 ---
 title: Nevhodný přepad z rybníka
 image: "/media/DSCN1400_1000.JPG"
-author: lukas-polednik
+author: Lukáš Poledník
 tags:
 - rizikové místo
 published: true

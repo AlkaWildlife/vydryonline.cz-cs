@@ -1,7 +1,7 @@
 ---
 title: Místo pro odpočinek
 image: "/media/05_u.jpg"
-author: libor-prauz
+author: Libor Prauz
 tags: []
 gallery: /news/scitani-vyder-v-krkonosich
 published: true

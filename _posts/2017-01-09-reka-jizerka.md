@@ -1,7 +1,7 @@
 ---
 title: Řeka Jizerka
 image: "/media/IMG_0378.JPG"
-author: vaclav-beran
+author: Václav Beran
 tags: []
 gallery: /news/scitani-vyder-v-krkonosich
 published: true

@@ -1,7 +1,7 @@
 ---
 title: Vydří tunel
 image: "/media/vydritunel_a_plot.JPG"
-author: lukas-polednik
+author: Lukáš Poledník
 tags:
 - propustky
 - zprůchodnění míst

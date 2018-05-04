@@ -1,7 +1,7 @@
 ---
 title: Zima na Vysočině
 image: "/media/IMG_0301.JPG"
-author: katerina-polednikova
+author: Kateřina Poledníková
 tags: []
 gallery: /news/pocitali-jsme-vydry-na-dacicku
 published: true

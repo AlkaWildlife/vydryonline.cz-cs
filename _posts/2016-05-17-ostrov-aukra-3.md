@@ -1,7 +1,7 @@
 ---
 title: Ostrov Aukra
 image: "/media/aDSCN0774.JPG"
-author: katerina-polednikova
+author: Kateřina Poledníková
 tags: []
 gallery: /news/vydry-v-norsku
 published: true

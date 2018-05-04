@@ -1,7 +1,7 @@
 ---
 title: Neprůchozí propustek
 image: "/media/DSCN0668_horni.JPG"
-author: lukas-polednik
+author: Lukáš Poledník
 tags:
 - rizikové místo
 published: true

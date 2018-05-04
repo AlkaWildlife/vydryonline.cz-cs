@@ -1,7 +1,7 @@
 ---
 title: Stopování na Dačicku
 image: "/media/P1040519_900.JPG"
-author: jitka-vetrovcova
+author: Jitka Větrovcová
 tags: []
 gallery: /news/pocitali-jsme-vydry-na-dacicku
 published: true

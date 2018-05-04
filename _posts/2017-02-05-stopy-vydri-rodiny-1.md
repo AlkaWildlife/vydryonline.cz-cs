@@ -1,7 +1,7 @@
 ---
 title: Stopy vydří rodiny
 image: "/media/P1120618.JPG"
-author: gaspar-camlik
+author: Gašpar Čamlík
 tags:
 - stopy
 - pobytové znaky

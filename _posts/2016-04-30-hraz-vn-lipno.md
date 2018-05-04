@@ -1,7 +1,7 @@
 ---
 title: Hráz v. n. Lipno
 image: "/media/DSCN1264.JPG"
-author: lukas-polednik
+author: Lukáš Poledník
 tags:
 - rizikové místo
 published: true

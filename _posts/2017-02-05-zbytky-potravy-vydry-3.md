@@ -1,7 +1,7 @@
 ---
 title: Zbytky potravy vydry
 image: "/media/IMG_7835.JPG"
-author: katerina-polednikova
+author: Kateřina Poledníková
 tags:
 - pobytové znaky
 gallery: /news/pri-stopovani-na-dacicku-se-ukazala-i-vydra

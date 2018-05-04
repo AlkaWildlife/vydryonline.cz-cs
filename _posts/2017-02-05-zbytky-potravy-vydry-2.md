@@ -1,7 +1,7 @@
 ---
 title: Zbytky potravy vydry
 image: "/media/P1120633.JPG"
-author: gaspar-camlik
+author: Gašpar Čamlík
 tags: []
 gallery: /news/pri-stopovani-na-dacicku-se-ukazala-i-vydra
 published: true

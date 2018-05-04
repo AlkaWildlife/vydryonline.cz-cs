@@ -1,7 +1,7 @@
 ---
 title: Stopa vydry
 image: "/media/B_l_02.jpg"
-author: libor-prauz
+author: Libor Prauz
 tags:
 - pobytové znaky
 gallery: /news/zima-umoznila-spocitat-vydry-v-orlickych-horach

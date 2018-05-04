@@ -2,7 +2,7 @@
 title: >-
   Je nutné mít rybník oplocený, aby bylo možné žádat o náhradu škod
   způsobených vydrou?
-author: katerina-polednikova
+author: Kateřina Poledníková
 published: true
 date: 2016-02-28
 category: user-answers

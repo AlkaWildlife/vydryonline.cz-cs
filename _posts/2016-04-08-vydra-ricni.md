@@ -1,7 +1,7 @@
 ---
 title: Vydra říční
 image: "/media/vydra4B_1000.jpg"
-author: katerina-polednikova
+author: Kateřina Poledníková
 tags:
 - vydra
 published: true

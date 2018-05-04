@@ -1,7 +1,7 @@
 ---
 title: Vydří tunel
 image: "/media/DSCN0667_dolni.JPG"
-author: lukas-polednik
+author: Lukáš Poledník
 tags:
 - propustky
 - zprůchodnění míst

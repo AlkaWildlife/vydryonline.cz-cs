@@ -1,7 +1,7 @@
 ---
 title: Stopovací tým
 image: "/media/IMG_7222.JPG"
-author: katerina-polednikova
+author: Kateřina Poledníková
 tags: []
 gallery: /news/scitani-vyder-v-krkonosich
 published: true

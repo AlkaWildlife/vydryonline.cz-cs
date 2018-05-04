@@ -1,7 +1,7 @@
 ---
 title: Značkovací místo
 image: "/media/IMG_6425.JPG"
-author: katerina-polednikova
+author: Kateřina Poledníková
 tags:
 - pobytové znaky
 - vydra

@@ -1,7 +1,7 @@
 ---
 title: Dřevěná lávka
 image: "/media/lavka_1000.jpg"
-author: vaclav-hlavac
+author: Václav Hlaváč
 tags:
 - mosty-pruchozi
 - zpruchodneni-mist

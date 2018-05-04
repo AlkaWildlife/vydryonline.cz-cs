@@ -1,7 +1,7 @@
 ---
 title: Stopní dráha vydry na toku
 image: "/media/IMG_7792_u.JPG"
-author: katerina-polednikova
+author: Kateřina Poledníková
 tags:
 - stopy
 - pobytové znaky

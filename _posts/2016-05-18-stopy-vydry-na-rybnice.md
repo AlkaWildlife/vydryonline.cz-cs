@@ -1,7 +1,7 @@
 ---
 title: Stopy vydry na rybníce
 image: "/media/IMG_0350.JPG"
-author: katerina-polednikova
+author: Kateřina Poledníková
 tags: []
 gallery: /news/pocitali-jsme-vydry-na-dacicku
 published: true

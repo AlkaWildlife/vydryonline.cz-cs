@@ -1,7 +1,7 @@
 ---
 title: Stopa norka
 image: "/media/aDSCN0864.JPG"
-author: katerina-polednikova
+author: Kateřina Poledníková
 tags:
 - norek
 - stopy

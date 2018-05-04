@@ -1,7 +1,7 @@
 ---
 title: Trus a výměšek vydry
 image: "/media/IMG_6407.JPG"
-author: katerina-polednikova
+author: Kateřina Poledníková
 tags:
 - trus
 - vydra

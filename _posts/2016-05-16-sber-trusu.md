@@ -1,7 +1,7 @@
 ---
 title: Sběr trusu
 image: "/media/aDSCN0959.JPG"
-author: katerina-polednikova
+author: Kateřina Poledníková
 tags: []
 gallery: /news/vydry-v-norsku
 published: true

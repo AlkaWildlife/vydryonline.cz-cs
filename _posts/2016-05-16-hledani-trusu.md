@@ -1,7 +1,7 @@
 ---
 title: Hledání trusu
 image: "/media/aDSCN0947.JPG"
-author: katerina-polednikova
+author: Kateřina Poledníková
 tags: []
 gallery: /news/vydry-v-norsku
 published: true
