@@ -5,6 +5,7 @@ author: alka-wildlife-ops
 tags:
 - vydra
 position: 17
+published: true
 date: 2016-04-08 18:40:47.000000000 Z
 category: gallery
 layout: photo

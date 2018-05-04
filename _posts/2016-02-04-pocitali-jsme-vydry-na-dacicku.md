@@ -1,6 +1,7 @@
 ---
 title: Počítali jsme vydry na Dačicku
 image: "/media/IMG_1399_610.JPG"
+published: true
 date: 2016-02-04
 category: news
 layout: news

@@ -1,6 +1,7 @@
 ---
 title: Vydry v Norsku
 image: "/media/aDSCN0927_610.JPG"
+published: true
 date: 2015-10-23
 category: news
 layout: news

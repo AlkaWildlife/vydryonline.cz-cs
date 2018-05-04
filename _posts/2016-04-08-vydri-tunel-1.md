@@ -7,6 +7,7 @@ tags:
 - zprůchodnění míst
 gallery: /vydra/vydry-a-silnice/obecna-pravidla-pro-upravu-rizikovych-mist
 position: 10
+published: true
 date: 2016-04-08 14:38:38.000000000 Z
 category: gallery
 layout: photo

@@ -1,6 +1,7 @@
 ---
 title: 'Mezinárodní den vyder: 27. 5. 2015'
 image: "/media/otterday_610.jpg"
+published: true
 date: 2015-05-27
 category: news
 layout: news

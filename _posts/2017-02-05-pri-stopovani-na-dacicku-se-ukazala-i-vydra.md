@@ -1,6 +1,7 @@
 ---
 title: Při stopování na Dačicku se ukázala i vydra, a nejen tam
 image: "/media/P1120644_v_610.JPG"
+published: true
 date: 2017-02-05
 category: news
 layout: news

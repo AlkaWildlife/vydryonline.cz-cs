@@ -5,6 +5,7 @@ author: katerina-polednikova
 tags: []
 gallery: /news/zima-umoznila-spocitat-vydry-v-orlickych-horach
 position: 84
+published: true
 date: 2017-01-26 07:05:54.000000000 Z
 category: gallery
 layout: photo

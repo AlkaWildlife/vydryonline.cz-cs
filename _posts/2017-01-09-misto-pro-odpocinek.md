@@ -5,6 +5,7 @@ author: libor-prauz
 tags: []
 gallery: /news/scitani-vyder-v-krkonosich
 position: 68
+published: true
 date: 2017-01-09 15:44:19.000000000 Z
 category: gallery
 layout: photo

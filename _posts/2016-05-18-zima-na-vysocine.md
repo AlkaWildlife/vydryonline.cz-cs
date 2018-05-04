@@ -5,6 +5,7 @@ author: vaclav-beran
 tags: []
 gallery: /news/pocitali-jsme-vydry-na-dacicku
 position: 42
+published: true
 date: 2016-05-18 20:20:36.000000000 Z
 category: gallery
 layout: photo

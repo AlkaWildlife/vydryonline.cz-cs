@@ -1,6 +1,7 @@
 ---
 title: Střílení vyder v Rakousku šokovalo okolní státy
 image: "/media/Vydra-ricni-948a_610.jpg"
+published: true
 date: 2017-04-21
 category: news
 layout: news

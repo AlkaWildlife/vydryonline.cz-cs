@@ -1,6 +1,7 @@
 ---
 title: 'TZ: Na silnicích umírá stále více chráněných vyder'
 image: "/media/072_610.JPG"
+published: true
 date: 2016-05-03
 category: news
 layout: news

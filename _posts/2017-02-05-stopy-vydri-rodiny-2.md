@@ -7,6 +7,7 @@ tags:
 - pobytové znaky
 gallery: /news/pri-stopovani-na-dacicku-se-ukazala-i-vydra
 position: 117
+published: true
 date: 2017-02-05 10:22:40.000000000 Z
 category: gallery
 layout: photo

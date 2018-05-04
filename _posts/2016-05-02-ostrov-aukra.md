@@ -5,6 +5,7 @@ author: katerina-polednikova
 tags: []
 gallery: /news/vydry-v-norsku
 position: 34
+published: true
 date: 2016-05-02 13:17:48.000000000 Z
 category: gallery
 layout: photo

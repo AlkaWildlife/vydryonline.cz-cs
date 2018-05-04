@@ -1,6 +1,7 @@
 ---
 title: Vydry mají problém, celosvětově
 image: "/media/687_u.jpg"
+published: true
 date: 2016-05-25
 category: news
 layout: news

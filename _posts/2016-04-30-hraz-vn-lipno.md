@@ -5,6 +5,7 @@ author: lukas-polednik
 tags:
 - rizikové místo
 position: 30
+published: true
 date: 2016-04-30 13:43:33.000000000 Z
 category: gallery
 layout: photo

@@ -1,6 +1,7 @@
 ---
 title: O vydře v Třeboni
 image: "/media/Prednaska_cerven_610.jpg"
+published: true
 date: 2017-06-12
 category: news
 layout: news

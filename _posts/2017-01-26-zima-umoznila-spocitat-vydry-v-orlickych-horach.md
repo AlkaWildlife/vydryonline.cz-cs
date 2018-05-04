@@ -1,6 +1,7 @@
 ---
 title: Zima umožnila spočítat vydry v Orlických horách
 image: "/media/20170119_125112_610.jpg"
+published: true
 date: 2017-01-26
 category: news
 layout: news

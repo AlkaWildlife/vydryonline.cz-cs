@@ -1,6 +1,7 @@
 ---
 title: Brožura o sběru uhynulých vyder
 image: "/media/titulni_strana_300.jpg"
+published: true
 date: 2017-03-07
 category: news
 layout: news

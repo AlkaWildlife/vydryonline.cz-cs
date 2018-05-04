@@ -7,6 +7,7 @@ tags:
 - stopy
 - pobytové znaky
 position: 1
+published: true
 date: 2016-04-08 10:31:07.000000000 Z
 category: gallery
 layout: photo

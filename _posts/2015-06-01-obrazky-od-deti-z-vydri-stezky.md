@@ -1,6 +1,7 @@
 ---
 title: Obrázky od dětí z Vydří stezky
 image: "/media/Scan_20150511_104652_Nela_Chaloupkov__610.jpg"
+published: true
 date: 2015-06-01
 category: news
 layout: news

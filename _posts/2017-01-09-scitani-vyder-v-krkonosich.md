@@ -1,6 +1,7 @@
 ---
 title: Sčítání vyder v Krkonoších
 image: "/media/02_u_610.jpg"
+published: true
 date: 2017-01-09
 category: news
 layout: news

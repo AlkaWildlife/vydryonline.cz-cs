@@ -3,6 +3,7 @@ title: >-
   Je možné získat náhrady škody způsobené vydrou na rybách chovaných
   v zatopeném lomu?
 author: katerina-polednikova
+published: true
 date: 2016-03-01
 category: user-answers
 tags:

@@ -5,6 +5,7 @@ author: katerina-polednikova
 tags:
 - pobytové znaky
 position: 19
+published: true
 date: 2016-04-30 11:36:43.000000000 Z
 category: gallery
 layout: photo

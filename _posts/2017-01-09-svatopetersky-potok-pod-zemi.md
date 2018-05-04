@@ -5,6 +5,7 @@ author: katerina-polednikova
 tags: []
 gallery: /news/scitani-vyder-v-krkonosich
 position: 73
+published: true
 date: 2017-01-09 15:54:23.000000000 Z
 category: gallery
 layout: photo

@@ -1,6 +1,7 @@
 ---
 title: Trus s kousky raka – čí je to?
 author: katerina-polednikova
+published: true
 date: 2016-11-07
 category: user-answers
 tags:

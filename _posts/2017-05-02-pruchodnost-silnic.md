@@ -1,6 +1,7 @@
 ---
 title: Průchodnost silnic
 image: "/media/nahled.jpg"
+published: true
 date: 2017-05-02
 category: news
 layout: news

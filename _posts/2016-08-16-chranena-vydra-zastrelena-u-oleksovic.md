@@ -1,6 +1,7 @@
 ---
 title: Chráněná vydra zastřelena u Oleksovic
 image: "/media/foto1_IMG_0322_610.JPG"
+published: true
 date: 2016-08-16
 category: news
 layout: news

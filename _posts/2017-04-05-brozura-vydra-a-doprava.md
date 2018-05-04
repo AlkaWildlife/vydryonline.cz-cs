@@ -1,6 +1,7 @@
 ---
 title: Brožura Vydra a doprava
 image: "/media/vydra_a_doprava_-_ob_lka.jpg"
+published: true
 date: 2017-04-05
 category: news
 layout: news

@@ -7,6 +7,7 @@ tags:
 - vydra
 - pobytové znaky
 position: 24
+published: true
 date: 2016-04-30 12:16:32.000000000 Z
 category: gallery
 layout: photo

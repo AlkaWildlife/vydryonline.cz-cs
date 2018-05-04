@@ -5,6 +5,7 @@ author: stepan-zapotocny
 tags: []
 gallery: /news/zaciname-vyzkum-vyder-v-krusnych-horach
 position: 124
+published: true
 date: 2017-11-13 07:02:15.000000000 Z
 category: gallery
 layout: photo

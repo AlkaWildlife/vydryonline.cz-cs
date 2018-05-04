@@ -1,6 +1,7 @@
 ---
 title: O vydře na Kvildě
 image: "/media/WOD_2017_logo.jpg"
+published: true
 date: 2017-05-29
 category: news
 layout: news
