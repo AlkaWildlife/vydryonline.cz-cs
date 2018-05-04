@@ -3,7 +3,7 @@ title: Snížení násady
 permalink: "/vydra/vydra-a-skody/opatreni-ke-snizovani-skod/snizeni-nasady"
 published: true
 listed: true
-position: 2
+position: 3
 layout: two_columns_page
 ---
 Důležitým preventivním opatřením je nepřerybňovat. K neúměrnému

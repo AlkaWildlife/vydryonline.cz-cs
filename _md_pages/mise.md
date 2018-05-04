@@ -5,7 +5,7 @@ image: "/media/IGP4776_610.JPG"
 long_title: Mise stránek
 published: true
 listed: true
-position: 0
+position: 1
 layout: two_columns_page
 ---
 Vydra říční je celoevropsky ohroženým druhem, který se stal symbolem

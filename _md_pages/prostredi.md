@@ -5,7 +5,7 @@ image: "/media/IMG_9122_610.JPG"
 long_title: Prostředí vydry říční
 published: true
 listed: true
-position: 2
+position: 3
 layout: two_columns_page
 ---
 Vydra je tzv. semi-akvatický živočich, což znamená, že využívá, a je

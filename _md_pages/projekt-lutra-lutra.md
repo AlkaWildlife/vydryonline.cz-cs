@@ -3,7 +3,7 @@ title: Projekt Lutra lutra
 permalink: "/projekty/projekt-lutra-lutra"
 published: true
 listed: true
-position: 1
+position: 2
 layout: two_columns_page
 aside_title: Další projekty
 ---

@@ -1,4 +1,4 @@
 ---
 name: rizikové místo
-position: 6
+position: 7
 ---

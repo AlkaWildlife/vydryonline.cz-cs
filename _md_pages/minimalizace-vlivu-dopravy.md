@@ -5,7 +5,7 @@ image: "/media/072_610.JPG"
 long_title: A1 Minimalizace vlivu dopravy
 published: true
 listed: true
-position: 0
+position: 1
 layout: two_columns_page
 ---
 # Náplň opatření

@@ -3,7 +3,7 @@ title: Kontakty
 permalink: "/o-nas/kontakty"
 published: true
 listed: true
-position: 1
+position: 2
 layout: two_columns_page
 aside_links: |
   [![](/media/ALKA_logo.jpg)][1]

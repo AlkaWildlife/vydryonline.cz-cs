@@ -4,7 +4,7 @@ permalink: "/vydra/vydra-a-skody/proc-vydry-nelikvidovat"
 image: "/media/DSCN9152.JPG"
 published: true
 listed: true
-position: 2
+position: 3
 layout: two_columns_page
 ---
 Přestože se vydra říční v současnosti vyskytuje prakticky plošně na

@@ -6,7 +6,6 @@ tags:
 - stopy
 - vydra
 - pobytové znaky
-position: 26
 published: true
 date: 2016-04-30 12:18:40.000000000 Z
 category: gallery

@@ -5,7 +5,7 @@ image: "/media/cover_610.JPG"
 long_title: Bulletin vydra 17
 published: true
 listed: true
-position: 0
+position: 1
 layout: two_columns_page
 aside_title: další čísla
 ---

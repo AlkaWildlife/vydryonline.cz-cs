@@ -5,7 +5,7 @@ image: "/media/IMG_0386_610.JPG"
 long_title: Preventivní opatření snižující škody na rybách
 published: true
 listed: true
-position: 0
+position: 1
 layout: two_columns_page
 ---
 S narůstajícími zkušenostmi se škodami na rybích obsádkách rybníků je

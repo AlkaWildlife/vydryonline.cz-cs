@@ -6,7 +6,6 @@ tags:
 - pobytové znaky
 - trus
 - vydra
-position: 21
 published: true
 date: 2016-04-30 12:11:18.000000000 Z
 category: gallery

@@ -4,7 +4,7 @@ permalink: "/vydra/vydra-a-skody"
 image: "/media/IGP4702_610.JPG"
 published: true
 listed: true
-position: 1
+position: 2
 layout: single_column_page
 ---
 Vydra říční je šelma adaptovaná na život ve vodním prostředí, která

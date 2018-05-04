@@ -5,7 +5,7 @@ image: "/media/vydra_v_trubce_610.jpg"
 long_title: Obecná pravidla pro úpravu rizikových míst
 published: true
 listed: true
-position: 2
+position: 3
 layout: two_columns_page
 aside_links: |
   # Mapa rizikových míst

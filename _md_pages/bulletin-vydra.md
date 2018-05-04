@@ -3,7 +3,7 @@ title: Bulletin Vydra
 permalink: "/ke-stazeni/bulletin-vydra"
 published: true
 listed: true
-position: 0
+position: 1
 layout: single_column_page
 ---
 Bulletin Vydra vychází s několika málo přestávkami ročně od roku 1990.

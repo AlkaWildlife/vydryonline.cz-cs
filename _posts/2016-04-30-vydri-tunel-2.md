@@ -5,7 +5,6 @@ author: lukas-polednik
 tags:
 - propustky
 - zprůchodnění míst
-position: 32
 published: true
 date: 2016-04-30 13:57:05.000000000 Z
 category: gallery

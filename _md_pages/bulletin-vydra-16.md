@@ -5,7 +5,7 @@ image: "/media/bulletin16_cover.jpg"
 long_title: Bulletin Vydra 16 / 2015
 published: true
 listed: true
-position: 1
+position: 2
 layout: two_columns_page
 ---
 **Bulletin Vydra 16**

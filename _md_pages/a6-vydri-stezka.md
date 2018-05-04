@@ -4,7 +4,7 @@ permalink: "/projekty/realizace-opatreni/a6-vydri-stezka"
 image: "/media/DSCN1353_610.JPG"
 published: true
 listed: true
-position: 5
+position: 6
 layout: two_columns_page
 ---
 # Náplň opatření:

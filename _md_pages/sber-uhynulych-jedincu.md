@@ -5,7 +5,7 @@ image: "/media/DSC_0017_610.JPG"
 long_title: A3 Sběr a analýzy uhynulých jedinců
 published: true
 listed: true
-position: 2
+position: 3
 layout: two_columns_page
 ---
 # Náplň opatření:

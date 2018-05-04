@@ -3,7 +3,7 @@ title: Publikace o vydře
 permalink: "/ke-stazeni/odborne-clanky"
 published: true
 listed: true
-position: 1
+position: 2
 layout: two_columns_page
 ---
 Publikace jsou seřazeny dle účelu a časově.

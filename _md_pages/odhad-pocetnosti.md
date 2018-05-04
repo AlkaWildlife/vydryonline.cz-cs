@@ -5,7 +5,7 @@ image: "/media/IMG_0393_600.JPG"
 long_title: A2 odhad početnosti vyder
 published: true
 listed: true
-position: 1
+position: 2
 layout: two_columns_page
 ---
 # Náplň opatření:

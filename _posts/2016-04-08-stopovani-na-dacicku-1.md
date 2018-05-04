@@ -4,7 +4,6 @@ image: "/media/P1040519_900.JPG"
 author: jitka-vetrovcova
 tags: []
 gallery: /news/pocitali-jsme-vydry-na-dacicku
-position: 4
 published: true
 date: 2016-04-08 13:57:40.000000000 Z
 category: gallery

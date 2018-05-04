@@ -3,7 +3,7 @@ title: O nás
 permalink: "/o-nas"
 published: true
 listed: true
-position: 4
+position: 5
 layout: single_column_page
 ---
 provozovatel webu: [ALKA Wildlife, o.p.s.][1]

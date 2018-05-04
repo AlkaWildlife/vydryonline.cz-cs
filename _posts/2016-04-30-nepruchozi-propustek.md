@@ -5,7 +5,6 @@ author: lukas-polednik
 tags:
 - rizikové místo
 - vydra
-position: 28
 published: true
 date: 2016-04-30 13:38:19.000000000 Z
 category: gallery

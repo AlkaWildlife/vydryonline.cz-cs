@@ -5,7 +5,7 @@ image: "/media/IMG_0386_610.JPG"
 long_title: A8 Návrh optimalizace řešení střetu rybářství a vydry
 published: true
 listed: true
-position: 7
+position: 8
 layout: two_columns_page
 ---
 # Náplň opatření:

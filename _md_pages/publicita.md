@@ -5,7 +5,7 @@ image: "/media/zaber_printscreen_610.jpg"
 long_title: Publicita projektu
 published: true
 listed: true
-position: 9
+position: 10
 layout: two_columns_page
 ---
 # Tiskové konference a tisková zpráva

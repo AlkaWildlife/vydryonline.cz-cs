@@ -5,7 +5,7 @@ image: "/media/bulletin_vydra_15.jpg"
 long_title: Bulletin Vydra 15/2012
 published: true
 listed: true
-position: 2
+position: 3
 layout: two_columns_page
 ---
 **Bulletin Vydra 15/2012**  

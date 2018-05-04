@@ -6,7 +6,6 @@ tags:
 - norek
 - stopy
 - pobytové znaky
-position: 2
 published: true
 date: 2016-04-08 10:32:05.000000000 Z
 category: gallery

@@ -5,7 +5,6 @@ author: katerina-polednikova
 tags:
 - pobytové znaky
 - vydra
-position: 20
 published: true
 date: 2016-04-30 12:10:22.000000000 Z
 category: gallery

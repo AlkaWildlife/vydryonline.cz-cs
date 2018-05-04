@@ -1,4 +1,4 @@
 ---
 name: zprůchodnění míst
-position: 9
+position: 10
 ---

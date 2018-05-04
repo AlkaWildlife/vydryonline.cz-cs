@@ -5,7 +5,7 @@ image: "/media/pitva_01.JPG"
 long_title: Sběr a analýzy uhynulých vyder
 published: true
 listed: true
-position: 1
+position: 2
 layout: two_columns_page
 aside_links: |
   # Mapa rizikových míst

@@ -4,7 +4,7 @@ permalink: "/vydra/vydra-a-skody/nahrady-skod-dle-zakona"
 long_title: Náhrady škod dle Zákona 115/2000
 published: true
 listed: true
-position: 1
+position: 2
 layout: two_columns_page
 ---
 V roce 2000 byl v České republice uveden do platnosti zákon č. 115/2000

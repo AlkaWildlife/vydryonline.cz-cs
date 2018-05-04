@@ -4,7 +4,6 @@ image: "/media/obrazek_3b.jpg"
 author: alka-wildlife-ops
 tags:
 - vydra
-position: 15
 published: true
 date: 2016-04-08 18:39:18.000000000 Z
 category: gallery

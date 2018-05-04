@@ -4,7 +4,7 @@ permalink: "/vydra/o-vydre/areal-rozsireni"
 long_title: Areál výskytu vydry říční
 published: true
 listed: true
-position: 1
+position: 2
 layout: two_columns_page
 ---
 Areál druhu je značně rozsáhlý, pokrývá většinu palearktické

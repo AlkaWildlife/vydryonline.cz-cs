@@ -4,7 +4,7 @@ permalink: "/vydra/vydra-a-skody/opatreni-ke-snizovani-skod/elektricky-ohradnik"
 image: "/media/IMG_0333_610.JPG"
 published: true
 listed: true
-position: 1
+position: 2
 layout: two_columns_page
 ---
 Elektrické ohradníky jsou velmi účinným opatřením, avšak je potřeba

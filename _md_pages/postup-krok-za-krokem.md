@@ -4,7 +4,7 @@ permalink: "/vydra/vydra-a-skody/nahrady-skod-dle-zakona/postup-krok-za-krokem"
 long_title: Postup při žádání o náhrady škod krok za krokem
 published: true
 listed: true
-position: 0
+position: 1
 layout: single_column_page
 ---
 Pokud máte podezření, že vám vznikla škoda na rybách způsobená vydrou

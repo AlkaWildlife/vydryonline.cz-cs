@@ -4,7 +4,7 @@ permalink: "/vydra/vydra-a-skody/opatreni-ke-snizovani-skod/castecne-oploceni"
 image: "/media/IMG_0366_610.JPG"
 published: true
 listed: true
-position: 5
+position: 6
 layout: two_columns_page
 ---
 V zimě mají vydry kvůli ledu ztížený přístup do rybníků a toho je

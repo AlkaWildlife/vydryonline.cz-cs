@@ -3,7 +3,7 @@ title: Alternativní kořist
 permalink: "/vydra/vydra-a-skody/opatreni-ke-snizovani-skod/alternativni-korist"
 published: true
 listed: true
-position: 3
+position: 4
 layout: two_columns_page
 ---
 Vhodným preventivním opatřením je přisazení nebo alespoň ponechání

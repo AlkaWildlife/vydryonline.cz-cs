@@ -5,7 +5,7 @@ image: "/media/Obr_zek2_610.jpg"
 long_title: A4 Analýza životaschopnosti populace vydry říční v ČR
 published: true
 listed: true
-position: 3
+position: 4
 layout: two_columns_page
 ---
 # Náplň opatření:

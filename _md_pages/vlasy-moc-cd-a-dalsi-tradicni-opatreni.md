@@ -4,7 +4,7 @@ permalink: "/vydra/vydra-a-skody/opatreni-ke-snizovani-skod/vlasy-moc-cd-a-dalsi
 image: "/media/fladry4_610.jpg"
 published: true
 listed: true
-position: 0
+position: 1
 layout: two_columns_page
 ---
 Od kamarádů doporučovaná opatření spočívající v rozvěšení ovčí vlny,

@@ -5,7 +5,7 @@ image: "/media/IMG_6014_610.JPG"
 long_title: A9 testování nástroje snižující škody na rybách
 published: true
 listed: true
-position: 8
+position: 9
 layout: two_columns_page
 ---
 # Náplň opatření:

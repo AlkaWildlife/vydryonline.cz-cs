@@ -4,7 +4,7 @@ permalink: "/vydra/vydry-a-silnice/pocitadlo"
 image: "/media/P5224060_610.JPG"
 published: true
 listed: true
-position: 3
+position: 4
 layout: two_columns_page
 ---
 Na našich silnicích hynou stovky zvířat. A i vydry nejsou výjimkou.

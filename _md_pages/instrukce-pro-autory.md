@@ -3,7 +3,7 @@ title: Instrukce pro autory
 permalink: "/ke-stazeni/bulletin-vydra/instrukce-pro-autory"
 published: true
 listed: true
-position: 3
+position: 4
 layout: single_column_page
 ---
 # **Bulletin Vydra**

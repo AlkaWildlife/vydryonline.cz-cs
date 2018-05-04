@@ -4,7 +4,7 @@ permalink: "/vydra/vydry-a-silnice/vyzva"
 image: "/media/a_039_VH_610.jpg"
 published: true
 listed: true
-position: 0
+position: 1
 layout: two_columns_page
 aside_links: |
   # [Mapa rizikových míst](http://www.vydrynasilnici.cz)

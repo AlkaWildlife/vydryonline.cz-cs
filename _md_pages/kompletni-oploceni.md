@@ -4,7 +4,7 @@ permalink: "/vydra/vydra-a-skody/opatreni-ke-snizovani-skod/kompletni-oploceni"
 image: "/media/IMG_0157_610.JPG"
 published: true
 listed: true
-position: 4
+position: 5
 layout: two_columns_page
 ---
 Další možností vhodnou v případě sádek, menších rybníků v intravilánu
