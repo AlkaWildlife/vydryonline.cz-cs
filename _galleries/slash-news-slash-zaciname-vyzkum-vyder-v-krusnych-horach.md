@@ -1,3 +1,3 @@
 ---
-page: "/news/zaciname-vyzkum-vyder-v-krusnych-horach"
+title: "/news/zaciname-vyzkum-vyder-v-krusnych-horach"
 ---

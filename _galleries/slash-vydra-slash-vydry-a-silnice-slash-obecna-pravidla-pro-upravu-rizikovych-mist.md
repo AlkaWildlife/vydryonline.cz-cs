@@ -1,3 +1,3 @@
 ---
-page: "/vydra/vydry-a-silnice/obecna-pravidla-pro-upravu-rizikovych-mist"
+title: "/vydra/vydry-a-silnice/obecna-pravidla-pro-upravu-rizikovych-mist"
 ---

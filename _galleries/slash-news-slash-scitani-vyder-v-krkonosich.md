@@ -1,3 +1,3 @@
 ---
-page: "/news/scitani-vyder-v-krkonosich"
+title: "/news/scitani-vyder-v-krkonosich"
 ---

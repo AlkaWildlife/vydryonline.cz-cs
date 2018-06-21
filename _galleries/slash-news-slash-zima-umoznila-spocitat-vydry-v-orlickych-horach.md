@@ -1,3 +1,3 @@
 ---
-page: "/news/zima-umoznila-spocitat-vydry-v-orlickych-horach"
+title: "/news/zima-umoznila-spocitat-vydry-v-orlickych-horach"
 ---

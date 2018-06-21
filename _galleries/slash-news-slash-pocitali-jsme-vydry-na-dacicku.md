@@ -1,3 +1,3 @@
 ---
-page: "/news/pocitali-jsme-vydry-na-dacicku"
+title: "/news/pocitali-jsme-vydry-na-dacicku"
 ---

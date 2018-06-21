@@ -1,3 +1,3 @@
 ---
-page: "/news/vydry-v-norsku"
+title: "/news/vydry-v-norsku"
 ---
