@@ -1,0 +1,30 @@
+source: en_GB
+
+title: Otters Online
+description: >-
+  Informations about protection and reasearch on otters and about the
+  project Implementation of selected conservation measures for the
+  Eurasian otter (Lutra lutra) in the Czech Republic.
+baseurl: ""
+url: https://en.vydryonline.cz
+author: alka-wildlife
+lang_alternatives:
+- lang: cs_CZ
+  label: Změnit na český jazyk
+  title: "Navštivte českou verzi této stránky: %@"
+  url: https://www.vydryonline.cz
+  icon: /assets/images/flag_cz.png
+
+facebook:
+  app_id: 145375228868712
+  publisher: 269120446533000
+  admins: 1133305906
+logo: /media/loga_mgs_stojato_100.jpg
+social:
+  name: ALKA Wildlife, o.p.s.
+  links:
+    - https://www.facebook.com/AlkaWildlife
+webmaster_verifications:
+  google: o27dsTgYww0bzXVmTZ_CgadoY8QtzpDMgo-bVSgH3OM
+lang: en_GB
+google_analytics: UA-57533252-6
