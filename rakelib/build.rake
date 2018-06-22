@@ -101,7 +101,7 @@ namespace "build" do
   # no forward slashes or path segments).
   MEDIA_DIR_SOURCES = MEDIA_DIRS.
     reject {|d| File.exist? d }.
-    map {|d| puts d; File.basename d }
+    map {|d| File.basename d }
 
   MEDIA_DIR_TARGETS = MEDIA_DIR_SOURCES.
     map {|d| "#{jekyll_config['destination']}/#{d}" }
