@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: AlkaWildlife/vydryonline.cz-en
+  repo: AlkaWildlife/vydryonline.cz
 
 media_folder: media
 
