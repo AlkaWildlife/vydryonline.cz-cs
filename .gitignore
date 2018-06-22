@@ -1,4 +1,5 @@
-_site/
+_site.cs_CZ/
+_site.en_US/
 .sass-cache/
 .jekyll-metadata
 .bundle/

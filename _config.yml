@@ -9,7 +9,6 @@ collections:
   filterable_tags: {}
 
 # Build settings
-destination: _site
 markdown: kramdown
 kramdown:
   header_offset: 3
