@@ -108,14 +108,11 @@ namespace "build" do
 
   MEDIA_DIR_SOURCES.zip(MEDIA_DIR_TARGETS).each do |source, target|
     file target => [source] do |t|
-      relative_root = File.dirname(t.name).
-                        split('/').
-                        map {|_| '..' }.
-                        join('/')
-      sh 'ln',
-         '-s',
-         relative_root + "/" + t.prerequisites.last,
-         t.name
+      #XXX This was supposed to be a symlink, but Netlify does not
+      # push files from symlinks to CDN. Using `cp -a` should be just
+      # fine on modern hardware and file systems with copy-on-write
+      # feature.
+      sh 'cp', '-a', t.prerequisites.last, t.name
     end
   end
 
