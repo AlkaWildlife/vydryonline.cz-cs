@@ -19,7 +19,7 @@ collections:
     Our Team (“/about/team”). This hierarchy is used to generate
     navigation menu, sibling pages (in the right column) and child
     pages (under page content).
-  folder: _md_pages
+  folder: en_GB/_md_pages
   create: true
   fields:
   - name: title
@@ -108,7 +108,7 @@ collections:
 
   - name: 404
     label: Page not found
-    file: 404.md
+    file: en_GB/404.md
     format: frontmatter
     extension: md
     fields:
@@ -138,7 +138,7 @@ collections:
 
   - name: search
     label: Search
-    file: search.html
+    file: en_GB/search.html
     format: frontmatter
     extension: html
     fields:
@@ -155,7 +155,7 @@ collections:
 
   - name: user_answers
     label: User answers
-    file: user-answers.html
+    file: en_GB/user-answers.html
     format: frontmatter
     extension: html
     fields:
@@ -183,7 +183,7 @@ collections:
 
   - name: gallery
     label: Gallery
-    file: gallery.html
+    file: en_GB/gallery.html
     format: frontmatter
     extension: html
     fields:
@@ -211,7 +211,7 @@ collections:
 
   - name: news
     label: News
-    file: news.html
+    file: en_GB/news.html
     format: frontmatter
     extension: html
     fields:
@@ -239,7 +239,7 @@ collections:
 
   - name: index
     label: Home
-    file: index.html
+    file: en_GB/index.html
     format: frontmatter
     extension: html
     fields:
@@ -268,7 +268,7 @@ collections:
   description: >-
     Photo galleries linked to any content via its address. Gallery
     photos are displayed under the content.
-  folder: _galleries
+  folder: en_GB/_galleries
   create: true
   fields:
   - name: title
@@ -277,7 +277,7 @@ collections:
 
 - name: news
   label: News
-  folder: _posts
+  folder: en_GB/_posts
   slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
   filter:
     field: category
@@ -338,7 +338,7 @@ collections:
   label: Showcases
   label_singular: Showcase
   description: Big photos that are displayed on the homepage.
-  folder: _showcases
+  folder: en_GB/_showcases
   create: true
   fields:
   - name: title
@@ -359,7 +359,7 @@ collections:
   description: >-
     Answers to questions submitted by site visitors. These questions
     can be found in administration on Netlify.com.
-  folder: _posts
+  folder: en_GB/_posts
   slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
   filter:
     field: category
@@ -427,7 +427,7 @@ collections:
     here). But if you want a category to appear as a filter option on
     the global photo gallery page, you have to define it here with
     exactly same name as you use in photos.
-  folder: _filterable_tags
+  folder: en_GB/_filterable_tags
   create: true
   fields:
   - name: title
@@ -445,7 +445,7 @@ collections:
   description: >-
     Photos in linked to galleries. All photos are displayed on global
     photo gallery.
-  folder: _posts
+  folder: en_GB/_posts
   slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
   filter:
     field: category
@@ -537,7 +537,7 @@ collections:
   files:
   - name: search
     label: Search
-    file: _data/search.yml
+    file: en_GB/_data/search.yml
     fields:
     - name: long_title
       label: Title (you can wrap phrases with * to emphasize them)
@@ -551,7 +551,7 @@ collections:
 
   - name: user_answers
     label: User answers
-    file: _data/user_answers.yml
+    file: en_GB/_data/user_answers.yml
     fields:
     - name: title
       label: Title
@@ -629,7 +629,7 @@ collections:
 
   - name: gallery
     label: Gallery
-    file: _data/gallery.yml
+    file: en_GB/_data/gallery.yml
     fields:
     - name: long_title
       label: Title (you can wrap phrases with * to emphasize them)
@@ -653,7 +653,7 @@ collections:
 
   - name: news
     label: News
-    file: _data/news.yml
+    file: en_GB/_data/news.yml
     fields:
     - name: long_title
       label: Title (you can wrap phrases with * to emphasize them)
@@ -664,7 +664,7 @@ collections:
 
   - name: home
     label: Home page
-    file: _data/home.yml
+    file: en_GB/_data/home.yml
     fields:
     - name: news
       label: News section (top)
@@ -720,7 +720,7 @@ collections:
 
   - name: aside
     label: Right column
-    file: _data/aside.yml
+    file: en_GB/_data/aside.yml
     fields:
     - name: title
       label: Default title
@@ -728,7 +728,7 @@ collections:
 
   - name: footer
     label: Global footer
-    file: _data/footer.yml
+    file: en_GB/_data/footer.yml
     fields:
     - name: funded_by
       label: Funding institutions
@@ -777,7 +777,7 @@ collections:
 
   - name: header
     label: Global header
-    file: _data/header.yml
+    file: en_GB/_data/header.yml
     fields:
     - name: logo
       label: Logo
@@ -791,7 +791,7 @@ collections:
 
   - name: config
     label: Global config
-    file: _config.yml
+    file: en_GB/_config.yml
     fields:
     - name: title
       label: >-
@@ -1001,7 +1001,7 @@ collections:
   files:
   - name: single_column_page
     label: Single-column page
-    file: _layouts/single_column_page.html
+    file: en_GB/_layouts/single_column_page.html
     fields: []
     meta:
     - name: title
@@ -1018,7 +1018,7 @@ collections:
       widget: text
   - name: two_columns_page
     label: Two-columns page
-    file: _layouts/two_columns_page.html
+    file: en_GB/_layouts/two_columns_page.html
     fields: []
     meta:
     - name: title
