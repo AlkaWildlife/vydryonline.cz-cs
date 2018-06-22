@@ -1,4 +1,4 @@
 ---
-name: propustky
+title: propustky
 position: 3
 ---

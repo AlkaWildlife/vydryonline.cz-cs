@@ -1,4 +1,4 @@
 ---
-name: trus
+title: trus
 position: 8
 ---

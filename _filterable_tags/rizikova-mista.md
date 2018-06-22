@@ -1,4 +1,4 @@
 ---
-name: riziková místa
+title: riziková místa
 position: 12
 ---

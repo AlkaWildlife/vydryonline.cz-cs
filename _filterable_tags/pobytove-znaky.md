@@ -1,4 +1,4 @@
 ---
-name: pobytové znaky
+title: pobytové znaky
 position: 11
 ---

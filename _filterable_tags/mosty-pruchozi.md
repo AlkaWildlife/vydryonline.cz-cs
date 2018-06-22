@@ -1,4 +1,4 @@
 ---
-name: mosty průchozí
+title: mosty průchozí
 position: 2
 ---

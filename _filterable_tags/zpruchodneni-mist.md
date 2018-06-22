@@ -1,4 +1,4 @@
 ---
-name: zprůchodnění míst
+title: zprůchodnění míst
 position: 10
 ---

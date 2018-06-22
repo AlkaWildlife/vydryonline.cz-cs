@@ -1,4 +1,4 @@
 ---
-name: škody
+title: škody
 position: 1
 ---

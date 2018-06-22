@@ -1,4 +1,4 @@
 ---
-name: stopy
+title: stopy
 position: 4
 ---

@@ -1,4 +1,4 @@
 ---
-name: mosty neprůchozí
+title: mosty neprůchozí
 position: 9
 ---

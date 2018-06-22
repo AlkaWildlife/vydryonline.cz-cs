@@ -1,4 +1,4 @@
 ---
-name: rizikové místo
+title: rizikové místo
 position: 7
 ---
