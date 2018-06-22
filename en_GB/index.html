@@ -1,0 +1,42 @@
+---
+title: Home
+listed: true
+position: 1
+layout: default
+---
+{% include home_showcase.html %}
+<div id="mainbottom-row">
+  <div class="row-container">
+    <div class="container-fluid">
+      <div class="row-fluid">
+        <div class="moduletable efforts  span3">
+          {{ site.data.home.mission.body | markdownify |
+               replace: "<h4", "<h3" | replace: "</h4", "</h3" |
+               replace: "<h5", "<h4" | replace: "</h5", "</h4" |
+               replace: "<h6", "<h5" | replace: "</h6", "</h5" }}
+        </div>
+        <div class="moduletable whyus  span3">
+          {{ site.data.home.appeal.body | markdownify |
+               replace: "<h4", "<h3" | replace: "</h4", "</h3" |
+               replace: "<h5", "<h4" | replace: "</h5", "</h4" |
+               replace: "<h6", "<h5" | replace: "</h6", "</h5" }}
+        </div>
+        <div class="moduletable whyus  span3">
+          {{ site.data.home.other.body | markdownify |
+               replace: "<h4", "<h3" | replace: "</h4", "</h3" |
+               replace: "<h5", "<h4" | replace: "</h5", "</h4" |
+               replace: "<h6", "<h5" | replace: "</h6", "</h5" }}
+        </div>
+        <div class="moduletable projects  span3">
+          <h3>{{ site.data.home.news.title }}</h3>
+          <div class="page-blog page-blog__">
+            {% for post in site.posts limit: 3 %}
+              {% include home_news_smallitem.html news=post %}
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+{% include home_links.html %}

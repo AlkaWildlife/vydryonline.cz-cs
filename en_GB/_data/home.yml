@@ -1,0 +1,51 @@
+news:
+  title: Latest news
+
+links:
+  - title: Photogallery
+    url: /gallery
+    image: /media/obrazek_3a_156.jpg
+  - title: Bulletin Vydra
+    url: /library/bulletin-vydra
+    image: /media/banner_bulletin_small.jpg
+  - title: Otters on roads
+    url: /otters-on-roads
+    image: /media/banner_silnice_small.jpg
+  - title: Otter trail
+    url: https://www.vydristezky.cz
+    image: /media/banner_stezka_small.jpg
+  - title: Online help
+    url: http://www.vydryonline.cz/user-answers
+    image: /media/banner_online_small.jpg
+
+mission:
+  body: |+
+    # Mission
+
+    Mission of the web is to bring informations about the project
+    *[Implementation of selected conservation measures for the
+    Eurasian otter (Lutra lutra) in the Czech Republic](/project)* and
+    about activities realized in protection and reasearch on otters in
+    the Czech Republic.
+
+appeal:
+  body: |+
+    # Project
+
+    [Implementation of selected conservation measures for the Eurasian
+    otter (Lutra lutra) in the Czech Republic](/project)
+
+    Supported by EEA Grants
+
+    Duration: 2015–2016
+
+other:
+  body: |+
+    # Counter
+
+    Number of dead otter records in the Czech Republic in 2017:
+
+    [On roads: 10](/project/a3-mortality-research
+    "mortality research")
+
+    [Total: 24](/project/a3-mortality-research "mortality research")
