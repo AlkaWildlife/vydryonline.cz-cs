@@ -1,58 +1,27 @@
 news:
-  following: Další zprávy
   all: Všechny zprávy
-
+  following: Další zprávy
 links:
-  - title: Online poradna
+  - image: /media/banner_online_small.jpg
+    title: Online poradna
     url: /user-answers
-    image: /media/banner_online_small.jpg
-  - title: Vydry a škody
+  - image: /media/banner_skody_3_small.jpg
+    title: Vydry a škody
     url: /vydra/vydra-a-skody
-    image: /media/banner_skody_3_small.jpg
-  - title: Vydra a silnice
+  - image: /media/banner_silnice_small.jpg
+    title: Vydra a silnice
     url: /vydra/vydry-a-silnice
-    image: /media/banner_silnice_small.jpg
-  - title: Vydří stezky
-    url: http://www.vydristezky.cz
-    image: /media/banner_stezka_small.jpg
-  - title: Bulletin Vydra
+  - image: /media/banner_stezka_small.jpg
+    title: Vydří stezky
+    url: 'http://www.vydristezky.cz'
+  - image: /media/banner_bulletin_small.jpg
+    title: Bulletin Vydra
     url: /ke-stazeni/bulletin-vydra
-    image: /media/banner_bulletin_small.jpg
-
 mission:
-  body: |+
-    # Mise
-
-    * informovat o projektu Realizace vybraných opatření pro vydru
-      říční v České republice
-    * poskytnout aktuální a komplexní informace k vydře říční v České
-      republice
-
-    Stránky jsou určení odborné veřejnosti, rybářům i pracovníkům
-    ochrany přírody.
-
+  body: "# Mise\n\n* informovat o\_projektu Realizace vybraných opatření pro vydru\n  říční v\_České republice\n* poskytnout aktuální a\_komplexní informace k\_vydře říční v\_České\n  republice\n\nStránky jsou určení odborné veřejnosti, rybářům i\_pracovníkům\nochrany přírody.\n\n"
 gallery:
   title: Fotogalerie
-
 appeal:
-  body: |+
-    # Výzva
-
-    V celé ČR se organizuje sběr nalezených uhynulých vyder. Jejich
-    těla se využívají pro celou řadu specifických analýz a slouží také
-    k identifikaci rizikových míst na silnicích. Sběr je prováděn na
-    základě hlášení nálezů od veřejnosti.
-
-    ## Pokud jste našli mrtvou vydru
-
-    [kontaktujte nás!](/vydra/vydry-a-silnice/vyzva)
-
+  body: "# Výzva\n\nV\_celé ČR se organizuje sběr nalezených uhynulých vyder. Jejich\ntěla se využívají pro celou řadu specifických analýz a\_slouží také\nk\_identifikaci rizikových míst na silnicích. Sběr je prováděn na\nzákladě hlášení nálezů od veřejnosti.\n\n## Pokud jste našli mrtvou vydru\n\n[kontaktujte nás!](/vydra/vydry-a-silnice/vyzva)\n\n"
 other:
-  body: |+
-    # Počítadlo
-
-    Nálezy uhynulých vyder v roce 2018:
-
-    **[Celkem: 7](/vydra/vydry-a-silnice/pocitadlo "Počítadlo")**
-
-    **[Úhyn na silnici: 5](/vydra/vydry-a-silnice/pocitadlo "Počítadlo")**
+  body: "# Počítadlo\n\nV\_roce 2018 již nalezeno:\n\n**[Celkem: 45 uhynulých vyder](/vydra/vydry-a-silnice/pocitadlo \"Počítadlo\")**"
