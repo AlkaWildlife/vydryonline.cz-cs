@@ -1,8 +1,8 @@
 ---
 title: Počítadlo
-permalink: "/vydra/vydry-a-silnice/pocitadlo"
-image: "/media/P5224060_610.JPG"
 published: true
+permalink: /vydra/vydry-a-silnice/pocitadlo
+image: /media/P5224060_610.JPG
 listed: true
 position: 4
 layout: two_columns_page
@@ -16,12 +16,15 @@ druh, zabíjení vyder je nelegální.
 
 # Rok 2018
 
-|    | Místo            | Kraj            | Datum       | Příčina          |
-|:---|:-----------------|:----------------|:------------|:-----------------|
-| 1. | Mostiště         | Vysočina        | 1. 1. 2018  | úhyn na silnici  |
-| 2. | Květnov          | Vysočina        | 8. 1. 2018  | úhyn na silnici  |
-| 3. | Jeseník          | Olomoucký       | 15. 1. 2018 | úhyn na silnici  |
-| 4. | Přelouč–Lohenice | Pardubický      | 14. 3. 2018 | úhyn na silnici  |
-| 5. | Mikolajice       | Moravskoslezský | 22. 3. 2018 | prozatím neznámá |
-| 6. | Horní Bolíkov    | Vysočina        | 25. 3. 2018 | úhyn na silnici  |
-| 7. | Plchovice        | Pardubický      | 28. 3. 2018 | prozatím neznámá |
+|     | Místo              | Kraj            | Datum        | Příčina                       |
+| --- | ------------------ | --------------- | ------------ | ----------------------------- |
+| 36. | Příseka            | Vysočina        | 4. 9. 2018   | pravděpodobně úhyn na silnici |
+| 37. | Praha Ruzyně       | Praha           | 27. 9. 2018  | pravděpodobně úhyn na silnici |
+| 38. | Protivín           | Jihočeský       | 1. 10. 2018  | pravděpodobně úhyn na silnici |
+| 39. | Mirotice - Milín   | Jihočeský       | 2. 10. 2018  | pravděpodobně úhyn na silnici |
+| 40. | Bystřice           | Středočeský     | 3. 10. 2018  | pravděpodobně úhyn na silnici |
+| 41. | Příbram - Brod     | Středočeský     | 9. 10. 2018  | pravděpodobně úhyn na silnici |
+| 42. | Bratroňov          | Vysočina        | 9. 10. 2018  | pravděpodobně úhyn na silnici |
+| 43. | Chrastava          | Liberecký       | 9. 10. 2018  | pravděpodobně úhyn na silnici |
+| 44. | Huntířov - Vítězná | Královéhradecký | 20. 10. 2018 | pravděpodobně úhyn na silnici |
+| 45. | Vodňany            | Jihočeský       | 26. 10. 2018 | pravděpodobně úhyn na silnici |
