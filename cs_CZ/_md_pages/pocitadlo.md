@@ -14,7 +14,7 @@ všechny. Každoročně se k nám také dostane vydra, která byla zastřelena,
 otrávena či umřela nepěknou smrtí v železech. Přitom jde o chráněný
 druh, zabíjení vyder je nelegální.
 
-# Rok 2018
+# Posledních 10 případů v roce 2018
 
 |     | Místo              | Kraj            | Datum        | Příčina                       |
 | --- | ------------------ | --------------- | ------------ | ----------------------------- |
