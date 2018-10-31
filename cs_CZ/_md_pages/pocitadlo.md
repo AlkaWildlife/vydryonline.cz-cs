@@ -21,16 +21,17 @@ druh, zabíjení vyder je nelegální.
 | 39  | Protivín           | Jihočeský       | 1. 10. 2018  | pravděpodobně úhyn na silnici |
 | 40. | Mirotice - Milín   | Jihočeský       | 2. 10. 2018  | pravděpodobně úhyn na silnici |
 | 41. | Bystřice           | Středočeský     | 3. 10. 2018  | pravděpodobně úhyn na silnici |
-| 42. | Příbram - Brod     | Středočeský     | 9. 10. 2018  | pravděpodobně úhyn na silnici |
-| 43. | Bratroňov          | Vysočina        | 9. 10. 2018  | pravděpodobně úhyn na silnici |
-| 44. | Chrastava          | Liberecký       | 9. 10. 2018  | pravděpodobně úhyn na silnici |
-| 45. | Habry              | Vysočina        | 17. 10. 2018 | pravděpodobně úhyn na silnici |
-| 46. | Huntířov - Vítězná | Královéhradecký | 20. 10. 2018 | pravděpodobně úhyn na silnici |
-| 47. | Hluboká n. V.      | Jihočeský       | 24. 10. 2018 | pravděpodobně úhyn na silnici |
-| 48. | Raspenava          | Liberecký       | 25. 10. 2018 | pravděpodobně úhyn na silnici |
-| 49. | Vodňany            | Jihočeský       | 26. 10. 2018 | pravděpodobně úhyn na silnici |
-| 50. | Žďár nad Sázavou   | Vysočina        | 29. 10. 2018 | pravděpodobně úhyn na silnici |
-| 51. | Nerestce           | Jihočeský       | 29. 10. 2018 | pravděpodobně úhyn na silnici |
-| 52. | Jistebník          | Moravskoslezský | 31. 10. 2018 | pravděpodobně úhyn na silnici |
-| 53. | Horní Ves, Fryšták | Zlínský         | 31. 10. 2018 | pravděpodobně úhyn na silnici |
-| 54. | Borek              | Jihočeský       | 31. 10. 2018 | pravděpodobně úhyn na silnici |
+| 42. | Pavlovice, Vlašim  | Středočeský     | 7. 10. 2018  | pravděpodobně úhyn na silnici |
+| 43. | Příbram - Brod     | Středočeský     | 9. 10. 2018  | pravděpodobně úhyn na silnici |
+| 44. | Bratroňov          | Vysočina        | 9. 10. 2018  | pravděpodobně úhyn na silnici |
+| 45. | Chrastava          | Liberecký       | 9. 10. 2018  | pravděpodobně úhyn na silnici |
+| 46. | Habry              | Vysočina        | 17. 10. 2018 | pravděpodobně úhyn na silnici |
+| 47. | Huntířov - Vítězná | Královéhradecký | 20. 10. 2018 | pravděpodobně úhyn na silnici |
+| 48. | Hluboká n. V.      | Jihočeský       | 24. 10. 2018 | pravděpodobně úhyn na silnici |
+| 49. | Raspenava          | Liberecký       | 25. 10. 2018 | pravděpodobně úhyn na silnici |
+| 50. | Vodňany            | Jihočeský       | 26. 10. 2018 | pravděpodobně úhyn na silnici |
+| 51. | Žďár nad Sázavou   | Vysočina        | 29. 10. 2018 | pravděpodobně úhyn na silnici |
+| 52. | Nerestce           | Jihočeský       | 29. 10. 2018 | pravděpodobně úhyn na silnici |
+| 53. | Jistebník          | Moravskoslezský | 31. 10. 2018 | pravděpodobně úhyn na silnici |
+| 54. | Horní Ves, Fryšták | Zlínský         | 31. 10. 2018 | pravděpodobně úhyn na silnici |
+| 55. | Borek              | Jihočeský       | 31. 10. 2018 | pravděpodobně úhyn na silnici |
