@@ -30,3 +30,6 @@ druh, zabíjení vyder je nelegální.
 | 48. | Raspenava          | Liberecký       | 25. 10. 2018 | pravděpodobně úhyn na silnici |
 | 49. | Vodňany            | Jihočeský       | 26. 10. 2018 | pravděpodobně úhyn na silnici |
 | 50. | Žďár nad Sázavou   | Vysočina        | 29. 10. 2018 | pravděpodobně úhyn na silnici |
+| 51. | Nerestce           | Jihočeský       | 29. 10. 2018 | pravděpodobně úhyn na silnici |
+| 52. | Jistebník          | Moravskoslezský | 31. 10. 2018 | pravděpodobně úhyn na silnici |
+| 53. | Horní Ves, Fryšták | Zlínský         | 31. 10. 2018 | pravděpodobně úhyn na silnici |
