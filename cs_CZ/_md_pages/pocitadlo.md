@@ -33,3 +33,4 @@ druh, zabíjení vyder je nelegální.
 | 51. | Nerestce           | Jihočeský       | 29. 10. 2018 | pravděpodobně úhyn na silnici |
 | 52. | Jistebník          | Moravskoslezský | 31. 10. 2018 | pravděpodobně úhyn na silnici |
 | 53. | Horní Ves, Fryšták | Zlínský         | 31. 10. 2018 | pravděpodobně úhyn na silnici |
+| 54. | Borek              | Jihočeský       | 31. 10. 2018 | pravděpodobně úhyn na silnici |
