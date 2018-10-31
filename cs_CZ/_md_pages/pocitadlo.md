@@ -14,17 +14,19 @@ všechny. Každoročně se k nám také dostane vydra, která byla zastřelena,
 otrávena či umřela nepěknou smrtí v železech. Přitom jde o chráněný
 druh, zabíjení vyder je nelegální.
 
-# Posledních 10 případů v roce 2018
+# Říjen v roce 2018
 
 |     | Místo              | Kraj            | Datum        | Příčina                       |
 | --- | ------------------ | --------------- | ------------ | ----------------------------- |
-| 36. | Příseka            | Vysočina        | 4. 9. 2018   | pravděpodobně úhyn na silnici |
-| 37. | Praha Ruzyně       | Praha           | 27. 9. 2018  | pravděpodobně úhyn na silnici |
 | 38. | Protivín           | Jihočeský       | 1. 10. 2018  | pravděpodobně úhyn na silnici |
 | 39. | Mirotice - Milín   | Jihočeský       | 2. 10. 2018  | pravděpodobně úhyn na silnici |
 | 40. | Bystřice           | Středočeský     | 3. 10. 2018  | pravděpodobně úhyn na silnici |
 | 41. | Příbram - Brod     | Středočeský     | 9. 10. 2018  | pravděpodobně úhyn na silnici |
 | 42. | Bratroňov          | Vysočina        | 9. 10. 2018  | pravděpodobně úhyn na silnici |
 | 43. | Chrastava          | Liberecký       | 9. 10. 2018  | pravděpodobně úhyn na silnici |
-| 44. | Huntířov - Vítězná | Královéhradecký | 20. 10. 2018 | pravděpodobně úhyn na silnici |
-| 45. | Vodňany            | Jihočeský       | 26. 10. 2018 | pravděpodobně úhyn na silnici |
+| 44. | Habry              | Vysočina        | 17. 10. 2018 | pravděpodobně úhyn na silnici |
+| 45. | Huntířov - Vítězná | Královéhradecký | 20. 10. 2018 | pravděpodobně úhyn na silnici |
+| 46. | Hluboká n. V.      | Jihočeský       | 24. 10. 2018 | pravděpodobně úhyn na silnici |
+| 47. | Raspenava          | Liberecký       | 25. 10. 2018 | pravděpodobně úhyn na silnici |
+| 48. | Vodňany            | Jihočeský       | 26. 10. 2018 | pravděpodobně úhyn na silnici |
+| 49. | Žďár nad Sázavou   | Vysočina        | 29. 10. 2018 | pravděpodobně úhyn na silnici |
