@@ -1,7 +1,7 @@
 ---
 title: Černý říjen pro vydry
 published: true
-image: /media/img_20181025_083635_610_v.jpg
+image: /media/img_20181025_083635_620_v.jpg
 description: >-
   Říjen 2018 bude zapsán černě do statistik odborníků, kteří sledují vydry. V
   tomto měsíci nalezli na silnicích celkem sedmnáct uhynulých vyder. Ukazuje se,
