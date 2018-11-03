@@ -12,11 +12,7 @@ layout: news
 ---
 Tisková zpráva ALKA Wildlife
 
-
-
 ## Černý říjen pro vydry: na silnicích se našlo 17 mrtvých zvířat
-
-
 
 **Lidéřovice, 3. listopadu 2018: Říjen 2018 bude zapsán černě do statistik odborníků, kteří sledují vydry v naší republice. V tomto měsíci nalezli na silnicích celkem sedmnáct uhynulých vyder. S rostoucí intenzitou silniční dopravy totiž stoupá počet usmrcených jedinců této chráněné šelmy. Ukazuje se, že právě doprava je pro přežívání vyder zásadní faktor. **
 
@@ -32,16 +28,12 @@ Sledovat vývoj populace ohrožených druhů a vliv různých faktorů odborník
 
 Intenzita autoprovozu na silnicích neustále roste. Silniční doprava se stává kritickým faktorem pro mnoho živočichů v naší krajině, na silnicích hynou drobné žáby, zajíci, ježci, kopytníci, ale i ty větší jako rys ostrovid či los evropský. 
 
-
-
 Poznámky: 
 
 \[1] Data o zvířatech usmrcených na silnicích jsou důležitým zdrojem informací o tomto chráněném druhu, proto je organizován jejich sběr. Riziková místa se zaznamenávají, určuje se příčina úhynu, hledají se další zranění, zjišťuje se pohlaví, věk, u samic z placentárních jizev zda a kolik měly mláďat, berou se vzorky tkání z různých částí těla pro další analýzy, např. množství těžkých kovů, hledají se vnitřní parazité. 
 
-\[2] Více informací je možné najít také na webu www.vydryonline.cz a www.vydrynasilnici.cz včetně kompletního seznamu 17 uhynulých vyder (https://www.vydryonline.cz/vydra/vydry-a-silnice/pocitadlo).
-
-
+\[2] Více informací je možné najít také na webu www.vydryonline.cz a www.vydrynasilnici.cz včetně kompletního seznamu 17 uhynulých vyder (https://www.vydryonline.cz/vydra/vydry-a-silnice/pocitadlo).
 
 _Foto: Vydra uhynula na silnici po srážce s vozidlem v obci Raspenava 25. října 2018 (autor: Radomír Studený)_
 
-![](/media/img_20181025_083635_610.jpg)
+![null](/media/img_20181025_083635_610.jpg)
