@@ -1,15 +1,12 @@
 ---
-title: Myslivci a rybáři žádají návrat ke krutým středověkým metodám
+title: Myslivci a rybáři žádají kruté metody lovu
 published: true
 image: /media/hlaváč_železa_občinyhb_3.jpg
 description: >-
   Zástupci Českomoravské myslivecké jednoty, Českého rybářského svazu a
   Rybářského sdružení ČR tento týden prohlásili, že navrhují zahájit lov vyder a
-  bobrů do „smrtících pastí“. Odborníci ale varují, že ač nebyl přesně uveřejněn
-  typ, jedná se o pasti kruté a nehumánní, v civilizovaných zemích zakázané.
-  Navíc mohou velmi vážně zranit nebo v krajním případě i zabít člověka, určitě
-  volně pobíhající psy. Budeme se teď muset bát projít podél rybníků či koupat
-  se v řece?
+  bobrů do „smrtících pastí“. Ty jsou ale kruté, nehumánní, zakázané a
+  nebezpečné. 
 date: '2018-12-07'
 category: news
 layout: news
