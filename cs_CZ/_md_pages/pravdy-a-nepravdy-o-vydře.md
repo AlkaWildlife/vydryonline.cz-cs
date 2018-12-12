@@ -1,6 +1,6 @@
 ---
 title: 'Pravdy a nepravdy o vydře '
-published: false
+published: true
 permalink: /vydra/o-vydre
 image: /media/vydra011.jpg
 description: >-
