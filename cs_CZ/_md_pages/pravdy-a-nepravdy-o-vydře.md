@@ -22,42 +22,21 @@ _Baruš V. a Zejda J. (1981): The European otter (Lutra lutra) in the Czech soci
 
 _Toman (1992): První výsledky "Akce vydra". Bulletin Vydra 3: 3 - 8._
 
-
-
 ## Současný stav je výsledek úspěšné repatriace
 
 Vydry říční se navrátily na většinu území České republiky, přesněji do 98% mapovacích kvadrátů ([Poledník a kol 2017](https://www.vydryonline.cz/media/Polednik_etal_4_13.pdf)). Nejedná se ale o příklad úspěšné repatriace (=vysazování jedinců tam, kde druh vymizel), protože k obnově populace vydry došlo samovolně, jejím opětovným rozšířením z míst, kde u nás přežila. Repatriační projekt proběhl jen lokálně v oblasti Jeseníků, kde bylo koncem 90. let v průběhu šesti let vypuštěno 29 jedinců ( Hlaváč 1995, Hlaváč et al. 1998, Šusta a Toman 2001, Toman et al. 2003). Nepravidelně také probíhalo a probíhá navrácení vyléčených jedinců nalezených v přírodě, většinou se jedná o dochování opuštěných mláďat/vyléčení zraněných zvířat, která byla nalezena ve volné přírodě. To samozřejmě nelze považovat za „vysazování vyder“, jedná se o činnost, kterou zajišťují záchranné stanice pro handicapované živočichy a ty jsou v podstatě povinny toto pro veškeré druhy volně žijících zvířat zajistit. Navíc je takto „rehabilitováno“ řádově jen několik jedinců ročně (viz tabulka níže). Je zřejmé (a potvrdil to i matematický model), že množství jedinců vypuštěných do přírody v rámci zmíněné repatriace mělo minimální vliv na vývoj celé populace. Úspěch obnovy vydří populace je založen na celkovém zlepšení podmínek životního prostředí - čistoty vod, na což vydry zareagovaly a postupně se samovolně rozšiřovaly z oblastí, odkud nikdy nevymizely (z Beskyd, z Labských pískovců a přilehlého Polska a hlavní směr byl z jižních Čech a Českomoravské vrchoviny, později také ze Saska). V žádném případě se tedy nedá mluvit o tom, že se jedná o úspěšný příklad plošné reintrodukce. Vydry u nás nejsou a nebyly plošně vysazovány. Navíc v rámci Programu péče pro vydru říční (který běží od roku 2009) je jednoznačně řešen i problém chovu a odchovu jedinců v zajetí a AOPK ČR se již deset let snaží koordinovat zařízení, kde jsou vydry odchovávány, např.  zamezením držení párů v zajetí, aby se zde nerodila mláďata, umisťováním nalezených zraněných jedinců či osiřelých mláďat do zoologických zahrad či předáním do zahraničí, kde probíhají reintrodukční programy (např. do Holandska). 
 
-Statistika ze sítě záchranných stanic za období realizace PP (zdroj AOPK ČR)
-
-| Rok | Přijato/ošetřeno | Úhyn/nález kadáverů | Vypuštění v místě | Vypuštění Holandsko | Další péče/předání
-
-| --- | ------------------ | --------------- | ------------ | ----------------------------- |
- | 2010	 | 6 | 2 | 1 | 0 | 3 | 
-
- | 2011 | 9 | 5 | 1 | 2 | 1 | 
-
- | 2012 | 22 | 6 | 3 | 5 | 8 | 
-
- | 2013 | 30 | 15 | 2 | 13 | 
-
- | 2014 | 22 | 16 | 1 | 5 | 
-
- | 2015 | 32 | 14 | 1 | 17 | 
-
- | 2016 | 20 | 10 | 4 | 6 | 
-
- | 2017 | 37 | 20 | 5 | 12 | 
+_Statistika ze sítě záchranných stanic za období realizace PP (zdroj AOPK ČR)_
 
 
 
-Hlaváč V. 1995: Příprava reintrodukčního projektu v oblasti Jeseníků. Bulletin Vydra, 5: 2-3.
+_Hlaváč V. (1995): Příprava reintrodukčního projektu v oblasti Jeseníků. Bulletin Vydra, 5: 2-3. _
 
-Hlaváč V., Toman A. a Bodešínský M. 1998: Experimentální reintrodukce vydry v Jeseníkách. Bulletin Vydra, 8: 37-39.¨
+_Hlaváč V., Toman A. a Bodešínský M. (1998): Experimentální reintrodukce vydry v Jeseníkách. Bulletin Vydra, 8: 37-39._
 
-Šusta F. a Toman A. 2001: Současný stav reintrodukované populace vydry říční (Lutra lutra) v Jeseníkách. Bulletin Vydra, 11: 45-48.
+_Šusta F. a Toman A. (2001): Současný stav reintrodukované populace vydry říční (Lutra lutra) v Jeseníkách. Bulletin Vydra, 11: 45-48._
 
-Toman A., Roche M. a Roche K. 2003: Reintroduction of otters in the Czech Republic. The Return of the Otter in Europe – Where and How? International Conference, isle of Skye (30 June-4 July 2003).
+
 
 Vydry se stále nekontrolovatelně šíří a je jich stále více
 
