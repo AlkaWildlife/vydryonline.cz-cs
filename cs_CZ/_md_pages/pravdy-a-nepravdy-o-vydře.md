@@ -1,7 +1,7 @@
 ---
 title: 'Pravdy a nepravdy o vydře '
 published: true
-permalink: /vydra/o-vydre
+permalink: /vydra/o-vydre/pravdy-a-nepravdy-o-vydre
 image: /media/vydra011.jpg
 description: >-
   Vzhledem k intenzivní diskusi, která se strhla okolo naší populace vyder,
