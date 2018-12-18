@@ -2,6 +2,6 @@
   "name": "vydryonline.cz-cs",
   "private": true,
   "dependencies": {
-    "netlify-cms": "^1.9.2"
+    "netlify-cms": "^2.3.1"
   }
 }
