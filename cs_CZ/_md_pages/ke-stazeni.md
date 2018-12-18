@@ -12,4 +12,4 @@ veřejnost i kompletní čísla časopisu Bulletin Vydra.
 
 Pokud jste autory nějakého příspěvku o vydře říční, můžete zde svou
 práci také zveřejnit. Přispějete tak ke komplexnějšímu a všestrannému
-pohledu na vydru…
+pohledu na vydru.
