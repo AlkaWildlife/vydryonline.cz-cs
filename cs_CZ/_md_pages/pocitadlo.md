@@ -11,7 +11,7 @@ Na našich silnicích hynou stovky zvířat. A i vydry nejsou výjimkou.
 Každoročně se nám podaří shromáždit několik desítek těl ze silnic
 a počet každým rokem stoupá. A to samozřejmě nenajdeme
 všechny. Každoročně se k nám také dostane vydra, která byla zastřelena,
-otrávena či umřela nepěknou smrtí v železech. Přitom jde o chráněný
+otrávena či umřela nepěknou smrtí v železech. Přitom jde o chráněný
 druh, zabíjení vyder je nelegální.
 
 # Říjen v roce 2018
