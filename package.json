@@ -1,5 +1,5 @@
 {
-  "name": "vydryonline.cz-cs",
+  "name": "vydryonline.cz",
   "private": true,
   "dependencies": {
     "netlify-cms": "^2.3.1"
