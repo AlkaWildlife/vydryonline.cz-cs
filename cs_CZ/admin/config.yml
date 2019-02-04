@@ -28,6 +28,8 @@ collections:
   - name: published
     label: Published (publicly available under the following address)
     widget: boolean
+    required: false
+    default: true
   - name: permalink
     label: Address (creates hierarchy—e.g., “/about/team” is a child of “/about” which is a child of “/”; shouldn’t contain white-space characters like space)
     widget: string
@@ -61,6 +63,7 @@ collections:
   - name: listed
     label: Show in the navigation menu
     widget: boolean
+    required: false
   - name: position
     label: Position among siblings in listings
     widget: number
@@ -119,6 +122,7 @@ collections:
     - name: listed
       label: Show in the navigation menu
       widget: boolean
+      required: false
     - name: position
       label: Position among siblings in listings
       widget: number
@@ -143,9 +147,12 @@ collections:
     - name: published
       label: Enabled
       widget: boolean
+      required: false
+      default: true
     - name: listed
       label: Show in the navigation menu
       widget: boolean
+      required: false
     - name: position
       label: Position among siblings in listings
       widget: number
@@ -171,9 +178,12 @@ collections:
     - name: published
       label: Enabled
       widget: boolean
+      required: false
+      default: true
     - name: listed
       label: Show in the navigation menu
       widget: boolean
+      required: false
     - name: position
       label: Position among siblings in listings
       widget: number
@@ -199,9 +209,12 @@ collections:
     - name: published
       label: Enabled
       widget: boolean
+      required: false
+      default: true
     - name: listed
       label: Show in the navigation menu
       widget: boolean
+      required: false
     - name: position
       label: Position among siblings in listings
       widget: number
@@ -290,6 +303,8 @@ collections:
   - name: published
     label: Published
     widget: boolean
+    required: false
+    default: true
   - name: image
     label: Image
     widget: image
@@ -372,6 +387,8 @@ collections:
   - name: published
     label: Published
     widget: boolean
+    required: false
+    default: true
   - name: author
     label: Author
     widget: string
@@ -458,6 +475,8 @@ collections:
   - name: published
     label: Published
     widget: boolean
+    required: false
+    default: true
   - name: image
     label: Image (about one or two megapixels)
     widget: image
@@ -637,6 +656,7 @@ collections:
         - name: output
           label: Generate individual documents
           widget: boolean
+          required: false
       - name: galleries
         label: Galleries
         widget: object
@@ -649,6 +669,7 @@ collections:
         - name: output
           label: Generate individual documents
           widget: boolean
+          required: false
       - name: posts
         label: Posts (news, photos and user answers)
         widget: object
@@ -661,6 +682,7 @@ collections:
         - name: output
           label: Generate individual documents
           widget: boolean
+          required: false
       - name: showcases
         label: Showcases
         widget: object
@@ -673,6 +695,7 @@ collections:
         - name: output
           label: Generate individual documents
           widget: boolean
+          required: false
       - name: filterable_tags
         label: Categories
         widget: object
@@ -685,6 +708,7 @@ collections:
         - name: output
           label: Generate individual documents
           widget: boolean
+          required: false
     - name: defaults
       label: Defaults for collections
       widget: list
