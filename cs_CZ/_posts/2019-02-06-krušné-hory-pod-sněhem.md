@@ -1,0 +1,12 @@
+---
+title: Krušné hory pod sněhem
+published: true
+image: /media/a_20190131_121958.jpg
+gallery: /news/sněhem-za-vydří-dna
+lang_alternatives:
+  en_GB: {}
+date: '2019-02-06 09:24:19 +0100'
+category: gallery
+layout: photo
+---
+
