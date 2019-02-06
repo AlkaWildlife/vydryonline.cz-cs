@@ -12,11 +12,9 @@ layout: two_columns_page
 Osvěta veřejnosti probíhala formou osobní prezentace a komunikace
 pro veřejnost a děti na Dačicku, kde byla v rámci programu OPŽP
 vybudována první naučná „Vydří stezka“. V rámci doprovodných aktivit
-bude připraveno a vytištěno pexeso pro děti a budou realizovány nejméně
-tři samostatné akce pro laickou veřejnost či děti formou přednášky či
-exkurze. Druhým úkolem je vytvoření webových stránek vydristezky.cz,
-které seznámí laickou veřejnost a děti s tímto druhem, budou navazovat
-na Vydří stezku na Dyji.
+bylo připraveno a vytištěno pexeso pro děti a bylo realizováno šest akcí pro děti formou přednášky či
+exkurze. Druhým úkolem bylo vytvoření webových stránek vydristezky.cz,
+které seznamují laickou veřejnost a děti s tímto druhem a s Vydří stezku na Dyji.
 
 # Výstupy
 
