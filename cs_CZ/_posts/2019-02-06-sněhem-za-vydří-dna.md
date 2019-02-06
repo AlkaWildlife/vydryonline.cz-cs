@@ -1,6 +1,6 @@
 ---
 title: Sněhem za vydří DNA
-published: true
+published: false
 image: /media/a_dscn4627.jpg
 description: >-
   Metry sněhu jsme se celý lednový týden prodírali v Krušných horách za vydrami,
