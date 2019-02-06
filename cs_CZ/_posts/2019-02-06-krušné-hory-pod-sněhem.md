@@ -1,5 +1,5 @@
 ---
-title: Krušné hory pod sněhem
+title: Krušné hory pod sněhem 1
 published: true
 image: /media/a_20190131_121958.jpg
 gallery: /news/sněhem-za-vydří-dna
