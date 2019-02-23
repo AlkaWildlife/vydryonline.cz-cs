@@ -128,7 +128,7 @@ vydry dlouhodobě stabilní vhodné prostředí.
 [Začínáme výzkum vyder v Krušných
 horách](/news/zaciname-vyzkum-vyder-v-krusnych-horach)
 
-# O projektu v médiích
+# **O projektu v médiích**
 
 [Rozhovor s Václavem Beranem v Českém rozhlase](http://prehravac.rozhlas.cz/audio/4001530) (pořad Planetárium, 28.4.2018 18:10)
 
