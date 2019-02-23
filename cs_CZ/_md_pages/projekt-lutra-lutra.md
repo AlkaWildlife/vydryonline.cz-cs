@@ -119,12 +119,12 @@ vydry dlouhodobě stabilní vhodné prostředí.
 
 # **Aktuality**
 
-[Začínáme výzkum vyder v Krušných
-horách](/news/zaciname-vyzkum-vyder-v-krusnych-horach)
+[Sněhem za vydří DNA](/news/sněhem-za-vydří-dna)
 
 [Konference Lutra lutra](/news/konference-lutra-lutra)
 
-[Sněhem za vydří DNA](/news/sněhem-za-vydří-dna)
+[Začínáme výzkum vyder v Krušných
+horách](/news/zaciname-vyzkum-vyder-v-krusnych-horach)
 
 # O projektu v médiích
 
