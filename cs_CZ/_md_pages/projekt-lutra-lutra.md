@@ -129,3 +129,5 @@ horách](/news/zaciname-vyzkum-vyder-v-krusnych-horach)
 # O projektu v médiích
 
 [Rozhovor s Václavem Beranem v Českém rozhlase](http://prehravac.rozhlas.cz/audio/4001530) (pořad Planetárium, 28.4.2018 18:10)
+
+[Vědci hledají cestu k Ohři pro německé vydry, aby se tu opět zabydlely](https://www.idnes.cz/usti/zpravy/vydra-ricni-populace-vedecky-projekt-krusne-hory-reka-ohre.A171215_370900_usti-zpravy_vac2) (idnes.cz, 18.12.2017)
