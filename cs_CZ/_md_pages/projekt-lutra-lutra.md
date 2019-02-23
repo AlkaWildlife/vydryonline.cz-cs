@@ -1,7 +1,7 @@
 ---
 title: Projekt Lutra lutra
-permalink: "/projekty/projekt-lutra-lutra"
 published: true
+permalink: /projekty/projekt-lutra-lutra
 listed: true
 position: 2
 layout: two_columns_page
@@ -19,19 +19,19 @@ ERDF (Evropský fond pro regionální rozvoj)
 
 ![](/media/SNCZ2020_Zusatz_RGB_150dpi_300_m.jpg){:
 .wysiwyg-float-left}Programu na podporu přeshraniční spolupráce mezi
-Českou republikou a Svobodným státem Sasko 2014–2020  
-**Oficiální stránky programu:** [http://www.sn-cz2020.eu][1]
+Českou republikou a Svobodným státem Sasko 2014–2020\
+**Oficiální stránky programu:** <http://www.sn-cz2020.eu>
 
 # **Partneři:**
 
-[AG Naturschutzinstitut Region Dresden e.V.][2] (vedoucí partner)  
-[Alka Wlidlife, o. p. s.][3]  
-[Muzeum města Ústí nad Labem][4]
+[AG Naturschutzinstitut Region Dresden e.V.](http://naturschutzinstitut.de/naturschutzinstitute/nsi_dresden/index.html) (vedoucí partner)\
+[Alka Wlidlife, o. p. s.](https://www.alkawildlife.eu)\
+[Muzeum města Ústí nad Labem](http://www.muzeumusti.cz)
 
 # **Kontaktní osoba:**
 
-Kateřina Poledníková  
-e-mail: [katerina.polednikova@alkawildlife.eu](mailto:katerina.polednikova@alkawildlife.eu)  
+Kateřina Poledníková\
+e-mail: <mailto:katerina.polednikova@alkawildlife.eu>\
 mob.: [606 598 903](tel:+420-606-598-903)
 
 Vydra říční je šelma, která se po desítkách let navrací do naší přírody.
@@ -55,21 +55,17 @@ Lutra lutra.
 
 # **Cíle projektu**
 
-- Identifikace migračních koridorů mezi českými a saskými subpopulacemi
+* Identifikace migračních koridorů mezi českými a saskými subpopulacemi
   vydry
+* Identifikace migračních překážek a rizikových míst
+* Vývoj, návrhy a modelová realizace opatření pro odstranění rizik
+* Vytvoření znalostní databáze pro vyhodnocení stavu populací
+* Posílení spolupráce aktérů z obou zemí
+* Osvěta, informovanost široké i odborné veřejnosti
 
-- Identifikace migračních překážek a rizikových míst
+# ![](/media/Vydra-ricni-9012_610.jpg)
 
-- Vývoj, návrhy a modelová realizace opatření pro odstranění rizik
-
-- Vytvoření znalostní databáze pro vyhodnocení stavu populací
-
-- Posílení spolupráce aktérů z obou zemí
-
-- Osvěta, informovanost široké i odborné veřejnosti
-
-# ![](/media/Vydra-ricni-9012_610.jpg)  
-*autor foto: Jiří Bohdal*
+_autor foto: Jiří Bohdal_
 
 # **Aktivity projektu**
 
@@ -128,7 +124,8 @@ horách](/news/zaciname-vyzkum-vyder-v-krusnych-horach)
 
 [Konference Lutra lutra](/news/konference-lutra-lutra)
 
-[1]: http://www.sn-cz2020.eu
-[2]: http://naturschutzinstitut.de/naturschutzinstitute/nsi_dresden/index.html
-[3]: https://www.alkawildlife.eu
-[4]: http://www.muzeumusti.cz
+[Sněhem za vydří DNA](/news/sněhem-za-vydří-dna)
+
+# O projektu v médiích
+
+[Rozhovor s Václavem Beranem v Českém rozhlase](http://prehravac.rozhlas.cz/audio/4001530) (pořad Planetárium, 28.4.2018 18:10)
