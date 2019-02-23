@@ -26,9 +26,14 @@ ERDF (Evropský fond pro regionální rozvoj)
 
 # **Partneři:**
 
-[AG Naturschutzinstitut Region Dresden e.V.](http://naturschutzinstitut.de/naturschutzinstitute/nsi_dresden/index.html) (vedoucí partner)\
-[Alka Wlidlife, o. p. s.](https://www.alkawildlife.eu)\
+[AG Naturschutzinstitut Region Dresden e.V.](http://naturschutzinstitut.de/naturschutzinstitute/nsi_dresden/index.html) (vedoucí partner)
+
+\
+[Alka Wlidlife, o. p. s.](https://www.alkawildlife.eu)
+
 [Muzeum města Ústí nad Labem](http://www.muzeumusti.cz)
+
+
 
 # **Kontaktní osoba:**
 
