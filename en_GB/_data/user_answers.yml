@@ -3,7 +3,9 @@ title:
   many: User answers
 more: More
 filter:
-  all: Show everything
+  not_supported: >-
+    You can filter user questions and answers by different criteria in
+    modern browsers.
   by_tag: Categories
   by_date: Archives
 form:

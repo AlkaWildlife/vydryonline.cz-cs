@@ -8074,22 +8074,25 @@ input[type="color"]:focus,
   margin: 0 0 18px; }
 
 /*======================= ASIDE RIGHT =======================*/
+.filter-module,
 .archive-module,
 .categories-module,
 .mod-menu .nav.menu,
 .list1 ul,
 .links ul {
   margin: 4px 0 0;
-  color: #769e22;
   list-style: inside; }
 
+.filter-module li,
 .archive-module li,
 .categories-module li,
 .mod-menu .nav.menu li,
 .list1 ul li,
 .links ul li {
+  color: #769e22;
   margin: 0 0 4px; }
 
+.filter-module li a,
 .archive-module li a,
 .categories-module li a,
 .mod-menu .nav.menu li a,
@@ -8099,6 +8102,7 @@ input[type="color"]:focus,
   color: #74705f;
   line-height: 19px; }
 
+.filter-module li a:hover,
 .archive-module li a:hover,
 .categories-module li a:hover,
 .mod-menu .nav.menu li a:hover,
@@ -8106,6 +8110,16 @@ input[type="color"]:focus,
 .links ul li a:hover {
   background: none;
   color: #a2d438; }
+
+.filter-module li {
+  list-style-type: circle; }
+.filter-module li.active {
+  list-style-type: disc;
+  color: #95c72b; }
+.filter-module li.active a {
+  color: #86b227; }
+.filter-module li.active a:hover {
+  color: #66891d; }
 
 #aside-right .mission {
   margin: 0 0 50px; }
