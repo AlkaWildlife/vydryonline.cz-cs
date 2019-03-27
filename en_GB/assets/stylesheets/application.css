@@ -8115,7 +8115,8 @@ input[type="color"]:focus,
   list-style-type: circle; }
 .filter-module li.active {
   list-style-type: disc;
-  color: #95c72b; }
+  color: #95c72b;
+  font-weight: bold; }
 .filter-module li.active a {
   color: #86b227; }
 .filter-module li.active a:hover {
