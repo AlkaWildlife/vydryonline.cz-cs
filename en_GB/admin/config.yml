@@ -90,14 +90,14 @@ collections:
     required: false
     fields:
     - name: cs_CZ
-      label: English
+      label: Czech
       widget: object
       fields:
       - name: title
-        label: Title in English
+        label: Title in Czech
         widget: string
       - name: permalink
-        label: Address on English site
+        label: Address on Czech site
         widget: string
 
 - name: special_pages
@@ -331,14 +331,14 @@ collections:
     required: false
     fields:
     - name: cs_CZ
-      label: English
+      label: Czech
       widget: object
       fields:
       - name: title
-        label: Title in English
+        label: Title in Czech
         widget: string
       - name: permalink
-        label: Address on English site
+        label: Address on Czech site
         widget: string
   - name: category
     label: "\U0001F6AB Post type (do not change)"
@@ -415,14 +415,14 @@ collections:
     required: false
     fields:
     - name: cs_CZ
-      label: English
+      label: Czech
       widget: object
       fields:
       - name: title
-        label: Title in English
+        label: Title in Czech
         widget: string
       - name: permalink
-        label: Address on English site
+        label: Address on Czech site
         widget: string
   - name: date
     label: "\U00002757 Published at (change with caution)"
@@ -528,14 +528,14 @@ collections:
     required: false
     fields:
     - name: cs_CZ
-      label: English
+      label: Czech
       widget: object
       fields:
       - name: title
-        label: Title in English
+        label: Title in Czech
         widget: string
       - name: permalink
-        label: Address on English site
+        label: Address on Czech site
         widget: string
   - name: date
     label: "\U00002757 Published at (change with caution)"
