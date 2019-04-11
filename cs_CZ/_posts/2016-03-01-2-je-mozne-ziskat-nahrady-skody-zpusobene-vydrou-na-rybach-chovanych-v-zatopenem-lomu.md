@@ -1,13 +1,11 @@
 ---
-title: >-
-  Je možné získat náhrady škody způsobené vydrou na rybách chovaných
-  v zatopeném lomu?
-author: Kateřina Poledníková
+title: "Je možné získat náhrady škody způsobené vydrou na rybách chovaných v\_zatopeném lomu?"
 published: true
-date: 2016-03-01
-category: user-answers
+author: Kateřina Poledníková
 tags:
-- škody
+  - vydra; škody
+date: 2016-03-01T00:00:00.000Z
+category: user-answers
 layout: user_answer
 ---
 **Ne, pokud se nejedná o rybářský revír.** Dle Zákona č. 115/2000,
