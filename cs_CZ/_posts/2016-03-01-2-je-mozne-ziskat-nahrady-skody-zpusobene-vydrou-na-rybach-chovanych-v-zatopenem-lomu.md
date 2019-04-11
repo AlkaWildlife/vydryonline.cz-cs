@@ -3,7 +3,8 @@ title: "Je možné získat náhrady škody způsobené vydrou na rybách chovan�
 published: true
 author: Kateřina Poledníková
 tags:
-  - vydra; škody
+  - vydra
+  - škody
 date: 2016-03-01T00:00:00.000Z
 category: user-answers
 layout: user_answer
