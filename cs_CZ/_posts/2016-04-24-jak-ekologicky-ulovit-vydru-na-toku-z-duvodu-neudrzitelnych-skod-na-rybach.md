@@ -1,13 +1,12 @@
 ---
-title: >-
-  Jak ekologicky ulovit vydru na toku z důvodu neudržitelných škod na
-  rybách?
-author: Lukáš Poledník
+title: "Jak ekologicky ulovit vydru na toku z\_důvodu neudržitelných škod na rybách?"
 published: true
-date: 2016-04-24
-category: user-answers
+author: Lukáš Poledník
 tags:
-- škody
+  - vydra
+  - škody
+date: 2016-04-24T00:00:00.000Z
+category: user-answers
 layout: user_answer
 ---
 Co se týče případného odstranění vydry, tak veškerá manipulace s tímto
