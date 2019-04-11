@@ -1,41 +1,32 @@
 title:
-  one: Odpověď
   many: Odpovědi
+  one: Odpověď
 more: více
 filter:
-  not_supported: >-
-    V moderních webových prohlížečích je dostupné i filtrování
-    otázek a odpovědí podle různých kritérií.
-  by_tag: Kategorie
   by_date: Archiv
+  by_tag: Kategorie
 form:
-  title: Poslat dotaz
+  consent: "Údaje z\_formuláře budou doručeny na email zaměstnance ALKA Wildlife, o.p.s. a\_budou použity pouze k\_zodpovězení dotazu. Odpověď se objeví co nejdříve na této web stránce."
   fields:
-    name: Jméno
     email: Email
-    question: Dotaz
     honeypot: Doplňující komentář (nevyplňujte pokud jste člověk)
+    name: Jméno
+    question: Dotaz
     submit: Odeslat
-  consent: >-
-    Údaje z formuláře budou doručeny na email zaměstnance ALKA
-    Wildlife, o.p.s. a budou použity pouze k zodpovězení dotazu.
   results:
-  - id: no-email
-    type: danger
-    message: Zadejte email, na který chcete zaslat odpověď.
-  - id: no-question
-    type: danger
-    message: Zadejte svůj dotaz.
-  - id: no-email,no-question
-    type: danger
-    message: >-
-      Zadejte svůj dotaz a email, na který chcete zaslat odpověď.
-  - id: fail
-    type: danger
-    message: >-
-      Omlouváme se, ale dotaz se nepodařilo odeslat. Zkuste to
-      prosím znovu. Pokud se ani to nepodaří, oslovte přímo někoho
-      uvedeného v <a href="/o-nas/kontakty">kontaktech</a>.
-  - id: sent
-    type: success
-    message: Dotaz byl úspěšně odeslán.
+    - id: no-email
+      message: 'Zadejte email, na který chcete zaslat odpověď.'
+      type: danger
+    - id: no-question
+      message: Zadejte svůj dotaz.
+      type: danger
+    - id: 'no-email,no-question'
+      message: "Zadejte svůj dotaz a\_email, na který chcete zaslat odpověď."
+      type: danger
+    - id: fail
+      message: "Omlouváme se, ale dotaz se nepodařilo odeslat. Zkuste to prosím znovu. Pokud se ani to nepodaří, oslovte přímo někoho uvedeného v\_<a href=\"/o-nas/kontakty\">kontaktech</a>."
+      type: danger
+    - id: sent
+      message: Dotaz byl úspěšně odeslán.
+      type: success
+  title: Poslat dotaz
