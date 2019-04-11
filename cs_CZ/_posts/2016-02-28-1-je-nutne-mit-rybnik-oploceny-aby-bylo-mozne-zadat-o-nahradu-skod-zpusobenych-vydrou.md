@@ -3,7 +3,8 @@ title: "Je nutné mít rybník oplocený, aby bylo možné žádat o\_náhradu �
 published: true
 author: Kateřina Poledníková
 tags:
-  - vydra; škody
+  - vydra
+  - škody
 date: 2016-02-28T00:00:00.000Z
 category: user-answers
 layout: user_answer
