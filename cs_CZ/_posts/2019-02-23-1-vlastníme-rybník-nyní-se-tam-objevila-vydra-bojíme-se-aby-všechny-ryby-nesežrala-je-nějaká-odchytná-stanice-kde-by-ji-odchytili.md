@@ -1,5 +1,7 @@
 ---
-title: "1.\tVlastníme rybník. Nyní se tam objevila vydra. Bojíme se, aby všechny ryby nesežrala. Je nějaká odchytná stanice, kde by ji odchytili?"
+title: >-
+  Vlastníme rybník. Nyní se tam objevila vydra. Bojíme se, aby všechny ryby
+  nesežrala. Je nějaká odchytná stanice, kde by ji odchytili?
 published: true
 author: Kateřina Poledníková
 description: >-
@@ -7,6 +9,7 @@ description: >-
   Existují však jiná řešení. V případě již vzniklých škod můžete požádat o
   náhrady škod. Ale důležitá je hlavně prevence a způsob chovu ryb v rybníce.
 tags:
+  - vydra
   - škody
 lang_alternatives:
   en_GB: {}
