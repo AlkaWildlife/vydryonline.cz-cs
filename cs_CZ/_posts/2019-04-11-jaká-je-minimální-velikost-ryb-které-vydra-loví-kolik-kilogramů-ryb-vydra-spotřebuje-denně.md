@@ -8,6 +8,8 @@ description: >-
   Není běžné, aby vydra lovila ryby menší než 5 cm. Nad 5 cm ale loví vše,
   většinou v množství dle nabídky v prostředí. Dospělá vydra zkonzumuje
   přibližně 1 kg potravy, z toho ryby tvoří (průměrně) 80%.
+tags:
+  - vydra; potrava
 lang_alternatives:
   en_GB: {}
 date: '2019-04-11 11:22:26 +0200'
