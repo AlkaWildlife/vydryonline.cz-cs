@@ -2,6 +2,9 @@
 title: Komu nahlásit výskyt vyder?
 published: true
 author: Kateřina Poledníková
+tags:
+  - vydra
+  - monitoring
 lang_alternatives:
   en_GB: {}
 date: '2019-02-06 20:56:04 +0100'
