@@ -1,12 +1,13 @@
 ---
-title: Trus s kousky raka – čí je to?
-author: Kateřina Poledníková
+title: "Trus s\_kousky raka – čí je to?"
 published: true
-date: 2016-11-07
-category: user-answers
+author: Kateřina Poledníková
 tags:
-- trus
-- pobytové znaky
+  - trus
+  - pobytové znaky
+  - monitoring
+date: 2016-11-07T00:00:00.000Z
+category: user-answers
 layout: user_answer
 ---
 Na kameni v řece byl nalezen tento trus (délka cca 5 cm). Dotaz je, kdo
