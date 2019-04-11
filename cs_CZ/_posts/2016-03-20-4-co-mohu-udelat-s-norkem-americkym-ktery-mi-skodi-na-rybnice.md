@@ -1,12 +1,12 @@
 ---
-title: Co mohu udělat s norkem americkým, který mi škodí na rybníce?
-author: Kateřina Poledníková
+title: "Co mohu udělat s\_norkem americkým, který mi škodí na rybníce?"
 published: true
-date: 2016-03-20
-category: user-answers
+author: Kateřina Poledníková
 tags:
-- škody
-- norek
+  - škody
+  - norek
+date: 2016-03-20T00:00:00.000Z
+category: user-answers
 layout: user_answer
 ---
 Norek americký může na rybníce způsobovat i poměrně významné škody. A je
