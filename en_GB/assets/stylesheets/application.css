@@ -9826,6 +9826,7 @@ article {
 
 .logo {
   max-height: 120px;
+  object-fit: contain !important;
   width: auto !important; }
 
 .flex {
