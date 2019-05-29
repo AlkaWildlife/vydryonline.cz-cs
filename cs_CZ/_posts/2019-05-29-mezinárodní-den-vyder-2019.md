@@ -16,4 +16,5 @@ K dnešnímu dni jsme připravili video ze záběrů z našich fotopastí (archi
 
 Hezký den.
 
-<iframe width="560" height="315" src="https://youtu.be/Y70CuqM0vrE" frameborder="0" allowfullscreen=""></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y70CuqM0vrE" frameborder="0" allowfullscreen=""></iframe>
