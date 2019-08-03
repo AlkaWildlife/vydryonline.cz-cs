@@ -7,20 +7,15 @@ listed: true
 position: 1
 layout: two_columns_page
 ---
-V České republice vydra říční zaznamenala výrazné změny v početnosti.
-Dle dostupných historických údajů byla vydra až do poloviny 19. století
-rozšířena po celém území České republiky. K výrazným změnám areálu
-i početnosti došlo v průběhu druhé poloviny 19. a během 20. století.
-Vlivem pronásledování pro kožešinu, hospodářských škod na rybách, ale
-také regulací řek a znečištěním vod vydra téměř vyhynula. Během
-posledních desetiletí její stavy opět vzrůstají a vydry se vrací do
-oblastí, kde již delší dobu nebyly.
+V České republice vydra říční zaznamenala výrazné změny v početnosti. Dle dostupných historických údajů byla vydra až do poloviny 19. století rozšířena po celém území České republiky. K výrazným změnám areálu
+i početnosti došlo v průběhu druhé poloviny 19. a během 20. století. Vlivem pronásledování pro kožešinu, hospodářských škod na rybách, ale také regulací řek a znečištěním vod vydra téměř vyhynula. Během
+posledních desetiletí její stavy opět vzrůstají a vydry se vrací do oblastí, kde již delší dobu nebyly.
 
-Celorepublikové mapování výskytu druhu je jednou z pěti metod monitoringu vydry říční v České republice. Doposud se mapování podařilo na národní úrovni zorganizovat 5×.
+Celorepublikové mapování výskytu druhu je jednou z pěti metod monitoringu vydry říční v České republice. Doposud se terénní celorepublikové mapování podařilo na národní úrovni zorganizovat 5×.
 
 Mapování proběhla pomocí hledání pobytových znaků modifikovanou standardní metodou IUCN. Jako základní čtvercová síť pro mapování byla použita národní síť S-JTSK. V každém bodě (většinou se jedná o silniční mosty) byly zkontrolovány pobytové znaky vyder. Vydry pravidelně ve svém okrsku značkují pomocí trusu, který je poměrně dobře rozpoznatelný, toho se při mapování využívá. Poslední celostátní mapování rozšíření bylo provedeno v roce 2016.
 
-Z jednotlivých map je zřejmé, že vydry se postupně začaly navracet do našich řek. V současnosti se vyskytují na většině území. Avšak detailní porovnání mezi roky 2011 a 2016 už také ukazuje opětovný lokální pokles v oblasti východních Čech, pravděpodobně z důvodu sucha. 
+Z jednotlivých map je zřejmé, že vydry se postupně začaly navracet do našich řek. V současnosti se vyskytují na většině území. Návrat byl přirozený, vydry se navracely se zlepšujícím se stavem našich vod a také vlivem dlouhodobé ochrany. Detailní porovnání mezi roky 2011 a 2016 ale ukazuje opětovný lokální pokles, a to v oblasti východních Čech, pravděpodobně z důvodu sucha. Přestože se některé příčiny původního poklesu populace vyder u nás podařilo snížit, v současnosti se ukazují nová rizika, zejména nové znečišťující látky v našich vodách (antibiotika, hormony, mikroplasty atd.), neustále se zvyšující doprava, sucho a bohužel také stále pytláctví.
 
 Výsledek mapování v roce 1992 (Toman 1992)
 
