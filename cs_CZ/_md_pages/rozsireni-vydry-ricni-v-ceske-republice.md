@@ -1,8 +1,8 @@
 ---
-title: Rozšíření vydry říční v ČR
-permalink: "/vydra/o-vydre/rozsireni-vydry-ricni-v-ceske-republice"
-long_title: Rozšíření vydry říční v České republice
+title: "Rozšíření vydry říční v\_ČR"
 published: true
+permalink: /vydra/o-vydre/rozsireni-vydry-ricni-v-ceske-republice
+long_title: "Rozšíření vydry říční v\_České republice"
 listed: true
 position: 1
 layout: two_columns_page
@@ -16,39 +16,41 @@ také regulací řek a znečištěním vod vydra téměř vyhynula. Během
 posledních desetiletí její stavy opět vzrůstají a vydry se vrací do
 oblastí, kde již delší dobu nebyly.
 
-Opakovaný monitoring populace ohroženého druhu je základním kamenem pro
-sledování stavu a vývoje jeho populace. Tyto informace jsou pak
-základním zdrojem pro rozhodování v rámci péče o daný druh. Monitoring
-je proto povinností vyplývající ze Směrnice č. 92/43/EEC, o ochraně
-přírodních stanovišt, volně žijících živočichů a planě rostoucích
-rostlin. V případě vydry říční v České republice je povinnost
-monitoringu také zakotvena v Programu péče pro vydru říční (*Lutra
-lutra*) v České republice v letech 2009–2018. Celorepublikové mapování
-výskytu druhu je jednou z pěti metod monitoringu vydry říční v České
-republice. Doposud se mapování podařilo na národní úrovni zorganizovat
-4×.
+Celorepublikové mapování výskytu druhu je jednou z pěti metod monitoringu vydry říční v České republice. Doposud se mapování podařilo na národní úrovni zorganizovat 5×.
 
-Poslední celostátní mapování rozšíření bylo provedeno v roce 2011.
-Mapování proběhlo pomocí hledání pobytových znaků modifikovanou
-standardní metodou IUCN. Jako základní čtvercová síť pro mapování byla
-použita národní síť S-JTSK. Celkem bylo zkontrolováno 2546 bodů ve
-667 kvadrátech, respektive 2425 podkvadrátech. Deset dalších kvadrátů,
-respektive 123 podkvadrátů, bylo označeno jako „bez vody“.
+Mapování proběhla pomocí hledání pobytových znaků modifikovanou standardní metodou IUCN. Jako základní čtvercová síť pro mapování byla použita národní síť S-JTSK. V každém bodě (většinou se jedná o silniční mosty) byly zkontrolovány pobytové znaky vyder. Vydry pravidelně ve svém okrsku značkují pomocí trusu, který je poměrně dobře rozpoznatelný, toho se při mapování využívá. Poslední celostátní mapování rozšíření bylo provedeno v roce 2016.
 
-![](/media/vydra_2011.jpg){: .wysiwyg-float-left}*Výskyt vydry říční
-v České republice v roce 2011 (Poledník et al. 2011).*
+Z jednotlivých map je zřejmé, že vydry se postupně začaly navracet do našich řek. V současnosti se vyskytují na většině území. Avšak detailní porovnání mezi roky 2011 a 2016 už také ukazuje opětovný lokální pokles v oblasti východních Čech, pravděpodobně z důvodu sucha. 
 
-Z celkového množství 667 kvadrátů je 251 plně pozitivních (37 %),
-u 169 kvadrátů (25 %) byly obsazeny tři podkvadráty, 114 podkvadrátů
-(17 %) bylo obsazeno z jedné poloviny a v 97 kvadrátech (15 %) byl
-obsazen pouze jediný podkvadrát. Celkem tedy v roce 2011 bylo
-pozitivních je 95 % kvadrátů pozitivních. Neobsazené na území státu
-zůstávají pouze tři kvadráty v severních Čechách, dva v Praze, jeden ve
-východních Čechách a 18 kvadrátů na jižní Moravě. Absence vyder ve
-jmenovaných oblastech je dána jednak historicky (oblasti nejdále od
-zdrojových populací), ale také pravděpodobně nevhodným prostředím
-v těchto oblastech.
+Výsledek mapování v roce 1992 (Toman 1992)
 
-[Polednik L., Poledníková K., Beran V., Čamlík G., Záptočný Š. a Kranz
-A. (2011): Rozšíření vydry říční v Ćeské republice v roce 2011. Bulletin
-Vydra 15: 22–28](/media/Polednik_etal_22_28.pdf)
+![Výskyt vydry říční v roce 1992](/media/vydra_1992.jpg)
+
+Výsledek mapování v roce 2001 (Kučerová a spol. 2001)
+
+![Výskyt vydry říční v roce 2001](/media/vydra_2001.jpg)
+
+Výsledek mapování v roce 2006 (Poledník a spol. 2007)
+
+![Výskyt vydry říční v roce 2006](/media/vydra_2006.jpg)
+
+Výsledek mapování v roce 20011 (Poledník a spol. 2012)
+![](/media/vydra_2011.jpg)
+
+Výsledek mapování v roce 2016 (Poledník a spol. 2018)
+
+![Výskyt vydry říční v roce 2016](/media/vydra_2016.jpg)
+
+
+
+Publikace s detailními výsledky jednotlivých mapování:
+
+Toman A (1992): První výsledky “Akce Vydra”. Bulletin Vydra, 3: 3 - 8.
+
+Kučerová M., Roche K. a Toman A. (2001): Rozšíření vydry říční (_Lutra lutra_) v České republice. Bulletin Vydra 11: 37 - 39.
+
+POLEDNÍK L, POLEDNÍKOVÁ K A HLAVÁČ V (2007): Rozšíření vydry říční (Lutra lutra) v České republice v roce 2006. Bulletin Vydra 14: 4 - 6.
+
+POLEDNÍK L, POLEDNÍKOVÁ K, BERAN V, ČAMLÍK G, ZÁPOTOČNÝ Š A KRANZ A (2012): Rozšíření vydry říční (Lutra lutra) v České republice v roce 2011. Bulletin Vydra 15: 22 - 28.
+
+[Polednik L., Poledníková K., Beran V., Čamlík G., Záptočný Š. a Kranz A. (2011): Rozšíření vydry říční v Ćeské republice v roce 2011. Bulletin Vydra 15: 22–28](/media/Polednik_etal_22_28.pdf)
