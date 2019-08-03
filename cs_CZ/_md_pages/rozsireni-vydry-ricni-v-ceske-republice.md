@@ -53,4 +53,4 @@ Poledník L., Poledníková K. A Hlaváč V. (2007): Rozšíření vydry říčn
 
 [Polednik L., Poledníková K., Beran V., Čamlík G., Záptočný Š. a Kranz A. (2012): Rozšíření vydry říční v Ćeské republice v roce 2011. Bulletin Vydra 15: 22–28](/media/Polednik_etal_22_28.pdf)
 
-Poledník L., Poledníková K., Beran V., Čamlík G., Prauz L., Mateos-González F. (2018): Rozšíření vydry říční (_Lutra lutra _L.) v České republice v roce 2016. Bulletin Vydra 17: 4 - 13.
+[Poledník L., Poledníková K., Beran V., Čamlík G., Prauz L., Mateos-González F. (2018): Rozšíření vydry říční (_Lutra lutra _L.) v České republice v roce 2016. Bulletin Vydra 17: 4 - 13. ](/media/Polednik_etal_4_13.pdf)
