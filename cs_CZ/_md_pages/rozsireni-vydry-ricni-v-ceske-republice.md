@@ -43,7 +43,9 @@ Výsledek mapování v roce 2016 (Poledník a spol. 2018)
 
 
 
-Publikace s detailními výsledky jednotlivých mapování:
+****
+
+**Publikace s detailními výsledky jednotlivých mapování:**
 
 Toman A (1992): První výsledky “Akce Vydra”. Bulletin Vydra, 3: 3 - 8.
 
