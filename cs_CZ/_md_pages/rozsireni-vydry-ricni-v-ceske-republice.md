@@ -35,7 +35,8 @@ Výsledek mapování v roce 2006 (Poledník a spol. 2007)
 ![Výskyt vydry říční v roce 2006](/media/vydra_2006.jpg)
 
 Výsledek mapování v roce 20011 (Poledník a spol. 2012)
-![](/media/vydra_2011.jpg)
+
+![Výskyt vydry říční v roce 2011](/media/vydra_2011.jpg)
 
 Výsledek mapování v roce 2016 (Poledník a spol. 2018)
 
