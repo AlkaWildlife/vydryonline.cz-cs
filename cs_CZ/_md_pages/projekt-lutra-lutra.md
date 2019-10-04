@@ -33,8 +33,6 @@ ERDF (Evropský fond pro regionální rozvoj)
 
 [Muzeum města Ústí nad Labem](http://www.muzeumusti.cz)
 
-
-
 # **Kontaktní osoba:**
 
 Kateřina Poledníková\
@@ -133,7 +131,9 @@ vydry dlouhodobě stabilní vhodné prostředí.
 [Začínáme výzkum vyder v Krušných
 horách](/news/zaciname-vyzkum-vyder-v-krusnych-horach)
 
-# **O projektu v médiích**
+# **V médiích**
+
+[Proč je medvídek mýval v naší přírodě takový problém?](https://ekolist.cz/cz/publicistika/priroda/proc-je-medvidek-myval-v-nasi-prirode-takovy-problem) (ekolist.cz, 29.3.2019)
 
 [Rozhovor s Václavem Beranem v Českém rozhlase](http://prehravac.rozhlas.cz/audio/4001530) (pořad Planetárium, 28.4.2018 18:10)
 
