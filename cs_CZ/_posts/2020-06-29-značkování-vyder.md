@@ -16,14 +16,13 @@ Vydry se při setkání dorozumívají pomocí různých hlasů, ale hlavní kom
 
 Na místě vydra „položí“ svou značku - trusem a nebo výměškem anální žlázy a zkontroluje ostatní značky předchozích návštěvníků. Podle pachu pozná konkurenci, partnera, i kdy tady dotyčný byl. 
 
-Vydří značkovací místo kontroluje i např. liška či jezevec. Je běžné, že savčí druhy, které se orientují čichem kontrolují i značky jiných druhů.
+Vydří značkovací místo kontroluje i např. liška či jezevec. Je běžné, že savčí druhy, které se orientují čichem kontrolují i značky jiných druhů.
 
 Vydří značky vlastně kontrolujeme i my. Značkování vyder je vlastně úplný základ v monitoringu populací vyder, i ve složitějším výzkumu. 
 
-
-
-_Není kámen jako kámen. Některé jsou přímo speciální. Jako tento. Svým tvarem a pozicí vybízí všechny savce k návštěvě. A zejména vydry. _
-
-
+_Není kámen jako kámen. Některé jsou přímo speciální. Jako tento. Svým tvarem a pozicí vybízí všechny savce k návštěvě. A zejména vydry. 
+_
 
 ![](/media/cdy00100_610.jpg)
+
+![](/media/spojene_loga_610.jpg)
