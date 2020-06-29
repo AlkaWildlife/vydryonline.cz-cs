@@ -20,9 +20,16 @@ Vydří značkovací místo kontroluje i např. liška či jezevec. Je běžné,
 
 Vydří značky vlastně kontrolujeme i my. Značkování vyder je vlastně úplný základ v monitoringu populací vyder, i ve složitějším výzkumu. 
 
-_Není kámen jako kámen. Některé jsou přímo speciální. Jako tento. Svým tvarem a pozicí vybízí všechny savce k návštěvě. A zejména vydry. 
-_
+_Není kámen jako kámen. Některé jsou přímo speciální. Jako tento. Svým tvarem a pozicí vybízí všechny savce k návštěvě. A zejména vydry._
 
-![](/media/cdy00100_610.jpg)
+![otter marking on a stone](/media/cdy00100_610.jpg "marking otter")
+
+![otter marking on a stone](/media/cdy00033_610.jpg "marking otter")
+
+![jezevec na značkovacím kameni vydry](/media/cdy00107_610.jpg "jezevec na značkovacím kameni vydry")
+
+![liška na značkovacím kameni vyder](/media/cdy00185_610.jpg "liška na značkovacím kameni vyder")
+
+
 
 ![](/media/spojene_loga_610.jpg)
