@@ -4,8 +4,9 @@ published: true
 permalink: /ke-stazeni/bulletin-vydra/bulletin-vydra-17
 image: /media/cover_610.JPG
 long_title: Bulletin vydra 17
+description: publikováno 2018
 listed: true
-position: 1
+position: 2
 layout: two_columns_page
 aside_title: další čísla
 ---
