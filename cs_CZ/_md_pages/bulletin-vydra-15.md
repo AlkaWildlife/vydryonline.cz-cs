@@ -3,10 +3,12 @@ title: Bulletin Vydra 15
 published: true
 permalink: /ke-stazeni/bulletin-vydra/bulletin-vydra-15
 image: /media/bulletin_vydra_15.jpg
-long_title: ''
+long_title: Bulletin Vydra 15
+description: publikováno 2012
 listed: true
-position: 3
+position: 4
 layout: two_columns_page
+aside_title: další čísla
 ---
 **Bulletin Vydra 15**
 
