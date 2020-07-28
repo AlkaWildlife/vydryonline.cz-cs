@@ -9,8 +9,12 @@ position: 1
 layout: two_columns_page
 aside_title: další čísla
 ---
-**Bulletin VYDRA 17**\
-komplet\
+**Bulletin VYDRA 17**
+
+publikováno 2018
+
+\
+**komplet**\
 [PDF (9 MB)](/media/Bulletin_VYDRA_17.pdf)
 
 **Úvodní strany**\
