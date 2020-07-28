@@ -8,6 +8,7 @@ description: publikováno 2015
 listed: true
 position: 3
 layout: two_columns_page
+aside_title: další čísla
 ---
 **Bulletin Vydra 16**
 
