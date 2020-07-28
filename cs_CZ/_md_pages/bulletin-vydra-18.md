@@ -2,6 +2,7 @@
 title: Bulletin Vydra 18
 published: true
 permalink: /ke-stazeni/bulletin-vydra/bulletin-vydra-17
+description: 'číslo je právě otevřeno, příspěvky jsou postupně publikovány'
 listed: false
 position: 1
 layout: two_columns_page
