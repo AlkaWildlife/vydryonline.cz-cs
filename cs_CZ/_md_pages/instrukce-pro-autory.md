@@ -1,7 +1,8 @@
 ---
 title: Instrukce pro autory
-permalink: "/ke-stazeni/bulletin-vydra/instrukce-pro-autory"
 published: true
+permalink: /ke-stazeni/bulletin-vydra/instrukce-pro-autory
+description: 'Instrukce pro autory příspěvků, v současnosti přijímáme příspěvky do čísla 18'
 listed: true
 position: 4
 layout: single_column_page
