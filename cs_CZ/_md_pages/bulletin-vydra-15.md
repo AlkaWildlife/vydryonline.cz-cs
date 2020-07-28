@@ -1,9 +1,9 @@
 ---
 title: Bulletin Vydra 15
-permalink: "/ke-stazeni/bulletin-vydra/bulletin-vydra-15"
-image: "/media/bulletin_vydra_15.jpg"
-long_title: Bulletin Vydra 15/2012
 published: true
+permalink: /ke-stazeni/bulletin-vydra/bulletin-vydra-15
+image: /media/bulletin_vydra_15.jpg
+long_title: ''
 listed: true
 position: 3
 layout: two_columns_page
