@@ -12,6 +12,6 @@ lang_alternatives:
 ---
 číslo je otevřeno
 
-
-
 JEDNOTLIVÉ PŘÍSPĚVKY
+
+Ernest Bethlenfalvy a ochrana vydry riečnej / _strany 4-9 (Rešerše)_ / Peter Urban / [PDF (1 MB)](/media/Urban_4_9.pdf)
