@@ -35,8 +35,6 @@ _Flájský potok v Českém Jiřetíně. Potok pod silnicí protéká podmostím
 
 _A co tady? Jez vydra nepřekoná a boční zdi také ne. Klasický problém v našich městech. Pokud chce vydra putovat dál proti či po proudu musí na dlouhé desítky metrů ven z „koryta“ tohoto „kanálu“. A kam se dostane? Do intravilánu Předlice, místní části Ústí nad Labem  - domy, jedna silnice, druhá silnice, železnice i dálnice. To vše si může prohlédnout._
 
-
-
-Realizováno v rámci projektu [Lutra lutra_._](/projekty/projekt-lutra-lutra)__
+Realizováno v rámci projektu [Lutra lutra](/projekty/projekt-lutra-lutra)
 
 ![](/media/spojene_loga_610.jpg)
