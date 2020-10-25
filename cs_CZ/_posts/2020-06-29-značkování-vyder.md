@@ -30,6 +30,6 @@ _Není kámen jako kámen. Některé jsou přímo speciální. Jako tento. Svým
 
 ![liška na značkovacím kameni vyder](/media/cdy00185_610.jpg "liška na značkovacím kameni vyder")
 
-
-
 ![](/media/spojene_loga_610.jpg)
+
+Vytvořeno v rámci projektu [Lutra lutra](/projekty/projekt-lutra-lutra).
