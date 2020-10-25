@@ -22,3 +22,5 @@ Připraveny jsou vydří hry, info materiály, vydřák Nando možná poběží 
 Více informací o Run Festu [zde](http://konkordia-decin.cz/decin-run-fest/).
 
 ![](/media/spojene_loga_610.jpg)
+
+Realizováno v rámci projektu [Lutra lutra](/projekty/projekt-lutra-lutra).
