@@ -126,7 +126,7 @@ vydry dlouhodobě stabilní vhodné prostředí.
 
 [Vydrynasilnici.cz se zažlutilo](/news/vydrynasilnici-cz-se-za%C5%BElutilo)
 
-[Mýval severní v Krušných horách](/news/mýval-severní-v-krušných-horách)
+[Mýval severní v Krušných horách](https://www.alkawildlife.eu/news/m%C3%BDval-severn%C3%AD-v-kru%C5%A1n%C3%BDch-hor%C3%A1ch)
 
 [Sněhem za vydří DNA](/news/sněhem-za-vydří-dna)
 
