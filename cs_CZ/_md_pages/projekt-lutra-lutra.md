@@ -135,9 +135,9 @@ vydry dlouhodobě stabilní vhodné prostředí.
 [Začínáme výzkum vyder v Krušných
 horách](/news/zaciname-vyzkum-vyder-v-krusnych-horach)
 
-# Výstupy a výsledky projektu
+# **Výstupy a výsledky projektu**
 
-## Akce
+## **Akce**
 
 Bohužel vlivem restrikcí z důvodu pandemie koronaviru byla většina plánovaných akcí pro veřejnost postupně zrušena. O to více připravujeme výstupů online. 
 
@@ -145,7 +145,7 @@ Bohužel vlivem restrikcí z důvodu pandemie koronaviru byla většina plánova
 
 11.4.2018 [Konference Lutra lutra](/news/konference-lutra-lutra)
 
-## Články v médiích
+## **Články v médiích**
 
 [Proč je medvídek mýval v naší přírodě takový problém?](https://ekolist.cz/cz/publicistika/priroda/proc-je-medvidek-myval-v-nasi-prirode-takovy-problem) (ekolist.cz, 29.3.2019)
 
