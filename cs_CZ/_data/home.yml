@@ -27,7 +27,7 @@ gallery:
 appeal:
   body: "# Výzva\n\nV\_celé ČR se organizuje sběr nalezených uhynulých vyder. Jejich\ntěla se využívají pro celou řadu specifických analýz a\_slouží také\nk\_identifikaci rizikových míst na silnicích. Sběr je prováděn na\nzákladě hlášení nálezů od veřejnosti.\n\n## Pokud jste našli mrtvou vydru\n\n[kontaktujte nás!](/vydra/vydry-a-silnice/vyzva)\n\n"
 other:
-  body: |-
-    # [Mapa úhynů](http://www.vydrynasilnici.cz/cs?layers=35,42,41,40)
+  body: >-
+    # [Mapa úhynů
 
-    ![](/media/vydrynasilnici_odkaz_200.jpg)
+    ![](/media/vydrynasilnici_odkaz_200.jpg)](http://www.vydrynasilnici.cz/cs?layers=35,42,41,40)
