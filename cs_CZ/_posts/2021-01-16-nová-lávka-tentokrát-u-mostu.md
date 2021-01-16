@@ -14,8 +14,6 @@ Další lávka pro vydry a středně velké savce byla instalovaná u Mostu. Nac
 
 Za spolupráci a povolení instalace děkujeme [Povodí Odry](https://www.pod.cz/). 
 
-
-
 _Přímo na místě jsme smontovali několik pěkných "laviček", piknik jsme ale nechystali, ledaže bychom si sedli pod most._
 
 ![](/media/img_2525.jpg)
