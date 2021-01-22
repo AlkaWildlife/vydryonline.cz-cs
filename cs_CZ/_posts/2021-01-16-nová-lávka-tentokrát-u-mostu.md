@@ -12,7 +12,7 @@ layout: news
 ---
 Další lávka pro vydry a středně velké savce byla instalovaná u Mostu. Nachází se na malém potoce západně od města Most, i zde již vydry žijí. A tak, aby nechodily přes velmi rušnou silnici, protože pod mostem je hodně vody, instalovali jsme zde dřevěnou lávku. Jak už jsme informovali nedávno, takové lávky na boku mostní opěry využívají k procházení mostem vydry, kuny i lasičky. Tentokrát jsme ale museli vymyslet trochu jiné technické řešení, protože most je velmi nízký a hladina bahna a vody je poměrně vysoká. Lávku jsme proto nefixovali k opěře, ale je samonosná, na místě jsme ji museli montovat a „šoupat“ pod most. 
 
-Za spolupráci a povolení instalace děkujeme [Povodí Odry](https://www.pod.cz/). 
+Za spolupráci a povolení instalace děkujeme [Povodí Ohře](https://www.pod.cz/). 
 
 _Přímo na místě jsme smontovali několik pěkných "laviček", piknik jsme ale nechystali, ledaže bychom si sedli pod most._
 
