@@ -16,11 +16,15 @@ Pokud máte dotazy, podněty k diskusi či připomínky, můžete nám napsat na
 
 
 
+
+
 # Projekt Lutra lutra
 
 Přednáška shrnující cíle, aktivity, výstupy a velmi stručně také základní výsledky projektu, který probíhal tři roky v česko-saském pohraničí. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pT3rS-r6kqU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 
 
@@ -32,11 +36,15 @@ Výskyt vydry říční v oblasti Krušných hor prošel v minulosti dramatický
 
 
 
+
+
 # Genetická struktura populace vydry říční v Krušných horách
 
 Cílem genetické studie bylo zjistit původ krušnohorských vyder a zhodnotit tok genů. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q1XTXXnSSj4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 
 
