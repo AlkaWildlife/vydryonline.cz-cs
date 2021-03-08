@@ -1,6 +1,6 @@
 ---
 title: Přednášky o vydrách z Krušných hor
-published: false
+published: true
 image: /media/projekt-lutra-lutra.jpg
 listing_thumbnail: /media/projekt-lutra-lutra_274.jpg
 description: 'Výsledky projektu Lutra lutra jsou přístupné ve formě série online přednášek. '
