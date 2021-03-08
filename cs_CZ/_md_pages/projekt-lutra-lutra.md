@@ -145,7 +145,9 @@ Bohužel vlivem restrikcí z důvodu pandemie koronaviru byla většina plánova
 
 11.4.2018 [Konference Lutra lutra](/news/konference-lutra-lutra)
 
-## **Články v médiích**
+## **Články a reportáže v médiích**
+
+[Vydry v Krušných horách](https://www.ceskatelevize.cz/ivysilani/1097181328-udalosti/221411000100307/obsah/825000-vydry-v-krusnych-horach) (Česká televize, Události 7.3.2021)
 
 [Proč je medvídek mýval v naší přírodě takový problém?](https://ekolist.cz/cz/publicistika/priroda/proc-je-medvidek-myval-v-nasi-prirode-takovy-problem) (ekolist.cz, 29.3.2019)
 
