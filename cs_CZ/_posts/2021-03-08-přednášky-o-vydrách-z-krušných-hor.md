@@ -56,4 +56,4 @@ Potravní nabídka je jednou ze základních potřeb pro každý druh. Vodní pr
 
 <br/>
 
-![](/media/spojene_loga_610.jpg)
+![](/media/složene-03.png)
