@@ -168,4 +168,8 @@ Bohužel vlivem restrikcí z důvodu pandemie koronaviru byla většina plánova
 
 ## Putování s vydrou
 
-série krátkých videí o tocích Krušných hor
+série krátkých videí o tocích Krušných hor 
+
+## Články a publikace
+
+[Bulletin Vydra 17: Projekt Lutra lutra – přeshraniční spolupráce k výzkumu a ochraně vydry říční v Krušných horách a podkrušnohoří](/media/Polednikova_etal_54_57.pdf)
