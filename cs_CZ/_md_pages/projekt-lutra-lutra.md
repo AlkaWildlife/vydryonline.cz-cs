@@ -155,3 +155,17 @@ Bohužel vlivem restrikcí z důvodu pandemie koronaviru byla většina plánova
 
 [Vědci hledají cestu k Ohři pro německé vydry, aby se tu opět zabydlely
 ](https://www.idnes.cz/usti/zpravy/vydra-ricni-populace-vedecky-projekt-krusne-hory-reka-ohre.A171215_370900_usti-zpravy_vac2) (idnes.cz, 18.12.2017)
+
+## Zprávy
+
+[Riziková místa pro vydru říční na silnicích pro Ústecký kraj (pdf)](/media/Riziková_místa_vydra_Krušné_Mostecko_2.pdf)
+
+[Zhodnocení prostředí toků z pohledu vydry říční pro Ústecký kraj (pdf)](</media/charakteristika toku_vydra_Krusne_Mostecko_2.pdf>)
+
+## Online přednášky
+
+[série online přednášek o výsledcích projektu](/news/přednášky-o-vydrách-z-krušných-hor)
+
+## Putování s vydrou
+
+série krátkých videí o tocích Krušných hor
