@@ -14,7 +14,7 @@ Pojďte se podívat, kde žijí vydry v severních Čechách. Tento velmi specif
 
 <br/> 
 
-## Krušné hory a Podkrušnohoří
+## **Krušné hory a Podkrušnohoří**
 
 Úvodní video
 
@@ -23,7 +23,7 @@ Pojďte se podívat, kde žijí vydry v severních Čechách. Tento velmi specif
 <br/>
 <br/>
 
-## Krušnohorská rašeliniště
+## **Krušnohorská rašeliniště**
 
 Na hřebeni Krušných hor se nachází rašeliniště na ploše několika tisíc hektarů.
 
@@ -32,7 +32,7 @@ Na hřebeni Krušných hor se nachází rašeliniště na ploše několika tisí
 <br/>
 <br/>
 
-## Bystřiny Krušných hor
+## **Bystřiny Krušných hor**
 
 Potoky tekoucí z Krušných hor na jih, tedy do Čech, ztékají krátkými prudkými údolími, a proto mají bystřinný charakter.
 
@@ -41,11 +41,20 @@ Potoky tekoucí z Krušných hor na jih, tedy do Čech, ztékají krátkými pru
 <br/>
 <br/>
 
-## Prunéřovský potok
+## **Prunéřovský potok**
 
 Prunéřovský potok postihl typický osud Krušnohorských potoků.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xbYdnc3G0SI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br/>
+<br/>
+
+## **Bílina**
+
+Bílina je nejsmutnější řekou u nás.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jOUCfgkfaLU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br/>
 <br/>
