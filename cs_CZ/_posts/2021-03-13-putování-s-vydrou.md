@@ -1,6 +1,6 @@
 ---
 title: 'Putování s vydrou '
-published: false
+published: true
 image: /media/dji_0903_620.jpg
 listing_thumbnail: /media/dji_0903_274.jpg
 description: 'série videí o řekách Krušných hor a Mostecké pánve '
