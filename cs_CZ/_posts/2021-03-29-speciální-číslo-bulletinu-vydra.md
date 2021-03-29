@@ -1,6 +1,6 @@
 ---
 title: Speciální číslo Bulletinu Vydra
-published: false
+published: true
 image: /media/bulletin_vydra_19_cover_l_620.jpg
 listing_thumbnail: /media/bulletin_vydra_19_cover_l_273.jpg
 description: Speciální číslo Bulletinu Vydra o vydrách z Krušných hor vychází.
@@ -18,20 +18,30 @@ Bulletin Vydra číslo 19 je celý věnován výsledkům [projektu Lutra lutra](
 
 Tak jako předchozí čísla jsou všechny články Bulletinu volně dostupné online, níže. Protože se ale jedná o speciální číslo, bylo také připraveno v tištěné podobě - napište nám a my jej pošleme poštou. Projekt Lutra lutra byl postaven na česko-německé spolupráci a výzkum probíhal na obou stranách státní hranice. Proto vychází toto číslo také nezvykle v německé mutaci. 
 
+<br/>
 
+[Celé číslo v jednom souboru (20 MB)](/media/bulletin_VYDRA_19_complet_web.pdf)
 
-Celé číslo v jednom souboru (20 MB)
+<br/>
 
+[Poledník L., Künzelmann B., Beran V., Zápotočný Š., Poledníková K.: Výskyt vydry říční ve východní části Krušných hor a jejich podhůří v České republice a Sasku v letech 2019   2020](/media/bulletin_VYDRA_19_Polednik_etal_occurence_7_25.pdf) 
 
+<br/>
 
-Poledník L., Künzelmann B., Beran V., Zápotočný Š., Poledníková K.: Výskyt vydry říční ve východní části Krušných hor a jejich podhůří v České republice a Sasku v letech 2019   2020 
+[Cocchiararo B., Poledník L., Künzelmann B., Beran V., Nowak C.: Genetická struktura populace vydry říční v Krušných horách](/media/bulletin_VYDRA_19_Cocchiararo_etal_26_35.pdf) 
 
-Cocchiararo B., Poledník L., Künzelmann B., Beran V., Nowak C.: Genetická struktura populace vydry říční v Krušných horách 
+<br/>
 
-Poledník L., Poledníková K., Mateos-González F., Künzelmann B., Zápotočný Š.: Potravní nabídka pro vydru říční v oblasti Krušných hor a Podkrušnohoří  
+[Poledník L., Poledníková K., Mateos-González F., Künzelmann B., Zápotočný Š.: Potravní nabídka pro vydru říční v oblasti Krušných hor a Podkrušnohoří](/media/bulletin_VYDRA_19_Polednik_etal_prey_36_59.pdf)  
 
-Poledník L., Poledníková K., Mateos-González F., Beran V., Zápotočný Š.: Složení potravy vydry říční v různém prostředí v oblasti Krušných hor a Podkrušnohoří  
+<br/>
 
+[Poledník L., Poledníková K., Mateos-González F., Beran V., Zápotočný Š.: Složení potravy vydry říční v různém prostředí v oblasti Krušných hor a Podkrušnohoří](/media/bulletin_VYDRA_19_Polednik_etal_diet_60_76.pdf)  
 
+<br/>
 
-Beran V. a Poledníková K.: Putovní výstava Ich bin ein vydra, aneb jak vydra přes hranici přišla
+[Beran V. a Poledníková K.: Putovní výstava Ich bin ein vydra, aneb jak vydra přes hranici přišla](/media/bulletin_VYDRA_19_Beran_77_99.pdf)
+
+<br/>
+
+![](/media/složene-03.png)
