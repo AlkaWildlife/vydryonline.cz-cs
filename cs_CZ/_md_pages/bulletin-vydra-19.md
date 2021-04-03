@@ -35,9 +35,11 @@ kompletní číslo [(PDF 20 MB)](/media/bulletin_VYDRA_19_complet_web.pdf)
 
 # německá verze / deutsche Version
 
-**Vorkommen des Fischotters im Osterzgebirge und im Erzgebirgsvorland in Sachsen und in der Tschechischen republik 2019-2020** / Poledník L., Künzelmann B., Beran V., Zápotočný Š., Poledníková K. / strany 7-25 / (PDF; 4 MB) 
+****[**komplette Edition (19 MB)**](/media/bulletin_VYDRA_german_web.pdf)****
 
-**Genetische struktur der Fischotterpopulation im Erzgebirge** / Cocchiararo B., Poledník L., Künzelmann B., Beran V., Nowak C. / strany 26-35 / (PDF; 1,5 MB)
+**Vorkommen des Fischotters im Osterzgebirge und im Erzgebirgsvorland in Sachsen und in der Tschechischen republik 2019-2020** / Poledník L., Künzelmann B., Beran V., Zápotočný Š., Poledníková K. / strany 7-25 / ([PDF; 4 MB](/media/bulletin_VYDRA_Deutsche_Vorkommen.pdf)) 
+
+**Genetische struktur der Fischotterpopulation im Erzgebirge** / Cocchiararo B., Poledník L., Künzelmann B., Beran V., Nowak C. / strany 26-35 / ([PDF; 1,5 MB](/media/bulletin_VYDRA_Deutsche_Genetische.pdf))
 
 ** Das Nahrungsdargebot fur den Fischotter im Erzgebirge und im Erzgebirgsvorland **/ Poledník L., Poledníková K., Mateos-González F., Künzelmann B., Zápotočný Š. / strany 36-59 / (PDF; 5 MB)
 
