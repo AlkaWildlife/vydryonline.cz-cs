@@ -41,7 +41,7 @@ kompletní číslo [(PDF 20 MB)](/media/bulletin_VYDRA_19_complet_web.pdf)
 
 **Genetische struktur der Fischotterpopulation im Erzgebirge** / Cocchiararo B., Poledník L., Künzelmann B., Beran V., Nowak C. / strany 26-35 / ([PDF; 1,5 MB](/media/bulletin_VYDRA_Deutsche_Genetische.pdf))
 
-** Das Nahrungsdargebot fur den Fischotter im Erzgebirge und im Erzgebirgsvorland **/ Poledník L., Poledníková K., Mateos-González F., Künzelmann B., Zápotočný Š. / strany 36-59 / ([PDF; 5 MB](/media/bulletin_VYDRA_Deutsche_Nahrungsdargebot.pdf))
+**Das Nahrungsdargebot fur den Fischotter im Erzgebirge und im Erzgebirgsvorland** / Poledník L., Poledníková K., Mateos-González F., Künzelmann B., Zápotočný Š. / strany 36-59 / ([PDF; 5 MB](/media/bulletin_VYDRA_Deutsche_Nahrungsdargebot.pdf))
 
 **Zusammensetzung der Nahrung des Fischotters in Unterschiedlichen gewasserhabitaten in Bereich des Erzgebirges und des Erzgebirgsvorlandes** / Poledník L., Poledníková K., Mateos-González F., Beran V., Zápotočný Š. / strany 60-76 / ([PDF; 2,3 MB](/media/bulletin_VYDRA_Deutsche_Nahrung.pdf))
 
