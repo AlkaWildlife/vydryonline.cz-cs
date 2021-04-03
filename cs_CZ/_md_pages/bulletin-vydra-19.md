@@ -35,7 +35,7 @@ kompletní číslo [(PDF 20 MB)](/media/bulletin_VYDRA_19_complet_web.pdf)
 
 # německá verze / deutsche Version
 
-****[**komplette Edition (19 MB)**](/media/bulletin_VYDRA_german_web.pdf)****
+[**komplette Edition (19 MB)**](/media/bulletin_VYDRA_german_web.pdf)
 
 **Vorkommen des Fischotters im Osterzgebirge und im Erzgebirgsvorland in Sachsen und in der Tschechischen republik 2019-2020** / Poledník L., Künzelmann B., Beran V., Zápotočný Š., Poledníková K. / strany 7-25 / ([PDF; 4 MB](/media/bulletin_VYDRA_Deutsche_Vorkommen.pdf)) 
 
