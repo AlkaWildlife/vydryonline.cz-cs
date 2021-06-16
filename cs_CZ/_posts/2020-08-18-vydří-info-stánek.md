@@ -6,6 +6,7 @@ description: Infostánek o vydře říční v Děčíně 30.8.2020
 date: '2020-08-18'
 lang_alternatives:
   en_GB: {}
+logoset: SN_CZ
 category: news
 layout: news
 ---
