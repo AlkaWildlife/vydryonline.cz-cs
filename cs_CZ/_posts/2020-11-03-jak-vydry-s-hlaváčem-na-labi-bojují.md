@@ -7,6 +7,7 @@ description: Vydry na Labi ve velkém konzumují invazního hlaváče černoúst
 date: '2021-01-05'
 lang_alternatives:
   en_GB: {}
+logoset: SN_CZ
 category: news
 layout: news
 ---
@@ -17,8 +18,6 @@ Hlaváč černoústý je druh původní v povodí Černého, Kaspického a Azovs
 ![hlaváč černoústý](/media/hlavac_cernousty_620.jpg "hlaváč černoústý")
 
 _hlaváč černoústý,_ _Neogobius melanostomus, autor foto Viktor Vrbovský_
-
-
 
 V rámci mezinárodního projektu Lutra lutra v severních Čechách probíhá rozsáhlý výzkum týkající se vydry říční. Mimo jiné se odborníci také dívají na to, co vydry v této oblasti žerou. To se sleduje rozborem jejich trusu. „_Prohlížel jsem vzorky trusu sesbíraného z dolního úseku řeky Bíliny. Ač je Bílina stále velmi znečištěná řeka, vydry ji využívají a žerou zde hlavně hrouzky, jelce, kapry a střevličky_,“ začíná vysvětlovat Lukáš Poledník, zoolog ALKA Wildlife. „_Byla to již trochu rutina, když jsem narazil na kost, která mi byla povědomá, ale již jsem ji dlouho neviděl. Kosti hlaváče černoústého totiž znám z rozborů potravy vyder z delty Dunaje v Rumunsku. Jsou velmi dobře identifikovatelné._“ Tento nález okamžitě vyvolal další terénní výzkum. 
 
