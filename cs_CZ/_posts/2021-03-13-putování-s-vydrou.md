@@ -7,6 +7,7 @@ description: 'série videí o řekách Krušných hor a Mostecké pánve '
 date: '2021-03-13'
 lang_alternatives:
   en_GB: {}
+logoset: SN_CZ
 category: news
 layout: news
 ---
