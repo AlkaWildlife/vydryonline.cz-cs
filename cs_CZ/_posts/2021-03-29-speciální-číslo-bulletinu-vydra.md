@@ -7,6 +7,7 @@ description: Speciální číslo Bulletinu Vydra o vydrách z Krušných hor vyc
 date: '2021-03-29'
 lang_alternatives:
   en_GB: {}
+logoset: SN_CZ
 category: news
 layout: news
 ---
