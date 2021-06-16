@@ -7,6 +7,7 @@ description: Další lávka pro vydry a středně velké savce byla instalovaná
 date: '2021-01-16'
 lang_alternatives:
   en_GB: {}
+logoset: SN_CZ
 category: news
 layout: news
 ---
