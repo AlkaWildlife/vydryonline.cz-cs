@@ -1,8 +1,9 @@
 ---
 title: Konference Lutra lutra
-image: "/media/flyer-cz.jpg"
 published: true
-date: 2018-03-22
+image: /media/flyer-cz.jpg
+date: 2018-03-22T00:00:00.000Z
+logoset: SN_CZ
 category: news
 layout: news
 ---
