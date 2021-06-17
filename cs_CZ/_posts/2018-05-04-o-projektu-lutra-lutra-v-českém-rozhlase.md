@@ -1,9 +1,10 @@
 ---
 title: O projektu Lutra lutra v Českém rozhlase
+published: true
 image: /media/vydra_888_bohdal_610.jpg
 listing_thumbnail: /media/vydra_888_bohdal_274.jpg
-published: true
 date: '2018-05-04'
+logoset: SN_CZ
 category: news
 layout: news
 ---
