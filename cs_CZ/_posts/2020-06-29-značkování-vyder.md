@@ -9,6 +9,7 @@ description: >-
 date: '2020-06-29'
 lang_alternatives:
   en_GB: {}
+logoset: SN_CZ
 category: news
 layout: news
 ---
