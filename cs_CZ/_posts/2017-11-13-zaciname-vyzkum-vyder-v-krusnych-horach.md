@@ -1,8 +1,9 @@
 ---
-title: Začínáme výzkum vyder v Krušných horách
-image: "/media/a_ID0221_610.JPG"
+title: "Začínáme výzkum vyder v\_Krušných horách"
 published: true
-date: 2017-11-13
+image: /media/a_ID0221_610.JPG
+date: 2017-11-13T00:00:00.000Z
+logoset: SN_CZ
 category: news
 layout: news
 ---
