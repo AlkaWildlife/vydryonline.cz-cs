@@ -8,6 +8,7 @@ description: >-
 date: '2019-02-06'
 lang_alternatives:
   en_GB: {}
+logoset: SN_CZ
 category: news
 layout: news
 ---
